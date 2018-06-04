@@ -1,0 +1,972 @@
+MBC_id	Process	Level	Querry	Parent_mbc_id	Parent_process	Search_finished
+MBC:0000001	Molecular Biology of the Cell	0	Molecular Biology of the Cell	E_m_p_t_y	E_m_p_t_y	False
+MBC:0000002	Amino acid metabolism	1	"((""Amino acid metabolism"") OR (""Amino acids metabolism"")) AND (enzyme) AND ((human) OR (animal) OR (mammal) OR (muscle) OR (liver) OR (kidney))"	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000003	Cell cycle and cell division	1	"(""cell cycle"") OR (""Cell division"")"	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000004	Cell differentiation markers	1	"Cell AND ""differentiation markers"" AND (humans OR mice OR mammals)"	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000005	Cell junction dynamics	1	"(""Cell junction"") OR (""Cell junctions"")"	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000006	Cellular circadian clock dynamics	1	"Regulation AND ""cellular circadian clock"" AND (human OR mammals OR mice)"	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000007	Cellular communication	1	"(""cellular communication"") OR (""signaling pathways"")"	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000008	Cellular contraction	1	"(""Cellular contraction"") OR (""Cell contraction"")"	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000009	Cellular detoxification	1	"(cell) AND (""detoxification"") AND (enzyme) AND ((human) OR (mammal) OR (animal))"	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000010	Cellular protrusion organization	1	(Cellular) AND (protrusion)	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000011	Cellular redox homeostasis	1	(Cellular) AND (redox) AND (homeostasis)	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000012	Cellular response to stress	1	"(Cellular) AND ((""stress response"") OR (""response to stress""))"	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000013	Chromatin and histone dynamics	1	"(""Chromatin remodeling"") OR (""nucleosome"") OR ((Histone) AND (modification))"	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000014	Circadian clock mediated cellular regulation	1	"clock AND ""cellular"" AND ""regulation"" AND (humans and mice and mammals)"	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000015	Coagulation cascade, complement system and blood protein dynamics	1	"(Coagulation cascade) OR (complement system) OR (""Acute-phase response proteins"") OR (""Acute-phase response protein"") OR ((""Albumin"") AND (""protein transport"")) OR (""Plasma Immunoglobulins"")"	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000016	Cytoskeleton dynamics	1	Cytoskeleton dynamics	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000017	DNA replication, recombination and repair	1	DNA replication, recombination and repair	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000018	Energy generation and metabolism of cellular monomers	1	"(Mammalian) AND (cellular) AND ((energy generation) OR ((Metabolism) AND ((glucose) OR (""amino acid"") OR (""amino acids"") OR (""fatty acid"") OR (""fatty acids"") OR (purine) OR (pyrimidine))))"	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000019	Extracellular matrix homeostasis	1	"(""Extracellular matrix"") AND ((homeostasis) OR (dynamics) OR (""turn-over""))"	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000020	Gene expression	1	Gene expression	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000021	Intracellular degradation pathways	1	(Autophagy) OR (Lysosomal degradation) OR (Proteasomal degradation)	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000022	Intracellular vesicle traffic	1	Intracellular vesicle traffic	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000023	Iron, heme and hemoglobin homeostasis	1	"(""Heme metabolism"") OR (""hemoglobin metabolism"") OR (""Heme synthesis"") OR (""hemoglobin synthesis"") OR (""Heme catabolism"") OR (""hemoglobin catabolism"") OR (""Heme degradation"") OR (""Hemoglobin degradation"") OR ((""Iron homeostasis"") AND (human))"	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000024	Lipid metabolism	1	Lipid metabolism	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000025	Membrane transport of small molecules and electrical properties of membranes	1	(ion) AND ((transmembrane) AND ((transport) OR (Channel) OR (symport) OR (Antiport) OR (ATPase)))	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000026	Mitochondrial gene expression	1	"(""Mitochondrial gene expression"")"	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000027	Neurotransmission	1	(Neurotransmission)	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000028	Nucleotide metabolism	1	Nucleotide metabolism	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000029	Organelle organization	1	"(""ER structure"") OR (""endoplasmic reticulum structure"") OR (""nuclear envelope structure"") OR (""ER network"") OR (""endoplasmic network"") OR (((Golgi) OR (TGN)) AND (organization) AND ((structure) OR (architecture))) OR (((""cell nucleus"") OR (""nucleoskeleton"") OR (""nuclear membrane"") OR (""nuclear chromatin"")) AND (interphase)) OR ((""mitochondrial dynamics""))"	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000030	Plasma Lipoprotein dynamics	1	"Plasma Lipoprotein AND (""Assembly"" OR ""remodeling"" OR ""clearance"")"	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000031	Posttranslational protein modification	1	"(""Post-translational modification"") NOT (phosphorylation)"	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000032	Regulated cell death	1	"(""Regulated cell death"")"	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000033	Regulation of cell differentiation	1	"Regulation AND ""cell differentiation"""	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000034	Regulation of cell morphogenesis	1	"Regulation AND ""cell morphogenesis"" AND (human OR mammals OR mice)"	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000035	RNA mediated cellular regulation	1	"RNA AND (""cellular"" OR ""cell"") AND ""regulation"""	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000036	Transmembrane protein import and translocation	1	"(Transmembrane) AND ((""protein import"") OR (""protein export"") OR (""protein transport"") OR (""protein translocation"")) NOT (bacterial) NOT (plant)"	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000037	Vitamin metabolism	1	"((""biotin biosynthesis"") OR (""biotin synthesis"") OR (""niacin biosynthesis"") OR (""nicotinic acid biosynthesis"") OR (""NAD biosynthesis"") OR (""NADP biosynthesis"") OR (""riboflavin biosynthesis"") OR (""FMN biosynthesis"") OR (""FAD biosynthesis"") OR (""vitamin B12 biosynthesis"") OR (""cobalamin biosynthesis"") OR (""vitamin B12 synthesis"") OR (""cobalamin synthesis"") OR (""vitamin A biosynthesis"") OR (""retinol biosynthesis"") OR (""retinal biosynthesis"") OR (""retinic acid biosynthesis"") OR (""vitamin K biosynthesis"") OR (""phylloquinone biosynthesis"") OR (""vitamin C biosynthesis"") OR (""ascorbic acid biosynthesis"") OR (""vitamin B1 biosynthesis"") OR (""thiamine metabolism"")) AND (enzyme)"	MBC:0000001	Molecular Biology of the Cell	True
+MBC:0000038	Actin filament dynamics	2	"(""Actin dynamics"")"	MBC:0000016	Cytoskeleton dynamics	True
+MBC:0000039	Ammonium metabolism	2	"((((""amino acid"") OR (""amino acids"") OR (""alpha-keto acid"") OR (""alpha-keto acids"")) AND ((amination) OR (deamination))) OR ((Transamination) AND (aminotransferase)) OR (""urea cycle"") OR (""urea metabolism"")) AND (enzyme) AND ((human) OR (animal) OR (mammal) OR (muscle) OR (liver) OR (kidney))"	MBC:0000002	Amino acid metabolism	True
+MBC:0000040	Amyloid generation and aggregation	2	"(""amyloid"") AND ((generation) OR (aggregation))"	MBC:0000019	Extracellular matrix homeostasis	True
+MBC:0000041	Antigen presentation	2	"(""antigen presentation"") AND (""MHC class"")"	MBC:0000022	Intracellular vesicle traffic	True
+MBC:0000042	Apoptosis	2	Apoptosis	MBC:0000032	Regulated cell death	True
+MBC:0000043	Autophagy	2	(Autophagy) AND ((pathways) OR (types) OR (mechanisms))	MBC:0000021	Intracellular degradation pathways	True
+MBC:0000044	Basement membrane dynamics	2	"(""Basement membrane"")"	MBC:0000019	Extracellular matrix homeostasis	True
+MBC:0000045	Blood protein dynamics	2	"(""Acute-phase response proteins"") OR (""Acute-phase response protein"") OR ((""Albumin"") AND (""protein transport"")) OR (""Plasma Immunoglobulins"")"	MBC:0000015	Coagulation cascade, complement system and blood protein dynamics	True
+MBC:0000046	Bombesin receptor signaling	2	"(""bombesin"") AND (signaling)"	MBC:0000007	Cellular communication	True
+MBC:0000047	Carbohydrate metabolism and transport	2	"((""Glucose metabolism"") OR (""Carbohydrate metabolism"")) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000018	Energy generation and metabolism of cellular monomers	True
+MBC:0000048	Cardiomyocyte action potential generation and propagation	2	"((((""Action potential"") AND ((depolarization) OR (hyperpolarization) OR (repolarization))) OR (pacemaker) OR (""Hyperpolarization-activated cation channels"")) AND (channel) AND (cardiomyocyte)"	MBC:0000027	Neurotransmission	True
+MBC:0000049	Cell Scenescence	2	Cell senescence AND (human OR mammals OR mice)	MBC:0000003	Cell cycle and cell division	True
+MBC:0000050	Cell-cell junction organization	2	Cell-cell junction organization	MBC:0000005	Cell junction dynamics	False
+MBC:0000051	Cell-matrix adhesion organization	2	"(""cell-matrix adhesion"") OR (""Focal adhesion"") OR (hemidesmosome)"	MBC:0000005	Cell junction dynamics	False
+MBC:0000052	Cellular antioxidant systems	2	"(Cellular) AND ((""antioxidant systems"") OR (""antioxidant system""))"	MBC:0000011	Cellular redox homeostasis	True
+MBC:0000053	Cellular circadian clock dynamics at day	2	"Day AND ((""Circadian clock"") OR (""Circadian regulation"")) NOT Plant"	MBC:0000006	Cellular circadian clock dynamics	True
+MBC:0000054	Cellular circadian clock dynamics at night	2	"Night AND ((""Circadian clock"") OR (""Circadian regulation"")) NOT Plant "	MBC:0000006	Cellular circadian clock dynamics	True
+MBC:0000055	Cellular response to energy deprivation	2	(Cellular) AND (response) AND (energy) AND (deprivation)	MBC:0000012	Cellular response to stress	True
+MBC:0000056	Cellular response to hypoxia	2	(Cellular) AND (response) AND (hypoxia)	MBC:0000012	Cellular response to stress	True
+MBC:0000057	Cellular response to oxidative stress	2	"(Cellular) AND (response) AND (""oxidative stress"")"	MBC:0000012	Cellular response to stress	True
+MBC:0000058	Cellular response to radiation	2	(Cellular) AND (response) AND (radiation)	MBC:0000012	Cellular response to stress	True
+MBC:0000059	Centrosome cycle	2	Centrosome cycle	MBC:0000003	Cell cycle and cell division	True
+MBC:0000060	Chromatin remodeling	2	"(""Chromatin remodeling"")"	MBC:0000013	Chromatin and histone dynamics	True
+MBC:0000061	Chromosome segregation by mitotic spindle	2	"((""Mitotic chromosome segregation"") OR (""Mitotic spindle"")) NOT (viral) NOT (virus)"	MBC:0000003	Cell cycle and cell division	True
+MBC:0000062	Clock mediated apoptosis	2	"Clock  AND ""apoptosis"" AND (human OR mice OR mammals) Bmal1 interference impairs hormone synthesis and promotes apoptosis in porcine granulosa cells.PMID: 28708501"	MBC:0000014	Circadian clock mediated cellular regulation	True
+MBC:0000063	Clock mediated control of cell differentiation	2	"Clock  AND ""cell differentiation""(human OR mice OR mammals)"	MBC:0000014	Circadian clock mediated cellular regulation	True
+MBC:0000064	Clock mediated control of cell division	2	"Clock  AND ""cell division"" AND (human OR mice OR mammals)"	MBC:0000014	Circadian clock mediated cellular regulation	True
+MBC:0000065	Clock mediated immune response	2	"Clock  AND ""Immune response"" AND (human OR mice OR mammals) Interleukin-17 receptor A (IL-17RA) as a central regulator of the protective immune response against Giardia."	MBC:0000014	Circadian clock mediated cellular regulation	True
+MBC:0000066	Coagulation cascade and its regulation	2	"(""Coagulation cascade"") OR (""Regulation of coagulation"")"	MBC:0000015	Coagulation cascade, complement system and blood protein dynamics	True
+MBC:0000067	Collagen biosynthesis	2	"(""Procollagen biosynthesis"") OR (""procollagen synthesis"") OR (""procollagen processing"") OR (""collagen biosynthesis"") OR (""collagen synthesis"") OR (""collagen processing"")"	MBC:0000019	Extracellular matrix homeostasis	True
+MBC:0000068	Complement pathway and regulation	2	"(""complement pathway"") OR (""complement regulation"") "	MBC:0000015	Coagulation cascade, complement system and blood protein dynamics	True
+MBC:0000069	Control of postsynaptic potential	2	(postsynaptic) AND (potential)	MBC:0000027	Neurotransmission	True
+MBC:0000070	Cortical cytoskeleton dynamics	2	"(""cortical cytoskeleton"")"	MBC:0000016	Cytoskeleton dynamics	True
+MBC:0000071	Cytokinesis	2	"(cytokinesis) AND (""cell division"") "	MBC:0000003	Cell cycle and cell division	True
+MBC:0000072	Cytoplasmic intermediate filament and septin dynamics	2	"((""Intermediate filaments"") OR (septins)) NOT (laminin)"	MBC:0000016	Cytoskeleton dynamics	True
+MBC:0000073	Cytoplasmic post-translational protein modification	2	"((""Post-translational modification"") OR (folding)) AND ((Cytosol) OR (Cytoplasm)) NOT (ER) NOT(endoplasmic)"	MBC:0000031	Posttranslational protein modification	False
+MBC:0000074	Degradation by lysosomal enzymes	2	"(""lysosomal enzymes"") OR (""lysosomal acidification"")"	MBC:0000021	Intracellular degradation pathways	True
+MBC:0000075	DNA double-strand break repair	2	"(""DNA repair"") AND (""double strand break"")"	MBC:0000017	DNA replication, recombination and repair	False
+MBC:0000076	DNA interstrand cross-links repair	2	"((""interstrand cross-links"") OR (""interstrand cross-link"")) AND (""DNA repair"")"	MBC:0000017	DNA replication, recombination and repair	False
+MBC:0000077	DNA recombination	2	"(""DNA recombination"") OR (""VDJ recombination"") OR (Transpositional recombination)"	MBC:0000017	DNA replication, recombination and repair	True
+MBC:0000078	DNA single-strand break repair	2	"(""DNA repair"") AND ((""single strand breaks"") OR (""single strand break""))"	MBC:0000017	DNA replication, recombination and repair	False
+MBC:0000079	Drug and toxin export	2	"(""Drug export"") OR (""Toxin export"")"	MBC:0000009	Cellular detoxification	True
+MBC:0000080	Elastogenesis	2	"(""elastogenesis"")"	MBC:0000019	Extracellular matrix homeostasis	True
+MBC:0000081	Endocytic pathway	2	"(""endocytic pathway"") OR ((""endosome"") AND (""endocytosis""))"	MBC:0000022	Intracellular vesicle traffic	True
+MBC:0000082	Endoplasmic reticulum and nuclear envelope organization	2	"(""ER structure"") OR (""endoplasmic reticulum structure"") OR (""nuclear envelope structure"") OR (""ER network"") OR (""endoplasmic network"") "	MBC:0000029	Organelle organization	True
+MBC:0000083	Endoplasmic reticulum membrane protein insertion and import	2	"((""Membrane protein insertion"") OR (""Protein import"") OR (""Membrane protein assembly"") OR (""Protein translocation"")) AND ((""endoplasmic reticulum"") OR (ER))"	MBC:0000036	Transmembrane protein import and translocation	True
+MBC:0000084	Epidermal growth factor family signaling	2	"((""EGFR family"") OR (""EGF family"") OR (""Epidermal growth factor family"") Or (""EGF receptor family"")) AND (signaling)"	MBC:0000007	Cellular communication	True
+MBC:0000085	Eukaryotic cilium and flagellum organization	2	((cilium) OR (cilia) OR (Flagella) OR (Flagellum)) AND (human)	MBC:0000010	Cellular protrusion organization	True
+MBC:0000086	Eukaryotic DNA replication	2	"(""DNA replication"") AND (Eukaryotic) NOT (viral) NOT (virus) NOT (bacteria) NOT (yeast)"	MBC:0000017	DNA replication, recombination and repair	True
+MBC:0000087	Extracellular matrix breakdown	2	"(""Extracellular matrix breakdown"") OR (""Extracellular matrix degradation"") OR (""Extracellular matrix proteolysis"")"	MBC:0000019	Extracellular matrix homeostasis	True
+MBC:0000088	Fatty acid metabolism	2	"(""Fatty acid"") AND (metabolism) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000024	Lipid metabolism	True
+MBC:0000089	Fibronectin matrix dynamics	2	"(""fibronectin network"") OR (""fibronectin matrix"") "	MBC:0000019	Extracellular matrix homeostasis	True
+MBC:0000090	Filopodium and lamellipodium organization	2	((filopodium) OR (filopodia) OR (lamellipodium) OR (lamellipodia)) AND (human)	MBC:0000010	Cellular protrusion organization	True
+MBC:0000091	Free radical generation for respiratory burst	2	"(radical generation) AND ((myeloperoxidase) OR (MPO) OR (""NADPH-oxidase""))"	MBC:0000011	Cellular redox homeostasis	True
+MBC:0000092	Gastrointestinal hormone signaling	2	"((""gastrin receptor"") OR (""CCKB receptor"") OR (""CCK2 receptor"") OR (""cholecystokinin B receptor"") OR (""Ghrelin receptor"") OR (""Leptin receptor signaling"") OR (""Motilin receptor"") OR (""GIP receptor"") OR (""Glucose-dependent insulinotropic polypeptide receptor"") OR (""Gastric inhibitory polypeptide receptor"") OR (""Vasoactive intestinal peptide receptor"") OR (""VIP receptor"")) AND (signaling)"	MBC:0000007	Cellular communication	True
+MBC:0000093	Glycosaminoglycan synthesis	2	"(""glycosaminoglycan biosynthesis"") OR (""glycosaminoglycan synthesis"") OR (""glycosaminoglycan production"")"	MBC:0000019	Extracellular matrix homeostasis	True
+MBC:0000094	Heme and hemoglobin metabolism	2	"(""Heme metabolism"") OR (""hemoglobin metabolism"") OR (""Heme synthesis"") OR (""hemoglobin synthesis"") OR (""Heme catabolism"") OR (""hemoglobin catabolism"") OR (""Heme degradation"") OR (""Hemoglobin degradation"")"	MBC:0000023	Iron, heme and hemoglobin homeostasis	True
+MBC:0000095	Histone modification	2	(Histone) AND (modification)	MBC:0000013	Chromatin and histone dynamics	True
+MBC:0000096	Immune receptor Signaling	2	"(""immune cell receptor"") AND (signaling)"	MBC:0000007	Cellular communication	True
+MBC:0000097	Interferon signaling	2	"(""Interferon signaling"")"	MBC:0000007	Cellular communication	True
+MBC:0000098	Interleukin receptor signaling	2	"(""Interleukin"") AND (""receptor signaling"")"	MBC:0000007	Cellular communication	True
+MBC:0000099	Interphase nucleus and nuclear chromatin organization	2	"((""cell nucleus"") OR (""nucleoskeleton"") OR (""nuclear membrane"") OR (""nuclear chromatin"")) AND (interphase)"	MBC:0000029	Organelle organization	True
+MBC:0000100	Intracellular common signaling cascades of multiple pathways	2	"((""PI3K/AKT signaling pathway"") OR (""MAPK signaling pathway"") OR (""nitric oxide signaling pathway"") OR (""JAK STAT signaling pathway"") OR (""NFKB pathway"") OR (""Calcium signaling"") OR (""Protein kinase C signaling"") OR (""Phospholipase C signaling pathway"") OR (""Phospholipase C signaling cascade"") OR (""PLC signaling pathway"") OR (""Phospholipase C signal transduction"") OR (""PLC signal transduction"") OR (""Adenylate cyclase"")) AND (signaling)"	MBC:0000007	Cellular communication	True
+MBC:0000101	Iron homeostasis	2	"(""Iron homeostasis"") AND (human)"	MBC:0000023	Iron, heme and hemoglobin homeostasis	True
+MBC:0000102	Kinin–kallikrein system	2	"(""Kinin–kallikrein system"") OR (""kinin system"") OR (""Kallidin"") OR (""low-molecular weight kininogen"") OR (""High-molecular weight kininogen"") OR (""Bradykinin"")"	MBC:0000007	Cellular communication	True
+MBC:0000103	Lipid droplet dynamics	2	"(""Lipid droplet"") OR (""Lipid droplets"")"	MBC:0000022	Intracellular vesicle traffic	True
+MBC:0000104	lncRNA mediated apoptosis	2	"(""lncRNA"" AND ""Apoptosis"")"	MBC:0000035	RNA mediated cellular regulation	True
+MBC:0000105	lncRNA mediated cell differentiation	2	"(""lncRNA"" AND ""differentiation"")"	MBC:0000035	RNA mediated cellular regulation	True
+MBC:0000106	lncRNA regulated transcription	2	"(""lncRNA regulated transcription"")"	MBC:0000035	RNA mediated cellular regulation	True
+MBC:0000107	Matricellular protein signaling	2	"(""signaling"") AND ((""matricellular proteins"") Or (""matricellular protein""))"	MBC:0000007	Cellular communication	True
+MBC:0000108	Mature alveolar cell differentiation markers	2	"(""alveolar cells"" OR ""pneumocytes"") AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals) "	MBC:0000004	Cell differentiation markers	True
+MBC:0000109	Mature Bone cell differentiation markers	2	"(""Bone cells"") AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000004	Cell differentiation markers	True
+MBC:0000110	Mature germ cell differentiation markers	2	"(""germ cells"") AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals) "	MBC:0000004	Cell differentiation markers	True
+MBC:0000111	Mature Hematopoietic stem cell differentiation markers	2	"hematopoietic stem cells AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000004	Cell differentiation markers	True
+MBC:0000112	Mature kidney cell differentiation markers	2	"(""Kidney cells"") AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000004	Cell differentiation markers	True
+MBC:0000113	Mature liver cell differentiation markers	2	"(""Liver cells"") AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000004	Cell differentiation markers	True
+MBC:0000114	Mature neuronal cell differentiation markers	2	"(""neuronal cells"" OR ""neuroglial cells"") AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000004	Cell differentiation markers	True
+MBC:0000115	Mature retinal cell differentiation markers	2	"(""Retinal cells"") AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000004	Cell differentiation markers	True
+MBC:0000116	Mechanotransduction	2	"(""Mechanotransduction"") NOT (Plant)"	MBC:0000007	Cellular communication	True
+MBC:0000117	Membrane lipid metabolism	2	"((""phosphoglyceride biosynthesis"") OR (""phosphoglyceride synthesis"") OR (""phosphatidylcholine biosynthesis"") OR (""phosphatidylcholine synthesis"") OR (""phosphatidylethanolamine biosynthesis"") OR (""phosphatidylethanolamine synthesis"") OR (""phosphatidylserine biosynthesis"") OR (""phosphatidylserine synthesis"") OR (""phosphatidylinositol biosynthesis"") OR (""phosphatidylinositol synthesis"") OR (""Kennedy pathway"") OR (""Lands cycle"") OR (""phospholipid remodeling"") OR (""sphingolipid biosynthesis"") OR (""sphingolipid synthesis"") OR (""sphingolipid metabolism"") OR (""flippases"")) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000024	Lipid metabolism	True
+MBC:0000118	Metabolism and transport of cholesterol, steroids and bile acids	2	((Metabolism) OR (transport)) AND ((cholesterol) OR (steroids) OR (bile acids))	MBC:0000024	Lipid metabolism	True
+MBC:0000119	Metabolism of essential amino acids	2	"((""lysine degradation"") OR (""Lysine catabolism"") OR (""Lysine metabolism"") OR (""leucine degradation"") OR (""leucine catabolism"") OR (""leucine metabolism"") OR (""isoleucine degradation"") OR (""isoleucine catabolism"") OR (""isoleucine metabolism"") OR (""valine degradation"") OR (""valine catabolism"") OR (""valine metabolism"") OR (""Phenylalanine degradation"") OR (""Phenylalanine catabolism"") OR (""Phenylalanine metabolism"") OR (""Tryptophan degradation"") OR (""Tryptophan catabolism"") OR (""Tryptophan metabolism"")) AND (enzyme) AND ((human) OR (animal) OR (mammal) OR (muscle) OR (liver) OR (kidney))"	MBC:0000002	Amino acid metabolism	True
+MBC:0000120	Metabolism of fat-soluble vitamins	2	"((""vitamin A biosynthesis"") OR (""retinol biosynthesis"") OR (""retinal biosynthesis"") OR (""retinic acid biosynthesis"") OR (""vitamin K biosynthesis"") OR (""phylloquinone biosynthesis"")) AND (enzyme)"	MBC:0000037	Vitamin metabolism	False
+MBC:0000121	Metabolism of glutamate and histidine products	2	"((""histamine metabolism"") OR (""GABA metabolism"")) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000002	Amino acid metabolism	True
+MBC:0000122	Metabolism of non-essential amino acids	2	"((""Serine metabolism"") OR (""Serine biosynthesis"") OR (""Serine synthesis"") OR (""Serine catabolism"") OR (""Glycine metabolism"") OR (""Glycine biosynthesis"") OR (""Glycine synthesis"") OR (""Glycine catabolism"") OR (""Proline metabolism"") OR (""Proline biosynthesis"") OR (""Proline synthesis"") OR (""Proline catabolism"") OR (""Aspartate metabolism"") OR (""Aspartate biosynthesis"") OR (""Aspartate synthesis"") OR (""Aspartate catabolism"") OR (""Arginine metabolism"") OR (""Arginine biosynthesis"") OR (""Arginine synthesis"") OR (""Arginine catabolism"") OR (""Glutamate metabolism"") OR (""Glutamate biosynthesis"") OR (""Glutamate synthesis"") OR (""Glutamate catabolism"") OR (""Glutamine metabolism"") OR (""Glutamine biosynthesis"") OR (""Glutamine synthesis"") OR (""Glutamine catabolism"") OR (""Tyrosine metabolism"") OR (""Tyrosine biosynthesis"") OR (""Tyrosine synthesis"") OR (""Tyrosine catabolism"") OR (""Glyoxylate metabolism"") OR (""Glyoxylate biosynthesis"") OR (""Glyoxylate synthesis"") OR (""Glyoxylate catabolism"")) AND (enzyme) AND ((human) OR (animal) OR (mammal) OR (muscle) OR (liver) OR (kidney))"	MBC:0000002	Amino acid metabolism	False
+MBC:0000123	Metabolism of phenylalanine products	2	"((""catecholamine metabolism"") OR (""thyroid-hormone metabolism"")) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000002	Amino acid metabolism	True
+MBC:0000124	Metabolism of purines and pyrimidines	2	"((""purine metabolism"") OR (""pyrimidine metabolism"")) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000028	Nucleotide metabolism	True
+MBC:0000125	Metabolism of tryptophan products	2	"((""serotonin metabolism"") OR (""melatonin  metabolism"") OR (""niacin  metabolism"")) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000002	Amino acid metabolism	True
+MBC:0000126	Metabolism of water-soluble vitamins	2	"((""biotin biosynthesis"") OR (""biotin synthesis"") OR (""niacin biosynthesis"") OR (""nicotinic acid biosynthesis"") OR (""NAD biosynthesis"") OR (""NADP biosynthesis"") OR (""riboflavin biosynthesis"") OR (""FMN biosynthesis"") OR (""FAD biosynthesis"") OR (""vitamin B12 biosynthesis"") OR (""cobalamin biosynthesis"") OR (""vitamin B12 synthesis"") OR (""cobalamin synthesis"") OR (""vitamin C biosynthesis"") OR (""ascorbic acid biosynthesis"") OR (""vitamin B1 biosynthesis"") OR (""thiamine metabolism"")) AND (enzyme)"	MBC:0000037	Vitamin metabolism	False
+MBC:0000127	Metal ion response	2	"Cell AND ""response to metal ions"" (human OR mammals OR mice)"	MBC:0000009	Cellular detoxification	True
+MBC:0000128	Microtubule dynamics	2	"(""microtubule dynamics"")"	MBC:0000016	Cytoskeleton dynamics	True
+MBC:0000129	Microtubule organization center dynamics	2	"(""Microtubule organization center"") OR (""MTOC"") "	MBC:0000016	Cytoskeleton dynamics	True
+MBC:0000130	miRNA and endogenous siRNA biogenesis	2	"(""miRNA biogenesis"")"	MBC:0000020	Gene expression	True
+MBC:0000131	miRNA mediated gene regulation	2	"miRNA AND ""gene regulation"" AND (human OR mammal OR mice)"	MBC:0000035	RNA mediated cellular regulation	True
+MBC:0000132	Mitochondrial dynamics	2	"(""mitochondrial dynamics"")"	MBC:0000029	Organelle organization	True
+MBC:0000133	Mitochondrial energy production	2	"((((""oxidative phosphorylation"") AND (""Electron transport chain"")) OR (""Citric acid cycle"")) OR (""mitochondrial energy production"")) OR ((Mitochondria) AND ((""ATP export"") OR (""ADP import"") OR (""ATP transport"") OR (""ADP transport""))) OR ((""Coenzyme Q10 biosynthesis"") OR (""ubiquinone biosynthesis""))"	MBC:0000018	Energy generation and metabolism of cellular monomers	True
+MBC:0000134	Mitochondrial protein import machinery	2	"(""Mitochondrial protein import"") OR ((""mitochondrial membrane"") AND ((""protein import"") OR (""protein transport"")))"	MBC:0000036	Transmembrane protein import and translocation	True
+MBC:0000135	Mitochondrial transcription	2	"(""Mitochondrial Transcription"")"	MBC:0000026	Mitochondrial gene expression	True
+MBC:0000136	Mitochondrial translation	2	"(""Mitochondrial Translation"")"	MBC:0000026	Mitochondrial gene expression	True
+MBC:0000137	Mitotic cell cycle checkpoints	2	"(""cell cycle checkpoint"")"	MBC:0000003	Cell cycle and cell division	True
+MBC:0000138	mRNA capping, editing, polyadenylation and nuclear export	2	"(""mRNA capping"") OR (""mRNA polyadenylation"") OR ((""co-transcriptional"") AND (""pre-mRNA 3' end processing"")) OR (""nuclear mRNA export"") OR (""mRNA nuclear export"")OR (""mRNA editing"")"	MBC:0000020	Gene expression	True
+MBC:0000139	mRNA translation	2	"(""mRNA translation"")"	MBC:0000020	Gene expression	True
+MBC:0000140	Myofibril formation and organization	2	(Myofibril)	MBC:0000008	Cellular contraction	True
+MBC:0000141	Necroptosis	2	Necroptosis    	MBC:0000032	Regulated cell death	True
+MBC:0000142	Neuronal action potential generation and propagation	2	"((""Action potential"") OR (""Hyperpolarization-activated cation channels"") OR (""pacemaker"") OR ((Biogenesis) AND (myelin)) OR (""myelin maturation"") OR (""myelin synthesis"")) AND (neuron)"	MBC:0000027	Neurotransmission	True
+MBC:0000143	Neuronal signaling pathways	2	"((""Somatostatin receptor"") OR (""Cannabinoid receptor"") OR (""Nerve growth factor receptor"") OR (""Brain derived neurotrophic factor receptor"") OR (""BDNF receptor"") OR (Roundabout) OR (Robo) OR (Semaphorin)) AND (signaling)"	MBC:0000007	Cellular communication	True
+MBC:0000144	Non-Canonical autophagy	2	non-canonical autophagy	MBC:0000021	Intracellular degradation pathways	False
+MBC:0000145	Non-vesicular lipid transport	2	"((""non-vesicular"") AND (lipid) AND ((exchange) OR (transport))) OR (lipid transfer protein)"	MBC:0000024	Lipid metabolism	False
+MBC:0000146	One carbon metabolism	2	"((""methionine cycle"") OR (""folate cycle"") OR (""Transsulfuration pathway"") OR (""one carbon metabolism"")) AND (enzyme) AND ((human) OR (animal) OR (mammal) OR (muscle) OR (liver) OR (kidney))"	MBC:0000002	Amino acid metabolism	True
+MBC:0000147	Pattern recognition signaling	2	"(""Pattern recognition"") AND (signaling)"	MBC:0000007	Cellular communication	True
+MBC:0000148	Peroxisomal protein import machinery	2	((Peroxisomal) OR (Peroxisome)) AND ((protein import) OR (protein export) OR (transmembrane protein transport)) AND (machinery) NOT (RNA)	MBC:0000036	Transmembrane protein import and translocation	True
+MBC:0000149	pH homeostasis	2	"(""pH Homeostasis"" OR ""pH Regulation"") AND (mice OR human OR mammals)"	MBC:0000023	Iron, heme and hemoglobin homeostasis	True
+MBC:0000150	Phase I biotransformation	2	"((""phase I biotransformation"") OR (""phase I metabolism"") OR (""phase 1 biotransformation"") OR (""phase 1 metabolism"")) AND ((liver) OR (human) OR (mammalian))"	MBC:0000009	Cellular detoxification	True
+MBC:0000151	Phase II biotransformation	2	"((""phase II biotransformation"") OR (""phase II metabolism"") OR (""phase 2 biotransformation"") OR (""phase 2 metabolism"")) AND ((liver) OR (human) OR (mammalian))"	MBC:0000009	Cellular detoxification	True
+MBC:0000152	Plasma lipoprotein assembly	2	Plasma Lipoprotein assembly	MBC:0000030	Plasma Lipoprotein dynamics	True
+MBC:0000153	Plasma lipoprotein clearance	2	"Plasma lipoprotein AND ""clearance"""	MBC:0000030	Plasma Lipoprotein dynamics	True
+MBC:0000154	Plasma lipoprotein remodeling	2	Plasma Lipoprotein remodeling	MBC:0000030	Plasma Lipoprotein dynamics	True
+MBC:0000155	Plasma membrane microdomains	2	Plasma membrane microdomains	MBC:0000029	Organelle organization	True
+MBC:0000156	Post-translational protein modification and quality control during biosynthetic-secretory pathway	2	"((""Post-translational modification"") OR (folding) OR (glycosylation) OR (""anchor attachment"")) AND ((""Secretory pathway"") OR (""endoplasmic reticulum"") OR (Golgi))"	MBC:0000031	Posttranslational protein modification	False
+MBC:0000157	Post-translational protein modification in Mitochondria	2	"((""Post-translational modification"") OR (folding)) AND ((Mitochondria) OR (Mitochondrium))"	MBC:0000031	Posttranslational protein modification	False
+MBC:0000158	Pre-mRNA splicing	2	"(""Pre-mRNA splicing"")"	MBC:0000020	Gene expression	False
+MBC:0000159	Prostanoid receptor signaling	2	"((""Prostaglandin receptor"") OR (""Thromboxane A2 receptor"") OR (""Prostanoid receptor"")) AND (signaling)"	MBC:0000007	Cellular communication	True
+MBC:0000160	Protein prenylation	2	"(""Protein prenylation"") OR (""Protein farnesylation"") OR (""Protein myristoylation"") OR (""Protein palmitoylation"") OR (""Protein acylation"") OR (""Protein acetylation"")"	MBC:0000031	Posttranslational protein modification	True
+MBC:0000161	Protein transport across the nuclear membrane	2	"((Nuclear) OR (Nucleus)) AND ((""protein import"") OR (""protein export"") OR (""protein transport"") OR (""protein translocation"")) NOT (bacterial) NOT (plant)"	MBC:0000036	Transmembrane protein import and translocation	True
+MBC:0000162	Proteoglycan synthesis	2	"(""Proteoglycan biosynthesis"") OR (""Proteoglycan synthesis"") OR (""Proteoglycan production"")"	MBC:0000019	Extracellular matrix homeostasis	True
+MBC:0000163	Purinergic signaling	2	"(""Purinergic signaling"") OR (""Purinergic receptor signaling"") OR (""Purinoceptor signaling"")"	MBC:0000007	Cellular communication	True
+MBC:0000164	Regulation of  neuronal or neuroglial cell differentiation	2	"Regulation AND (""neuronal"" OR ""neuroglial"") AND ""differentiation"""	MBC:0000033	Regulation of cell differentiation	True
+MBC:0000165	Regulation of alveolar cell differentiation	2	"Regulation AND ""alveolar"" AND ""differentiation"""	MBC:0000033	Regulation of cell differentiation	True
+MBC:0000166	Regulation of bone cell differentiation	2	"Regulation AND ""bone cell"" AND ""differentiation"""	MBC:0000033	Regulation of cell differentiation	True
+MBC:0000167	Regulation of cell number	2	"Regulation AND ""cell number"" AND (human OR mammals OR mice)"	MBC:0000034	Regulation of cell morphogenesis	True
+MBC:0000168	Regulation of cell shape	2	"Regulation AND ""cell shape"" AND (human OR mammals OR mice)"	MBC:0000034	Regulation of cell morphogenesis	True
+MBC:0000169	Regulation of cell size	2	"Regulation AND ""cell size"" AND (human OR mammals OR mice)"	MBC:0000034	Regulation of cell morphogenesis	True
+MBC:0000170	Regulation of cell volume	2	"Regulation AND ""cell volume"" AND (human OR mammals OR mice)"	MBC:0000034	Regulation of cell morphogenesis	True
+MBC:0000171	Regulation of gonadogenesis	2	Regulation AND gonadogenesis AND (human OR mammals OR mice)	MBC:0000033	Regulation of cell differentiation	True
+MBC:0000172	Regulation of hematopoiesis	2	"Regulation AND ""Hematopoiesis"""	MBC:0000033	Regulation of cell differentiation	True
+MBC:0000173	Regulation of kidney cell differentiation	2	"Regulation AND ""kidney cells"" AND ""differentiation"""	MBC:0000033	Regulation of cell differentiation	True
+MBC:0000174	Regulation of liver cell differentiation	2	"Regulation AND ""Liver cell"" AND ""differentiation"""	MBC:0000033	Regulation of cell differentiation	True
+MBC:0000175	Regulation of mRNA fate by exon-junction complex	2	"(""exon junction complex"")"	MBC:0000020	Gene expression	False
+MBC:0000176	Regulation of myocyte cell differentiation	2	"Regulation AND ""Myocyte"" AND ""differentiation"""	MBC:0000033	Regulation of cell differentiation	True
+MBC:0000177	Regulation of retinal cell differentiation	2	"(Regulation) AND ""retinal cell"" AND (differentiation)"	MBC:0000033	Regulation of cell differentiation	True
+MBC:0000178	Regulation of synaptic plasticity	2	"(Regulation) AND (""Synaptic Plasticity"")"	MBC:0000027	Neurotransmission	True
+MBC:0000179	Response to heat stress	2	"Cellular response AND ""Heat Stress"" AND ( human OR mammals OR mice)"	MBC:0000012	Cellular response to stress	True
+MBC:0000180	Response to hypoxia	2	"Cellular response AND ""Hypoxia"" AND ( mice OR human OR mammals)"	MBC:0000011	Cellular redox homeostasis	True
+MBC:0000181	Ribonuclease P mediated post-transcriptional modification	2	"Ribonuclease P AND ""post-transcriptional"" AND (human OR mammal OR mice)"	MBC:0000035	RNA mediated cellular regulation	False
+MBC:0000182	Ribonucleoprotein biogenesis	2	"(""rRNA transcription"") OR (""ribosomal RNA transcription"") OR (""rRNA processing"") OR (""ribosomal RNA processing"") OR (""Ribonucleoprotein"") OR (""Ribosomal protein"")"	MBC:0000020	Gene expression	True
+MBC:0000183	RNA surveillance and degradation	2	"(""RNA surveillance"") OR (""RNA degradation"")"	MBC:0000020	Gene expression	True
+MBC:0000184	Rolling cell adhesion	2	"((""platelet rolling"") OR (""leukocyte rolling"") OR (""Rolling Cell"")) AND (Adhesion)"	MBC:0000005	Cell junction dynamics	True
+MBC:0000185	ROS detoxification	2	"Detoxification AND ""ROS"" AND (mice OR human OR mammals)"	MBC:0000009	Cellular detoxification	True
+MBC:0000186	shRNA mediated gene regulation	2	"shRNA AND ""gene regulation"" AND (human OR mammal OR mice)"	MBC:0000035	RNA mediated cellular regulation	True
+MBC:0000187	Signaling by extracellular matrix components	2	"((""Integrin receptor"") OR (""CD44 signaling"") OR (""Discoidin domain receptor"") OR (""Hyaluronan-mediated motility receptor"") OR (""HMMR"") OR (""Receptor for Hyaluronan mediated motility"") OR (""RHAMM"") OR (""Syndecan"") OR (""Syndecan"") OR (""versican"")) AND (signaling)"	MBC:0000007	Cellular communication	True
+MBC:0000188	Signaling pathways involved in glucose and lipid homeostasis	2	"((""Adiponectin receptor"") OR (""Glucagon receptor signaling"") OR (""Glucagon signaling"") OR (""Insulin receptor signaling"") OR (""Glucagon-like peptide-1 receptor signaling"") OR (""GLP-1 receptor signaling"") OR (""Glucagon-like peptide-1 signaling"") OR (""GLP-1 signaling"") OR (""Peroxisome proliferator-activated receptor"")) AND (signaling) "	MBC:0000007	Cellular communication	True
+MBC:0000189	Signaling pathways involved in hematopoiesis	2	"((""haematopoiesis"") OR (""hematopoiesis"")) AND (signaling) "	MBC:0000007	Cellular communication	True
+MBC:0000190	Signaling pathways regulating calcium homeostasis	2	"((""vitamin D receptor"") OR (""Parathyroid hormone receptor"") OR (""PTH receptor"") OR (""Calcitonin receptor"")) AND (""signaling"")"	MBC:0000007	Cellular communication	True
+MBC:0000191	Signaling pathways regulating cardiovascular homeostasis	2	"(Signaling) AND ((""Angiotensin receptor"") OR (""adrenergic receptor"") OR (""endothelin receptor"") OR (""muscarinic receptor""))"	MBC:0000007	Cellular communication	True
+MBC:0000192	Signaling pathways regulating steroid and sex hormone synthesis	2	"((""Corticotropin-releasing hormone receptor"") OR (""CRH receptor"") OR (""ACTH receptor"") OR (""Adrenocorticotropic hormone receptor"") OR (""follicle stimulating hormone receptor"") OR (""FSH receptor"") OR (""luteinizing hormone receptor"") OR (""LH receptor"")) AND (signaling)"	MBC:0000007	Cellular communication	True
+MBC:0000193	Signaling pathways regulating water homeostasis	2	"((""Antidiuretic hormone receptor"") OR (""ADH receptor"") OR (""Vasopressin receptor"") OR (""secretin receptor"") OR (""mineralocorticoid receptor"") OR (""Atrial natriuretic peptide signaling"") OR (""Atrial natriuretic factor signaling"") OR (""Brain natriuretic peptide signaling"") OR (""Brain natriuretic factor signaling"") OR (""C-type natriuretic peptide"")) AND (signaling)"	MBC:0000007	Cellular communication	True
+MBC:0000194	Signaling pathways that control cell proliferation and differentiation	2	"((""Fibroblast growth factor receptor"") OR (""PDGFR"") OR (""Platelet-derived growth factor receptor"") OR (""Vascular endothelial growth factor receptor"") OR (""Hepatocyte growth factor receptor"") OR (""Insulin-like growth factor receptor"") OR (""wnt beta-catenin signaling pathway"") OR (""Ephrin receptor"") OR (""hedgehog receptor"") OR (""hedgehog pathway"") OR (""Notch receptor"") OR (""Hippo pathway"") OR (""prolactin receptor"") OR (""Growth hormone receptor"") OR (""GH receptor"") OR (""Retinoic acid receptor"") OR (""HIF 1"") OR (""hypoxia-induced factor 1"")) AND (signaling)"	MBC:0000007	Cellular communication	True
+MBC:0000195	siRNA mediated gene regulation	2	"siRNA AND ""gene regulation"" AND (human OR mammal OR mice)"	MBC:0000035	RNA mediated cellular regulation	True
+MBC:0000196	snoRNA mediated post-transcriptional modification	2	"snoRNA AND ""post-transcriptional"" AND (human OR mice OR mammals)"	MBC:0000035	RNA mediated cellular regulation	False
+MBC:0000197	snRNA expression and spliceosome generation	2	"(""snRNA expression"") OR (""spliceosome assembly"") OR ((""snRNP"") AND (assembly))"	MBC:0000020	Gene expression	True
+MBC:0000198	snRNA mediated post-transcriptional modification	2	"snRNA AND ""post-transcriptional"" AND (Human OR mice OR mammals)"	MBC:0000035	RNA mediated cellular regulation	False
+MBC:0000199	Steroid and sex hormone signaling	2	"((""steroid hormone"") OR (""sex hormone"")) AND (signaling)"	MBC:0000007	Cellular communication	True
+MBC:0000200	Steroid hormone synthesis	2	"(""steroid hormone"") AND (synthesis)"	MBC:0000024	Lipid metabolism	True
+MBC:0000201	Structural golgi apparatus organization	2	((Golgi) OR (TGN)) AND (organization) AND ((structure) OR (architecture))	MBC:0000029	Organelle organization	True
+MBC:0000202	TGF-beta superfamily signaling	2	"((""TGF-beta family"") OR (""Transforming growth factor family"")) AND (signaling)  "	MBC:0000007	Cellular communication	False
+MBC:0000203	Thyroid hormone related signaling	2	"((""Thyroxin receptor"") OR (""Thyroid hormone receptor"") OR (""triiodothyronine receptor"") OR (""Thyroid-stimulating hormone receptor"") OR (""TSH receptor"") OR (""Thyrotropin-releasing hormone receptor"") OR (""TRH receptor"")) AND (""signaling"")"	MBC:0000007	Cellular communication	True
+MBC:0000204	TNF superfamily signaling	2	"(""Tumor necrosis factor"") AND ((""signaling pathway"")  OR (""signaling cascade"") OR (""ligand pathway""))"	MBC:0000007	Cellular communication	True
+MBC:0000205	Transcription	2	(Transcription)  NOT (reverse)	MBC:0000020	Gene expression	True
+MBC:0000206	Transmembrane ion transport involved in membrane potential generation	2	"((Calcium) OR (""Ca"") OR (""Ca2+"") OR (Potassium) OR (""K"") OR (""K+"") OR (Sodium) OR (""NA"") OR (Chloride) OR (""Cl"") OR (bicarbonate) OR (""HCO3-"") OR (""hydrogen"") OR (""H"") OR (""H+"") OR (proton)) AND ((transmembrane) AND ((transport) OR (Channel) OR (symport) OR (Antiport) OR (ATPase)))"	MBC:0000025	Membrane transport of small molecules and electrical properties of membranes	True
+MBC:0000207	Transmembrane water and ion transport not involved in membrane potential generatation	2	"((phosphate) OR (""PO"") OR (""PO3-"") OR (""PO4-"") OR (Copper) OR (""Cu"") OR (""Cu2+"") OR (""Cu+"") OR (cuprous) OR (cupric) OR (Water) OR (""H2O"") OR (Zinc) OR (""H2O"")) AND ((transmembrane) AND ((transport) OR (Channel) OR (symport) OR (Antiport) OR (ATPase)))"	MBC:0000025	Membrane transport of small molecules and electrical properties of membranes	True
+MBC:0000208	Triacylglycerol metabolism and transport	2	(Triacylglycerol) AND ((metabolism) OR (transport))	MBC:0000024	Lipid metabolism	True
+MBC:0000209	Ubiquitin mediated proteasomal degradation	2	"(""Proteasomal degradation"") AND (ubiquitin)"	MBC:0000021	Intracellular degradation pathways	True
+MBC:0000210	Vesicle exocytosis	2	(exocytosis) AND (vesicle)	MBC:0000022	Intracellular vesicle traffic	True
+MBC:0000211	Vesicle traffic between ER and TGN	2	(((Golgi) OR (TGN)) AND ((ER) OR (Endoplasmic reticulum))) AND (vesicle traffic)	MBC:0000022	Intracellular vesicle traffic	True
+MBC:0000212	Vesicle traffic between TGN and endosome	2	((Golgi) OR (TGN)) AND ((endosome) OR (lysosome))) AND (vesicle traffic)	MBC:0000022	Intracellular vesicle traffic	True
+MBC:0000213	Visual phototransduction	2	Visual Phototransduction	MBC:0000007	Cellular communication	True
+MBC:0000214	Acetylcholine-mediated control of postsynaptic potential	3	"(""acetylcholine receptor"") AND (postsynaptic) "	MBC:0000069	Control of postsynaptic potential	False
+MBC:0000215	Actin filament bundling and crosslinking	3	"(""actin filament crosslinking"") OR (""actin crosslinking"") OR (""actin bundling"") OR OR (""actin filament bundling"")"	MBC:0000038	Actin filament dynamics	True
+MBC:0000216	Actin filament capping	3	"(""actin filament capping"") OR (""actin capping"")"	MBC:0000038	Actin filament dynamics	True
+MBC:0000217	Actin filament nucleation and branching	3	"(""actin filament nucleation"") OR (""actin filament branching"") OR (""actin nucleation"") OR (""actin branching"")"	MBC:0000038	Actin filament dynamics	True
+MBC:0000218	Actin filament severing and depolymerization	3	"(""actin filament depolymerization"") OR (""actin filament severing"") OR (""actin depolymerization"") OR (""actin severing"") "	MBC:0000038	Actin filament dynamics	True
+MBC:0000219	Actin polymerization	3	"(""Actin polymerization"")"	MBC:0000038	Actin filament dynamics	True
+MBC:0000220	Activin receptor signaling	3	"(""activin receptor"") AND (""signaling"")"	MBC:0000202	TGF-beta superfamily signaling	True
+MBC:0000221	Acute-phase response	3	"(""Acute-phase response proteins"") OR (""Acute-phase response protein"")"	MBC:0000045	Blood protein dynamics	False
+MBC:0000222	Adenylyl cyclase signaling pathway	3	"(""Adenylyl cyclase"") AND ((""signaling pathway"") OR (""signaling cascade""))"	MBC:0000100	Intracellular common signaling cascades of multiple pathways	True
+MBC:0000223	Adherens junction organization	3	"(""Adherens junctions"")"	MBC:0000050	Cell-cell junction organization	True
+MBC:0000224	Adiponectin receptor signaling	3	"(""Adiponectin receptor"") AND (""signaling"")"	MBC:0000188	Signaling pathways involved in glucose and lipid homeostasis	True
+MBC:0000225	Adrenocorticotropic hormone receptor signaling	3	"((""ACTH receptor"") OR (""Adrenocorticotropic hormone receptor"")) AND (signaling)"	MBC:0000192	Signaling pathways regulating steroid and sex hormone synthesis	True
+MBC:0000226	Aggrecan synthesis	3	"(""aggrecan synthesis"") OR (""aggrecan biosynthesis"") OR (""aggrecan production"")"	MBC:0000162	Proteoglycan synthesis	True
+MBC:0000227	Albumin mediated blood protein transport	3	"(""Albumin"") AND (""protein transport"")"	MBC:0000045	Blood protein dynamics	True
+MBC:0000228	Alpha 1 adrenergic receptor signaling	3	alpha 1 Adrenergic Receptor AND signaling	MBC:0000191	Signaling pathways regulating cardiovascular homeostasis	True
+MBC:0000229	Alpha 2 adrenergic receptor signaling	3	alpha 2 Adrenergic Receptor AND signaling	MBC:0000191	Signaling pathways regulating cardiovascular homeostasis	True
+MBC:0000230	Alternative complement pathway	3	"(""alternative complement pathway"")"	MBC:0000068	Complement pathway and regulation	True
+MBC:0000231	Alternative end joining DSB repair	3	"(""alternative end joining"") AND (""DNA repair"")"	MBC:0000075	DNA double-strand break repair	True
+MBC:0000232	Amination of alpha-keto acids and deamination of amino acids	3	"((""amino acid"") OR (""amino acids"") OR (""alpha-keto acid"") OR (""alpha-keto acids"")) AND ((amination) OR (deamination)) AND (enzyme) AND ((human) OR (animal) OR (mammal) OR (muscle) OR (liver) OR (kidney)) NOT (purine) NOT (pyrimidine) NOT (cytosine) NOT (5-methylcytosine) NOT (guanine) NOT (adenine)"	MBC:0000039	Ammonium metabolism	False
+MBC:0000233	Amyloid plaque organization	3	"(""amyloid plaque"")"	MBC:0000040	Amyloid generation and aggregation	True
+MBC:0000234	Amyloid precursor protein cleavage	3	"(""amyloid precursor protein"") AND ((""ectodomain shedding"") OR (proteolytic cleavage))"	MBC:0000040	Amyloid generation and aggregation	True
+MBC:0000235	Anchoring of nuclear membrane to cytoskeleton	3	"(cytoskeleton) AND (""nuclear membrane"") AND ((connection) OR (interaction) OR (bridge))"	MBC:0000099	Interphase nucleus and nuclear chromatin organization	True
+MBC:0000236	Androgen receptor signaling	3	"(""androgen receptor signaling"") "	MBC:0000199	Steroid and sex hormone signaling	True
+MBC:0000237	Androgen synthesis	3	"(""androgen synthesis"")"	MBC:0000200	Steroid hormone synthesis	True
+MBC:0000238	Angiotensin receptor signaling	3	"(""Angiotensin receptor"") AND (""signaling"")"	MBC:0000191	Signaling pathways regulating cardiovascular homeostasis	True
+MBC:0000239	Anterograde vesicle traffic from ER to Golgi	3	((ER) OR (Endoplasmic reticulum)) AND ((TGN) OR (Golgi)) AND (vesicle) AND ((anterograde) OR (forward))	MBC:0000211	Vesicle traffic between ER and TGN	True
+MBC:0000240	Antidiuretic hormone receptor signaling	3	"((""Antidiuretic hormone receptor"") OR (""ADH receptor"") OR (""Vasopressin receptor"")) AND (""signaling"")"	MBC:0000193	Signaling pathways regulating water homeostasis	True
+MBC:0000241	Antigen presentation via MHC class I molecules	3	"(""MHC I presentation"") OR (""MHC class I presentation"")"	MBC:0000041	Antigen presentation	True
+MBC:0000242	Antigen presentation via MHC class II molecules	3	"(""MHC II presentation"") OR (""MHC class II presentation"")"	MBC:0000041	Antigen presentation	True
+MBC:0000243	Apoptosis caspase pathway	3	"((""caspase cascade"") OR (""caspase pathway"")) AND (apoptosis) "	MBC:0000042	Apoptosis	True
+MBC:0000244	Apoptosome assembly	3	"(""apoptosome formation"") OR (""apoptosome assembly"")"	MBC:0000042	Apoptosis	True
+MBC:0000245	Apoptotic DNA degradation and nuclear disassembly	3	"(""apoptotic DNA degradation"") OR (""apoptotic nuclear fragmentation"")"	MBC:0000042	Apoptosis	True
+MBC:0000246	Aspartate and arginine metabolism	3	"((""Aspartate metabolism"") OR (""Aspartate biosynthesis"") OR (""Aspartate synthesis"") OR (""Aspartate catabolism"") OR (""Arginine metabolism"") OR (""Arginine biosynthesis"") OR (""Arginine synthesis"") OR (""Arginine catabolism"")) AND (enzyme) AND ((human) OR (animal) OR (mammal) OR (muscle) OR (liver) OR (kidney))"	MBC:0000122	Metabolism of non-essential amino acids	True
+MBC:0000247	Axonal intermediate filament dynamics	3	"(axon) AND (""Intermediate filaments"")"	MBC:0000072	Cytoplasmic intermediate filament and septin dynamics	True
+MBC:0000248	B cell receptor signaling	3	"(""B cell receptor"") AND (Signaling)"	MBC:0000096	Immune receptor Signaling	True
+MBC:0000249	Base excision repair	3	"(""Base excision repair"") AND (""DNA repair"") "	MBC:0000078	DNA single-strand break repair	True
+MBC:0000250	Basement membrane assembly and organization	3	"(""basement membrane assembly"") OR (""basement membrane structure"") OR (""basement membrane components"") "	MBC:0000044	Basement membrane dynamics	True
+MBC:0000251	Basement membrane attachment to cell surface	3	"(""basement membrane"") AND ((""cell surface"") OR (""plasma membrane"") OR (""cell membrane"")) AND ((attachment) OR (interaction) OR (connect) Or (tethering))"	MBC:0000044	Basement membrane dynamics	True
+MBC:0000252	Beta adrenergic receptor signaling	3	beta Adrenergic Receptor AND signaling	MBC:0000191	Signaling pathways regulating cardiovascular homeostasis	True
+MBC:0000253	Betaglycan signaling	3	"(""Betaglycan"") AND (signaling)"	MBC:0000202	TGF-beta superfamily signaling	True
+MBC:0000254	Beta-oxidation	3	"(""beta-oxidation"") AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000088	Fatty acid metabolism	False
+MBC:0000255	Bicarbonate transmembrane transport	3	"((bicarbonate) OR (""HCO3-"")) AND ((transmembrane) AND ((transport) OR (Channel) OR (symport) OR (Antiport) OR (ATPase)))"	MBC:0000206	Transmembrane ion transport involved in membrane potential generation	True
+MBC:0000256	Biglycan synthesis	3	"(""biglycan synthesis"") OR (""biglycan production"")"	MBC:0000162	Proteoglycan synthesis	True
+MBC:0000257	Bile acid secretion and re-absorbtion	3	"(""bile acid"") AND ((secretion) OR (re absorption))"	MBC:0000118	Metabolism and transport of cholesterol, steroids and bile acids	False
+MBC:0000258	Bile acid synthesis from cholesterol	3	"(""Bile acid synthesis"") "	MBC:0000118	Metabolism and transport of cholesterol, steroids and bile acids	True
+MBC:0000259	Bilirubin conjugation	3	"(""bilirubin conjugation"") OR (""bilirubin glucuronidation"") "	MBC:0000094	Heme and hemoglobin metabolism	True
+MBC:0000260	Biotin metabolism	3	"((""biotin biosynthesis"") OR (""biotin synthesis"")) AND (enzyme)"	MBC:0000126	Metabolism of water-soluble vitamins	True
+MBC:0000261	Bone morphogenetic protein receptor signaling	3	"((""bone morphogenetic protein receptor"") OR (""BMP receptor"")) AND (signaling)"	MBC:0000202	TGF-beta superfamily signaling	True
+MBC:0000262	Bradykinin receptor signaling	3	"((""High-molecular weight kininogen"") OR (""Bradykinin"")) AND (""signaling"")"	MBC:0000102	Kinin–kallikrein system	True
+MBC:0000263	Brain derived neurotrophic factor receptor signaling	3	"((""Brain derived neurotrophic factor receptor"") OR (""BDNF receptor"")) AND (signaling)"	MBC:0000143	Neuronal signaling pathways	True
+MBC:0000264	Cadherin mediated mechanotransduction	3	"cadherin AND ""mechanotransduction"""	MBC:0000116	Mechanotransduction	True
+MBC:0000265	Calcineurin-NFAT signaling pathway	3	"(""calcineurin/NFAT signaling pathway"") OR (""calcineurin/NFAT signaling cascade"") OR (""calcineurin/NFAT pathway"")"	MBC:0000100	Intracellular common signaling cascades of multiple pathways	False
+MBC:0000266	Calcitonin receptor signaling	3	"(""Calcitonin receptor"") AND (""signaling"")"	MBC:0000190	Signaling pathways regulating calcium homeostasis	True
+MBC:0000267	Calcium transmembrane transport	3	"((Calcium) OR (""Ca"") OR (""Ca2+"")) AND ((transmembrane) AND ((transport) OR (Channel) OR (symport) OR (Antiport) OR (ATPase)))"	MBC:0000206	Transmembrane ion transport involved in membrane potential generation	True
+MBC:0000268	CAM kinase signaling pathway	3	"(""CAM kinase signaling"") OR (""Ca2+Calmodulin dependent protein kinase"")"	MBC:0000100	Intracellular common signaling cascades of multiple pathways	True
+MBC:0000269	Cannabinoid receptor signaling	3	"(""Cannabinoid receptor"") AND (signaling)"	MBC:0000143	Neuronal signaling pathways	True
+MBC:0000270	Cardiomyocyte depolarization during action potential	3	"(""Action potential"") AND (""depolarization"") AND (channel) AND (cardiomyocyte)"	MBC:0000048	Cardiomyocyte action potential generation and propagation	True
+MBC:0000271	Cardiomyocyte pacemaker current generation	3	"((""Hyperpolarization-activated cation channels"") OR (""pacemaker"")) AND (channel) AND (cardiomyocyte)"	MBC:0000048	Cardiomyocyte action potential generation and propagation	True
+MBC:0000272	Cardiomyocyte repolarization during action potential and hyperpolarization	3	"(""Action potential"") AND ((""hyperpolarization"") OR (""repolarization"")) AND (channel) AND (cardiomyocyte)"	MBC:0000048	Cardiomyocyte action potential generation and propagation	True
+MBC:0000273	Carnitine biosynthesis and transport	3	"(""Carnitine biosynthesis"") OR (""carnitine transporter"") OR (""carnitine synthesis"")"	MBC:0000088	Fatty acid metabolism	True
+MBC:0000274	Catecholamine metabolism	3	"(""Catecholamine metabolism"") AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000123	Metabolism of phenylalanine products	True
+MBC:0000275	Caveolae microdomains	3	"Caveolae microdomains OR ""caveolae raft microdomains"""	MBC:0000155	Plasma membrane microdomains	True
+MBC:0000276	Caveolin-mediated endocytosis	3	"(""Caveolin mediated endocytosis"") OR ((""clathrin independent endocytosis"") AND (caveolin))"	MBC:0000081	Endocytic pathway	False
+MBC:0000277	CCN intercellular signaling protein family receptor signaling	3	(CCN) AND (signaling)	MBC:0000107	Matricellular protein signaling	True
+MBC:0000278	CD44-Mediated leukocyte rolling	3	"(CD44) AND (""leukocyte rolling"")"	MBC:0000184	Rolling cell adhesion	False
+MBC:0000279	Cell cycle arrest in response to DNA damage	3	"(""DNA damage response"") AND (""Cell cycle arrest"")"	MBC:0000137	Mitotic cell cycle checkpoints	True
+MBC:0000280	Cellular cholesterol uptake and efflux	3	"(((""Cholesterol efflux"") OR (""Cholesterol uptake"")) AND (cellular)"	MBC:0000118	Metabolism and transport of cholesterol, steroids and bile acids	True
+MBC:0000281	Cellular fatty acid uptake	3	"((""fatty acid uptake"") OR (""fatty acids uptake"") OR ((""fatty acid transport"") AND (""plasma membrane""))) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000088	Fatty acid metabolism	True
+MBC:0000282	Cellular iron storage	3	(cellular) AND (iron) AND (storage)	MBC:0000101	Iron homeostasis	True
+MBC:0000283	Cellular iron uptake	3	(cellular) AND (iron) AND (uptake)	MBC:0000101	Iron homeostasis	True
+MBC:0000284	Centriolar satelites organization	3	"(""Centriolar satellite"") OR (""Centriolar satellites"")"	MBC:0000129	Microtubule organization center dynamics	True
+MBC:0000285	Centrosome duplication	3	(Centrosome) AND ((duplication) OR (replication)) 	MBC:0000059	Centrosome cycle	True
+MBC:0000286	Centrosome maturation	3	(Centrosome) AND (maturation)	MBC:0000059	Centrosome cycle	True
+MBC:0000287	Centrosome organization	3	"(""Centrosome"")"	MBC:0000129	Microtubule organization center dynamics	True
+MBC:0000288	Centrosome separation	3	(Centrosome) AND (separation)	MBC:0000059	Centrosome cycle	True
+MBC:0000289	Chaperone mediated protein folding in ER	3	"(Chaperone) AND (""protein folding"") AND ((ER) OR (""endoplasmic reticulum"")) NOT (Cytosol) NOT (Mitochondria)"	MBC:0000156	Post-translational protein modification and quality control during biosynthetic-secretory pathway	True
+MBC:0000290	Chaperone-mediated autophagy	3	Chaperone-mediated autophagy	MBC:0000043	Autophagy	False
+MBC:0000291	Chloride transmembrane transport	3	"((Chloride) OR (""Cl"")) AND ((transmembrane) AND ((transport) OR (Channel) OR (symport) OR (Antiport) OR (ATPase)))"	MBC:0000206	Transmembrane ion transport involved in membrane potential generation	True
+MBC:0000292	Cholesterol esterification	3	"(""cholesterol esterification"")"	MBC:0000118	Metabolism and transport of cholesterol, steroids and bile acids	True
+MBC:0000293	Cholesterol synthesis	3	"(""Cholesterol synthesis"")"	MBC:0000118	Metabolism and transport of cholesterol, steroids and bile acids	True
+MBC:0000294	Cholesterol transport by lipoproteins	3	(Cholesterol) AND (transport) AND (lipoproteins)	MBC:0000118	Metabolism and transport of cholesterol, steroids and bile acids	True
+MBC:0000295	Cholesterol-sensitive control of SREBP activation	3	"(cholesterol) AND ((""SREBP activation"") OR (""SREBP regulation"") OR (""SREBP proteolysis"") OR (""SREBP cleavage"")) "	MBC:0000118	Metabolism and transport of cholesterol, steroids and bile acids	False
+MBC:0000296	Chondroitin sulfate and dermatan sulfate synthesis	3	"(""chondroitin sulfate synthesis"") OR (""chondroitin sulfate biosynthesis"") OR (""chondroitin sulfate production"") OR (""dermatan sulfate synthesis"") OR (""dermatan sulfate biosynthesis"") OR (""dermatan sulfate production"")"	MBC:0000093	Glycosaminoglycan synthesis	True
+MBC:0000297	Chromatin organization by insulator proteins	3	"(""Chromatin insulator"") OR (""DNA insulator"")"	MBC:0000099	Interphase nucleus and nuclear chromatin organization	True
+MBC:0000298	Chromatin organization by Polycomb repressive complexes	3	"(""Polycomb repressive complexes"")"	MBC:0000099	Interphase nucleus and nuclear chromatin organization	True
+MBC:0000299	Chromatin organization by transcription factories	3	"(""transcription factories"")"	MBC:0000099	Interphase nucleus and nuclear chromatin organization	True
+MBC:0000300	Chromatin targeting to lamina	3	"(""lamina associated domain"") OR (""lamina associated domains"")"	MBC:0000099	Interphase nucleus and nuclear chromatin organization	True
+MBC:0000301	Chylomicron assembly	3	Chylomicron assembly	MBC:0000152	Plasma lipoprotein assembly	True
+MBC:0000302	Chylomicron clearance	3	Chylomicron clearance	MBC:0000153	Plasma lipoprotein clearance	True
+MBC:0000303	Chylomicron remodeling	3	Chylomicron remodeling	MBC:0000154	Plasma lipoprotein remodeling	True
+MBC:0000304	Ciliary transition zone organization	3	"((cilium) OR (cilia)) AND ((""transition zone"") OR (""diffusion barrier""))"	MBC:0000085	Eukaryotic cilium and flagellum organization	True
+MBC:0000305	Citric acid cycle	3	"(""Citric acid cycle"") AND (enzyme) AND (reaction)"	MBC:0000133	Mitochondrial energy production	True
+MBC:0000306	Class switch recombination	3	"(""class switch recombination"")"	MBC:0000077	DNA recombination	True
+MBC:0000307	Classical complement pathway	3	"(""classical complement pathway"")"	MBC:0000068	Complement pathway and regulation	True
+MBC:0000308	Clathrin-mediated endocytosis	3	"(""Clathrin-mediated endocytosis"")"	MBC:0000081	Endocytic pathway	False
+MBC:0000309	Clathrin-mediated vesicle traffic from TGN to endosomal lysosomal system	3	((TGN) OR (Golgi)) AND ((Lysosome) OR (Endosome) OR (endosomal) OR (lysosomal)) AND (vesicle) AND (Clathrin) NOT (endocytosis)	MBC:0000212	Vesicle traffic between TGN and endosome	False
+MBC:0000310	Cleavage of ER signal peptide	3	"(""signal peptide"") AND (cleavage) AND ((""Membrane protein insertion"") OR (""Protein import"") OR (""Membrane protein assembly"") OR (""Protein translocation"")) AND ((""endoplasmic reticulum"") OR (ER))"	MBC:0000083	Endoplasmic reticulum membrane protein insertion and import	True
+MBC:0000311	CO2 homeostasis	3	"(""CO2 Homeostasis"" OR ""CO2 Regulation"") AND (mice OR human OR mammals)"	MBC:0000149	pH homeostasis	True
+MBC:0000312	Coagulation cascade	3	"((""coagulation cascade"") OR (""coagulation pathway"")) AND ((""coagulation factor"") OR (""coagulation factors""))"	MBC:0000066	Coagulation cascade and its regulation	True
+MBC:0000313	Coagulation factor synthesis and vitamin K metabolism	3	"((""Coagulation factor"") AND (""vitamin K"")) OR (""vitamin K metabolism"")"	MBC:0000066	Coagulation cascade and its regulation	True
+MBC:0000314	Cobalamin metabolism	3	"((""vitamin B12 biosynthesis"") OR (""cobalamin biosynthesis"") OR (""vitamin B12 synthesis"") OR (""cobalamin synthesis"")) AND (enzyme)"	MBC:0000126	Metabolism of water-soluble vitamins	True
+MBC:0000315	Collagen fiber crosslinking	3	"(collagen) AND ((crosslinking) OR (""oxidative deamination""))"	MBC:0000067	Collagen biosynthesis	True
+MBC:0000316	Collagen fibril organization by fibril-associated bridges	3	"(collagen) AND (fibril) AND ((""fibril-associated"") OR (FACIT))"	MBC:0000067	Collagen biosynthesis	False
+MBC:0000317	Connection of muscle sarcomere to extracellular matrix	3	"(""dystrophin-associated glycoprotein complex"")"	MBC:0000140	Myofibril formation and organization	True
+MBC:0000318	Connection of muscle sarcomere to plasma membrane	3	(Costamere)	MBC:0000140	Myofibril formation and organization	True
+MBC:0000319	Conservative site-specific recombination	3	"(""site-specific DNA recombination"") OR ((""site-specific recombination"") AND (DNA)) "	MBC:0000077	DNA recombination	False
+MBC:0000320	Contractile ring constriction	3	"(""Contractile ring"") AND (Cytokinesis) AND (constriction)"	MBC:0000071	Cytokinesis	True
+MBC:0000321	Contractile ring formation	3	"(""Contractile ring"") AND (Cytokinesis) AND ((assembly) OR (formation))"	MBC:0000071	Cytokinesis	True
+MBC:0000322	Copper transmembrane transport	3	"((Copper) OR (""Cu"") OR (""Cu2+"") OR (""Cu+"") OR (cuprous) OR (cupric)) AND ((transmembrane) AND ((transport) OR (Channel) OR (symport) OR (Antiport) OR (ATPase)))"	MBC:0000207	Transmembrane water and ion transport not involved in membrane potential generatation	True
+MBC:0000323	Corticotropin-releasing hormone receptor signaling	3	"((""Corticotropin-releasing hormone receptor"") OR (""CRH receptor"")) AND (signaling)"	MBC:0000192	Signaling pathways regulating steroid and sex hormone synthesis	False
+MBC:0000324	Co-translational translocation membrane protein insertion and import	3	"(""Co translational"") AND ((""Membrane protein insertion"") OR (""Protein import"") OR (""Membrane protein assembly"") OR (""Protein translocation"")) AND ((""endoplasmic reticulum"") OR (ER))"	MBC:0000083	Endoplasmic reticulum membrane protein insertion and import	False
+MBC:0000325	C-type lectin receptor signaling	3	"(""C-type lectin receptor"") AND (signaling)"	MBC:0000147	Pattern recognition signaling	False
+MBC:0000326	Cytoplasmic core snRNP assembly	3	"(cytoplasmic) AND ((snRNP assembly) OR ((""small nucleolar RNP"") AND (assembly)))"	MBC:0000197	snRNA expression and spliceosome generation	True
+MBC:0000327	Cytoplasmic Dicer-mediated microRNA and endogenous siRNA processing	3	"((""microRNA processing"") OR (""miRNA processing"") OR (""siRNA processing"")) AND (dicer)"	MBC:0000130	miRNA and endogenous siRNA biogenesis	False
+MBC:0000328	Cytoplasmic protein acetylation and deacetylation	3	"((""Protein acetylation"") OR (""Protein deacetylation"") OR (""Protein acetyltransferases"") OR (""Protein acetyltransferase"") OR (""Lysine acetylation"") OR (""Lysine deacetylation"") OR (""Lysine acetyltransferases"") OR (""Lysine acetyltransferase"") OR (""Lysine deacetylases"") OR (""Lysine deacetylase"") OR (""N-terminal acetylation"") OR (""N-terminal acetyltransferases"") OR (""N-terminal acetyltransferase"")) AND ((""cytosol"") OR (""cytoplasm"") OR (""cytoplasmic"") OR (""cytosolic""))"	MBC:0000073	Cytoplasmic post-translational protein modification	True
+MBC:0000329	Cytoplasmic protein folding	3	"(""Protein folding"") AND ((Cytosol) OR (Cytoplasm)) NOT (Transcription) NOT (degradation) NOT ((ER) OR (endoplasmic reticulum)) NOT (Mitochondria)"	MBC:0000073	Cytoplasmic post-translational protein modification	True
+MBC:0000330	Cytoplasmic protein tyrosination and detyrosination	3	"((""tyrosination"") OR (""detyrosination"")) AND ((""cytosol"") OR (""cytoplasm"") OR (""cytoplasmic"") Or (""cytosolic""))"	MBC:0000073	Cytoplasmic post-translational protein modification	True
+MBC:0000331	Cytoplasmic RNA deadadenylation	3	"((""Parn"") Or (""CCR4-NOT complex"") OR (""mRNA deadenylation"")) AND ((cytoplasmic) OR (cytoplasm)) "	MBC:0000183	RNA surveillance and degradation	True
+MBC:0000332	Decorin synthesis	3	"(""decorin synthesis"") OR (""decorin production"")"	MBC:0000162	Proteoglycan synthesis	True
+MBC:0000333	Desaturation of fatty acids	3	"(""fatty acid desaturase"") OR (""desaturation of fatty acids"")"	MBC:0000088	Fatty acid metabolism	True
+MBC:0000334	Desmosome organization	3	Desmosomes	MBC:0000050	Cell-cell junction organization	True
+MBC:0000335	Direct lesion reversal	3	(Direct lesion reversal)	MBC:0000078	DNA single-strand break repair	True
+MBC:0000336	Discoidin domain receptor signaling	3	"(""Discoidin domain receptor"") AND (signaling)"	MBC:0000187	Signaling by extracellular matrix components	True
+MBC:0000337	DNA cleavage	3	"(""DNA cleavage"")"	MBC:0000086	Eukaryotic DNA replication	True
+MBC:0000338	DNA replication elongation	3	"(Elongation) AND (""DNA replication"") AND (Eukaryotic) NOT (viral) NOT (virus) NOT (bacteria) "	MBC:0000086	Eukaryotic DNA replication	True
+MBC:0000339	DNA replication initiation	3	"(Initiation) AND (""DNA replication"") AND (Eukaryotic) NOT (viral) NOT (virus) NOT (bacteria)"	MBC:0000086	Eukaryotic DNA replication	True
+MBC:0000340	DNA supercoiling during transcription elongation	3	(Transcription elongation) AND (DNA supercoiling) NOT (reverse)	MBC:0000205	Transcription	True
+MBC:0000341	Dopamine-mediated control of postsynaptic potential	3	"((""dopamine"") OR (""dopaminergic"")) AND (postsynaptic)"	MBC:0000069	Control of postsynaptic potential	False
+MBC:0000342	Drug and toxin export via multidrug resistance-associated proteins	3	"(""multidrug resistance-associated proteins"")"	MBC:0000079	Drug and toxin export	False
+MBC:0000343	Early endosome dynamics	3	"(""Early endosome"") OR (""Early endosomes"")"	MBC:0000081	Endocytic pathway	True
+MBC:0000344	Eicosanoid metabolism	3	"((""Eicosanoid metabolism"") OR (""Eicosanoid synthesis"") OR (""Eicosanoid production"") OR (""Arachidonic acid metabolism"") OR (""Arachidonic acid synthesis"") OR (""Arachidonic acid degradation"") OR (""Arachidonic acid production"")) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000088	Fatty acid metabolism	True
+MBC:0000345	Elastin cross-linking and assembly	3	"(""elastin cross-linking"")"	MBC:0000080	Elastogenesis	False
+MBC:0000346	Electron transport chain	3	"(""Electron transport chain"") AND (""oxidative phosphorylation"")"	MBC:0000133	Mitochondrial energy production	True
+MBC:0000347	Endogenous control of complement activity	3	"((""complement control protein"") OR (""complement-regulator"")) AND (human)"	MBC:0000068	Complement pathway and regulation	True
+MBC:0000348	Endoplasmic reticulum quality control system	3	"((""Endoplasmic reticulum quality control"") OR (""ER quality control"") OR (""ER-associated degradation"") OR (""Endoplasmic reticulum associated degradation"")"	MBC:0000156	Post-translational protein modification and quality control during biosynthetic-secretory pathway	True
+MBC:0000349	Endoplasmic reticulum tubulus maintenance	3	"(""tubular ER"") OR (""tubular endoplasmic reticulum"") OR ((""three way junctions"") AND (""endoplasmic reticulum"")"	MBC:0000082	Endoplasmic reticulum and nuclear envelope organization	True
+MBC:0000350	Endoplasmic sheet maintenance	3	(endoplasmic sheet)	MBC:0000082	Endoplasmic reticulum and nuclear envelope organization	True
+MBC:0000351	Endothelin receptor signaling	3	"(""endothelin receptor"") AND (""signaling"")"	MBC:0000191	Signaling pathways regulating cardiovascular homeostasis	True
+MBC:0000352	Ephrin receptor signaling	3	"(""Ephrin receptor"") AND (signaling)"	MBC:0000194	Signaling pathways that control cell proliferation and differentiation	True
+MBC:0000353	Epidermal growth factor receptor signaling	3	"(""Epidermal growth factor receptor signaling"") OR (""EGF receptor signaling"") OR (""EGFR signaling"")"	MBC:0000084	Epidermal growth factor family signaling	True
+MBC:0000354	Epithelial intermediate filament dynamics	3	"(epithelial) AND (""Intermediate filaments"")"	MBC:0000072	Cytoplasmic intermediate filament and septin dynamics	True
+MBC:0000355	Equatorial RhoA activation	3	"(cytokinesis) AND ((""RhoA activation"") OR (""Activation of RhoA"")) AND (mammalian)"	MBC:0000071	Cytokinesis	True
+MBC:0000356	ER unfolded protein response pathway	3	"(""unfolded protein response pathway"") AND ((ER) OR (""endoplasmic reticulum""))"	MBC:0000156	Post-translational protein modification and quality control during biosynthetic-secretory pathway	True
+MBC:0000357	ER-phagy	3	ER-phagy	MBC:0000144	Non-Canonical autophagy	False
+MBC:0000358	Erythropoietin receptor signaling	3	"((""Erythropoietin receptor"") OR (""EPO receptor"")) AND (signaling)"	MBC:0000189	Signaling pathways involved in hematopoiesis	True
+MBC:0000359	Estrogen receptor signaling	3	"(""estrogen receptor signaling"")"	MBC:0000199	Steroid and sex hormone signaling	True
+MBC:0000360	Estrogen synthesis	3	"(""estrogen synthesis"")"	MBC:0000200	Steroid hormone synthesis	True
+MBC:0000361	Eukaryotic axoneme organization	3	(axoneme) AND (human)	MBC:0000085	Eukaryotic cilium and flagellum organization	True
+MBC:0000362	Eukaryotic basal body organization	3	"((""basal body"") OR (""basal granule"") OR (kinetosome)) AND (human) AND ((cilium) OR (cilia))"	MBC:0000085	Eukaryotic cilium and flagellum organization	True
+MBC:0000363	Eukaryotic intraflagellar transport	3	"(""intraflagellar transport"") AND ((human) OR (eukaryotic))"	MBC:0000085	Eukaryotic cilium and flagellum organization	True
+MBC:0000364	Eukaryotic kinetochore dynamics	3	"((""kinetochores"") OR (""kinetochore"")) AND ((""eukaryotic"") OR (human))"	MBC:0000061	Chromosome segregation by mitotic spindle	True
+MBC:0000365	Eukaryotic transition zone organization	3	"(""transition zone"") AND ((eukaryotic) OR (human)) AND ((cilium) OR (cilia) OR (ciliary))"	MBC:0000085	Eukaryotic cilium and flagellum organization	True
+MBC:0000366	Exomer-mediated vesicle traffic from TGN to plasma membrane	3	exomer	MBC:0000210	Vesicle exocytosis	False
+MBC:0000367	Exosome secretion	3	"(""exosome secretion"")"	MBC:0000210	Vesicle exocytosis	True
+MBC:0000368	Extracellular matrix breakdown by adamalysins	3	"(""Extracellular matrix"") AND ((adamalysin) OR (ADAM) OR (""disintegrin and metalloproteinase"") OR (aggrecanase))"	MBC:0000087	Extracellular matrix breakdown	True
+MBC:0000369	Extracellular matrix breakdown by cathepsins	3	"(""Extracellular matrix"") AND (cathepsin)"	MBC:0000087	Extracellular matrix breakdown	True
+MBC:0000370	Extracellular matrix breakdown by heparanases	3	"(""Extracellular matrix"") AND (heparanase)"	MBC:0000087	Extracellular matrix breakdown	True
+MBC:0000371	Extracellular matrix breakdown by matrix metalloproteases	3	"(""matrix metalloprotease"")"	MBC:0000087	Extracellular matrix breakdown	True
+MBC:0000372	Extracellular matrix breakdown by meprins	3	"(""Extracellular matrix"") AND (meprin)"	MBC:0000087	Extracellular matrix breakdown	True
+MBC:0000373	Extracellular matrix breakdown by serine proteases	3	"(""Extracellular matrix"") AND (""serine proteases"")"	MBC:0000087	Extracellular matrix breakdown	True
+MBC:0000374	Extrinsic apoptosis pathway	3	"(((""Extrinsic signaling pathway"") OR (""Extrinsic pathway"")) AND (""Apoptosis"")) OR (""extrinsic apoptosis"") OR (""extrinsic apoptotic pathway"")"	MBC:0000042	Apoptosis	True
+MBC:0000375	Fanconi anemia interstrand cross-link repair pathway	3	"(""Fanconi anemia pathway"")"	MBC:0000076	DNA interstrand cross-links repair	False
+MBC:0000376	Fatty acid elongation	3	"((""Fatty acids"") OR (""Fatty acid"")) AND (""elongation"") AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000088	Fatty acid metabolism	True
+MBC:0000377	Fatty acid omega-hydroxylation	3	"(""Fatty acid"") AND ((""omega hydroxylation"") OR (""omega hydroxylase"") OR (""omega hydroxylases""))"	MBC:0000088	Fatty acid metabolism	False
+MBC:0000378	Fatty acid transfer between membranes	3	"(""Fatty acid binding protein"") OR (""Fatty acid binding proteins"")"	MBC:0000088	Fatty acid metabolism	True
+MBC:0000379	Fatty acid transport by Carnitine shuttle	3	"(""Carnitine"") AND ((""fatty acid"") OR (""fatty acids"")) AND (mitochondria) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000088	Fatty acid metabolism	True
+MBC:0000380	Fc receptor signaling	3	"(""Fc cell receptor"") AND (Signaling)"	MBC:0000096	Immune receptor Signaling	True
+MBC:0000381	Fibrillar collagen core structure organization	3	"(""fibrillar collagen"")"	MBC:0000067	Collagen biosynthesis	True
+MBC:0000382	Fibrillin synthesis	3	"(""Fibrillin"") AND (""synthesis"")"	MBC:0000080	Elastogenesis	True
+MBC:0000383	Fibroblast growth factor receptor signaling	3	"(""Fibroblast growth factor receptor"") AND ((""signaling pathway"") OR (""signaling cascade"") OR (""ligand pathway""))"	MBC:0000194	Signaling pathways that control cell proliferation and differentiation	True
+MBC:0000384	Fibronectin assembly	3	"(""fibronectin assembly"")"	MBC:0000089	Fibronectin matrix dynamics	True
+MBC:0000385	Fibronectin synthesis	3	"(""fibronectin synthesis"")"	MBC:0000089	Fibronectin matrix dynamics	True
+MBC:0000386	Fibulin receptor signaling	3	(Fibulin) AND (signaling)	MBC:0000107	Matricellular protein signaling	True
+MBC:0000387	Filopodium organization	3	((filopodium) OR (filopodia)) AND (human)	MBC:0000090	Filopodium and lamellipodium organization	True
+MBC:0000388	Focal adhesion organization	3	"(""Focal adhesions"")"	MBC:0000051	Cell-matrix adhesion organization	True
+MBC:0000389	Folate cycle	3	"(""folate cycle"") AND (enzyme) AND ((human) OR (animal) OR (mammal) OR (muscle) OR (liver) OR (kidney))"	MBC:0000146	One carbon metabolism	True
+MBC:0000390	Follicle stimulating hormone receptor signaling	3	"((""follicle stimulating hormone receptor"") OR (""FSH receptor"")) AND (""signaling"")"	MBC:0000192	Signaling pathways regulating steroid and sex hormone synthesis	True
+MBC:0000391	Free radical generation by Myeloperoxidase	3	"(radical generation) AND (""myeloperoxidase"")"	MBC:0000091	Free radical generation for respiratory burst	True
+MBC:0000392	Free radical generation by NADPH oxidase	3	"(radical generation) AND (""NADPH-oxidase"")"	MBC:0000091	Free radical generation for respiratory burst	True
+MBC:0000393	Fructose and mannose metabolism	3	"((""Mannose metabolism"") OR (""Fructose metabolism"")) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000047	Carbohydrate metabolism and transport	True
+MBC:0000394	G2 M transition checkpoint	3	"(""G2/M transition checkpoint"") OR (""G2/M checkpoint"")"	MBC:0000137	Mitotic cell cycle checkpoints	True
+MBC:0000395	GABA metabolism	3	"(""GABA metabolism"") AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000121	Metabolism of glutamate and histidine products	True
+MBC:0000396	GABA-mediated control of postsynaptic potential	3	"(""GABA receptor"") AND (postsynaptic)"	MBC:0000069	Control of postsynaptic potential	False
+MBC:0000397	Galactose metabolism	3	"(""Galactose metabolism"") AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000047	Carbohydrate metabolism and transport	True
+MBC:0000398	Gap junction organization	3	Gap junction organization	MBC:0000050	Cell-cell junction organization	True
+MBC:0000399	Gastric inhibitory polypeptide receptor signaling	3	"((""GIP receptor"") OR (""Glucose-dependent insulinotropic polypeptide receptor"") OR (""Gastric inhibitory polypeptide receptor"")) AND (""signaling"")"	MBC:0000092	Gastrointestinal hormone signaling	True
+MBC:0000400	Gastrin and cholecystokinin B receptor signaling	3	"((""gastrin receptor"") OR (""CCKB receptor"") OR (""CCK2 receptor"") OR (""cholecystokinin B receptor"")) AND (""signaling"")"	MBC:0000092	Gastrointestinal hormone signaling	True
+MBC:0000401	Gastrin-releasing peptide receptor signaling	3	"(""Gastrin-releasing peptide receptor"") AND (signaling)"	MBC:0000046	Bombesin receptor signaling	False
+MBC:0000402	Ghrelin receptor signaling	3	"(""Ghrelin receptor"") AND (""signaling"")"	MBC:0000092	Gastrointestinal hormone signaling	True
+MBC:0000403	Glucagon receptor signaling	3	"(""Glucagon receptor signaling"") OR (""Glucagon signaling"")"	MBC:0000188	Signaling pathways involved in glucose and lipid homeostasis	True
+MBC:0000404	Glucagon-like peptide-1 receptor signaling	3	"(""Glucagon-like peptide-1 receptor signaling"") OR (""GLP-1 receptor signaling"") OR (""Glucagon-like peptide-1 signaling"") OR (""GLP-1 signaling"")"	MBC:0000188	Signaling pathways involved in glucose and lipid homeostasis	False
+MBC:0000405	Glucocorticoid and Mineralocorticoid synthesis	3	"(""Glucocorticoid synthesis"") OR (""Mineralocorticoid synthesis"")"	MBC:0000200	Steroid hormone synthesis	True
+MBC:0000406	Glucocorticoid receptor signaling	3	"(""Glucocorticoid receptor"") AND (signaling) "	MBC:0000199	Steroid and sex hormone signaling	True
+MBC:0000407	Glucuronidation	3	"(glucuronidation) AND ((""phase II biotransformation"") OR (""phase II metabolism"") OR (""phase 2 biotransformation"") OR (""phase 2 metabolism"")) AND ((liver) OR (human) OR (mammalian))"	MBC:0000151	Phase II biotransformation	True
+MBC:0000408	Glutamate and glutamine metabolism	3	"((""Glutamate metabolism"") OR (""Glutamate biosynthesis"") OR (""Glutamate synthesis"") OR (""Glutamate catabolism"") OR (""Glutamine metabolism"") OR (""Glutamine biosynthesis"") OR (""Glutamine synthesis"") OR (""Glutamine catabolism"")) AND (enzyme) AND ((human) OR (animal) OR (mammal) OR (muscle) OR (liver) OR (kidney))"	MBC:0000122	Metabolism of non-essential amino acids	True
+MBC:0000409	Glutamate-mediated control of postsynaptic potential	3	"(""glutamate receptor"") AND (postsynaptic) "	MBC:0000069	Control of postsynaptic potential	False
+MBC:0000410	Gluthatione conjugation	3	"(""glutathione conjugation"") AND (biotransformation) AND ((""phase II"") OR (""phase 2""))"	MBC:0000151	Phase II biotransformation	True
+MBC:0000411	Glycine-mediated control of postsynaptic potential	3	"(""glycine receptor"") AND (postsynaptic) "	MBC:0000069	Control of postsynaptic potential	False
+MBC:0000412	Glycogen synthesis and glycogenolysis	3	"((""Glycogen synthesis"") OR (glycogenolysis)) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000047	Carbohydrate metabolism and transport	True
+MBC:0000413	Glycolysis and Gluconeogenesis	3	"((""glycolysis"") OR (""Gluconeogenesis"")) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000047	Carbohydrate metabolism and transport	True
+MBC:0000414	Glycophagy	3	"glycogen autophagy OR ""glycophagy"""	MBC:0000144	Non-Canonical autophagy	True
+MBC:0000415	Glyoxylate metabolism	3	"((""Glyoxylate metabolism"") OR (""Glyoxylate biosynthesis"") OR (""Glyoxylate synthesis"") OR (""Glyoxylate catabolism"")) AND (enzyme) AND ((human) OR (animal) OR (mammal) OR (muscle) OR (liver) OR (kidney))"	MBC:0000122	Metabolism of non-essential amino acids	True
+MBC:0000416	GPI-anchor synthesis and attachment to protein	3	"(""GPI-anchor synthesis"") OR (""Glycosylphosphatidylinositol synthesis"") OR (""Glycosylphosphatidylinositol attachment"") OR (""GPI-anchor attachment"")"	MBC:0000156	Post-translational protein modification and quality control during biosynthetic-secretory pathway	False
+MBC:0000417	G-protein coupled receptor signaling pathway	3	"(""G-protein coupled receptor signaling"")"	MBC:0000100	Intracellular common signaling cascades of multiple pathways	False
+MBC:0000418	Granulocyte macrophage colony-stimulating factor receptor signaling	3	"((""Granulocyte macrophage colony-stimulating factor receptor"") OR (""GMCSF receptor"")) AND (signaling)"	MBC:0000189	Signaling pathways involved in hematopoiesis	False
+MBC:0000419	Granulocyte-colony stimulating factor receptor signaling	3	"((""Granulocyte-colony stimulating factor receptor"") OR (""G-CSF receptor"")) AND (signaling)"	MBC:0000189	Signaling pathways involved in hematopoiesis	False
+MBC:0000420	Growth differentiation factor receptor signaling	3	"(""Growth differentiation factor"") AND (""signaling"")"	MBC:0000202	TGF-beta superfamily signaling	True
+MBC:0000421	Growth hormone receptor signaling	3	"((""Growth hormone receptor"") OR (""GH receptor"")) AND (signaling)"	MBC:0000194	Signaling pathways that control cell proliferation and differentiation	True
+MBC:0000422	H+ homeostasis	3	"(""H+ Homeostasis"" OR ""H+ Regulation"") AND (mice OR human OR mammals)"	MBC:0000149	pH homeostasis	True
+MBC:0000423	HDL assembly	3	HDL assembly	MBC:0000152	Plasma lipoprotein assembly	True
+MBC:0000424	HDL clearance	3	HDL clearance	MBC:0000153	Plasma lipoprotein clearance	True
+MBC:0000425	HDL remodeling	3	HDL remodeling	MBC:0000154	Plasma lipoprotein remodeling	True
+MBC:0000426	Hedgehog receptor signaling	3	"((""hedgehog receptor"") OR (""hedgehog pathway"")) AND (signaling)"	MBC:0000194	Signaling pathways that control cell proliferation and differentiation	True
+MBC:0000427	Heme degradation to bilirubin	3	"((""Heme catabolism"") OR (""Heme degradation"")) AND ((bilirubin) OR (biliverdin))"	MBC:0000094	Heme and hemoglobin metabolism	True
+MBC:0000428	Heme synthesis	3	"(""Heme synthesis"") OR (""Heme biosynthesis"")"	MBC:0000094	Heme and hemoglobin metabolism	True
+MBC:0000429	Hemidesmosome organization	3	Hemidesmosomes	MBC:0000051	Cell-matrix adhesion organization	True
+MBC:0000430	Hemoglobin and myoglobin synthesis	3	"((""hemoglobin synthesis"") OR (""myoglobin synthesis"")) AND (cellular)"	MBC:0000094	Heme and hemoglobin metabolism	True
+MBC:0000431	Heparin and heparan sulfate synthesis	3	"(""Heparan sulfate synthesis"") OR (""heparan sulfate biosynthesis"") OR (""heparan sulfate production"") OR (""Heparin synthesis"") OR (""heparin biosynthesis"") OR (""heparin production"")"	MBC:0000093	Glycosaminoglycan synthesis	True
+MBC:0000432	Heparin-binding EGF-like growth factor receptor signaling	3	"(""Heparin-binding EGF-like growth factor receptor"") AND (signaling)"	MBC:0000084	Epidermal growth factor family signaling	False
+MBC:0000433	Hepatocyte growth factor receptor signaling	3	"(""Hepatocyte growth factor receptor"") AND (signaling)"	MBC:0000194	Signaling pathways that control cell proliferation and differentiation	True
+MBC:0000434	HIF-1 receptor signaling pathway	3	"((""HIF 1"") OR (""hypoxia-induced factor 1"")) AND (""signaling"") "	MBC:0000194	Signaling pathways that control cell proliferation and differentiation	False
+MBC:0000435	Hippo signaling	3	"(""Hippo pathway"") AND (signaling)"	MBC:0000194	Signaling pathways that control cell proliferation and differentiation	True
+MBC:0000436	Histamine metabolism	3	"(""Histamine metabolism"") AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000121	Metabolism of glutamate and histidine products	True
+MBC:0000437	Histone acetylation and deactylation	3	"(""histone acetylation"") OR (""histone deacetylation"")"	MBC:0000095	Histone modification	True
+MBC:0000438	Histone methylation and demethylation	3	"(""histone methylation"") OR (""histone demethylation"") "	MBC:0000095	Histone modification	True
+MBC:0000439	Histone phosphorylation and dephosphorylation	3	"(""histone phosphorylation"") OR (""histone dephosphorylation"")"	MBC:0000095	Histone modification	True
+MBC:0000440	Histone ubiquitination and deubiquitination	3	"(""histone ubiquitination"") OR (""histone deubiquitination"")"	MBC:0000095	Histone modification	True
+MBC:0000441	Homologous recombination DSB repair	3	"(""Homologous recombination"") AND (""DNA repair"")"	MBC:0000075	DNA double-strand break repair	True
+MBC:0000442	HSF1 mediated heat-shock response	3	"HSF1 AND ""heat shock response"" AND (human OR mammals OR mice)"	MBC:0000179	Response to heat stress	False
+MBC:0000443	Hyaluronan receptor CD44 signaling	3	"(""CD44 signaling"")"	MBC:0000187	Signaling by extracellular matrix components	True
+MBC:0000444	Hyaluronan synthesis	3	"(""hyaluronan synthesis"") OR (""hyaluronan biosynthesis"") OR (""hyaluronan production"")"	MBC:0000093	Glycosaminoglycan synthesis	True
+MBC:0000445	Hyaluronan-mediated motility receptor signaling	3	"((""Hyaluronan-mediated motility receptor"") OR (""HMMR"") OR (""Receptor for Hyaluronan mediated motility"") OR (""RHAMM"")) AND (signaling)"	MBC:0000187	Signaling by extracellular matrix components	False
+MBC:0000446	Hydrogen transmembrane transport	3	"((""hydrogen"") OR (""H"") OR (""H+"") OR (proton)) AND ((transmembrane) AND ((transport) OR (Channel) OR (symport) OR (Antiport) OR (ATPase)))"	MBC:0000206	Transmembrane ion transport involved in membrane potential generation	True
+MBC:0000447	Immunglobulin dynamics	3	"(""Plasma Immunoglobulins"")"	MBC:0000045	Blood protein dynamics	True
+MBC:0000448	Immunoproteasome organization	3	"((""11S regulator"") OR (immunoproteasome)) AND ((structure) OR (components) OR (subunit)) "	MBC:0000209	Ubiquitin mediated proteasomal degradation	True
+MBC:0000449	Inhibin receptor signaling	3	"(""inhibin"") AND (""signaling"") "	MBC:0000202	TGF-beta superfamily signaling	True
+MBC:0000450	Inhibition of amyloid aggregation, amyloid degradation and uptake	3	"(""amyloid degradation"") OR (""amyloid beta degradation"") OR ((""amyloid"") AND (""aggregation inhibition"")) OR (""amyloid uptake"")"	MBC:0000040	Amyloid generation and aggregation	True
+MBC:0000451	Inhibition of apoptosis	3	"(""Inhibitor of apoptosis"") AND (caspase) NOT (smac)"	MBC:0000042	Apoptosis	True
+MBC:0000452	Inhibition of matrix metalloproteinase and adamalysin activity	3	"(""Matrix metalloproteinase inhibitor"") OR (""matrix metalloproteinase inhibition"") OR (""ADAM inhibition"") OR (""ADAM inhibitor"")"	MBC:0000087	Extracellular matrix breakdown	True
+MBC:0000453	Inhibition of meprin activity	3	(Inhibition) AND (meprin)	MBC:0000087	Extracellular matrix breakdown	True
+MBC:0000454	Inositol metabolism and transport	3	"((""Inositol metabolism"") OR (""inositol transport"") OR (""inositol transmembrane transport"")) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000047	Carbohydrate metabolism and transport	True
+MBC:0000455	Insulin receptor signaling	3	"(""Insulin receptor signaling"")"	MBC:0000188	Signaling pathways involved in glucose and lipid homeostasis	True
+MBC:0000456	Insulin-like growth factor receptor signaling	3	"(""Insulin-like growth factor receptor"") AND (""signaling"")"	MBC:0000194	Signaling pathways that control cell proliferation and differentiation	False
+MBC:0000457	Integrin receptor signaling	3	"(""Integrin receptor"") AND (signaling)"	MBC:0000187	Signaling by extracellular matrix components	True
+MBC:0000458	Integrin-mediated leukocyte rolling	3	"(integrin) AND (""leukocyte rolling"")"	MBC:0000184	Rolling cell adhesion	False
+MBC:0000459	Interferon alpha receptor signaling	3	"(""Interferon alpha receptor"") AND (signaling)"	MBC:0000097	Interferon signaling	True
+MBC:0000460	Interferon beta receptor signaling	3	"(""Interferon beta"") AND (signaling)"	MBC:0000097	Interferon signaling	True
+MBC:0000461	Interferon gamma receptor signaling	3	"(""Interferon gamma receptor"") AND (signaling)"	MBC:0000097	Interferon signaling	True
+MBC:0000462	Interferon receptor signaling	3	"((""Interferon alpha receptor"") OR (""Interferon beta receptor"") OR (""Interferon gamma receptor"")) AND (signaling)"	MBC:0000097	Interferon signaling	True
+MBC:0000463	Intergrin mediated mechanotransduction	3	"integrin AND ""mechanotransduction"""	MBC:0000116	Mechanotransduction	True
+MBC:0000464	Interleukin 1 receptor signaling	3	"(""Interleukin 1"") AND (""receptor signaling"")"	MBC:0000098	Interleukin receptor signaling	True
+MBC:0000465	Interleukin 11 receptor signaling	3	"(""Interleukin 11"") AND (""receptor signaling"")"	MBC:0000098	Interleukin receptor signaling	True
+MBC:0000466	Interleukin 12 receptor signaling	3	"(""Interleukin 12"") AND (""receptor signaling"")"	MBC:0000098	Interleukin receptor signaling	True
+MBC:0000467	Interleukin 13 receptor signaling	3	"(""Interleukin 13"") AND (""receptor signaling"")"	MBC:0000098	Interleukin receptor signaling	True
+MBC:0000468	Interleukin 15 receptor signaling	3	"(""Interleukin 15"") AND (""receptor signaling"")"	MBC:0000098	Interleukin receptor signaling	True
+MBC:0000469	Interleukin 18 receptor signaling	3	"(""Interleukin 18"") AND (""receptor signaling"")"	MBC:0000098	Interleukin receptor signaling	True
+MBC:0000470	Interleukin 2 receptor signaling	3	"(""Interleukin 2"") AND (""receptor signaling"")"	MBC:0000098	Interleukin receptor signaling	True
+MBC:0000471	Interleukin 21 receptor signaling	3	"(""Interleukin 21"") AND (""receptor signaling"")"	MBC:0000098	Interleukin receptor signaling	True
+MBC:0000472	Interleukin 23 receptor signaling	3	"(""Interleukin 23"") AND (""receptor signaling"")"	MBC:0000098	Interleukin receptor signaling	True
+MBC:0000473	Interleukin 27 receptor signaling	3	"(""Interleukin 27"") AND (""receptor signaling"")"	MBC:0000098	Interleukin receptor signaling	True
+MBC:0000474	Interleukin 3 receptor signaling	3	"(""Interleukin 3"") AND (""receptor signaling"")"	MBC:0000098	Interleukin receptor signaling	True
+MBC:0000475	Interleukin 33 receptor signaling	3	"(""Interleukin 33"") AND (""receptor signaling"")"	MBC:0000098	Interleukin receptor signaling	True
+MBC:0000476	Interleukin 4 receptor signaling	3	"(""Interleukin 4"") AND (""receptor signaling"")"	MBC:0000098	Interleukin receptor signaling	True
+MBC:0000477	Interleukin 5 receptor signaling	3	"(""Interleukin 5"") AND (""receptor signaling"")"	MBC:0000098	Interleukin receptor signaling	True
+MBC:0000478	Interleukin 6 receptor signaling	3	"(""Interleukin 6"") AND (""receptor signaling"")"	MBC:0000098	Interleukin receptor signaling	True
+MBC:0000479	Interleukin 7 receptor signaling	3	"(""Interleukin 7"") AND (""receptor signaling"")"	MBC:0000098	Interleukin receptor signaling	True
+MBC:0000480	Interleukin 8 receptor signaling	3	"(""Interleukin 8"") AND (""receptor signaling"")"	MBC:0000098	Interleukin receptor signaling	True
+MBC:0000481	Interleukin 9 receptor signaling	3	"(""Interleukin 9"") AND (""receptor signaling"")"	MBC:0000098	Interleukin receptor signaling	True
+MBC:0000482	Intestinal absorption and excretion of cholesterol	3	((Intestinal absorption) OR (excretion)) AND (cholesterol)	MBC:0000118	Metabolism and transport of cholesterol, steroids and bile acids	True
+MBC:0000483	Intracellular bridge abscission	3	"((""Intracellular bridge"") OR (midbody)) AND (abscission)"	MBC:0000071	Cytokinesis	True
+MBC:0000484	Intracellular bridge assembly	3	"((""Intracellular bridge"") OR (midbody)) AND (assembly)"	MBC:0000071	Cytokinesis	True
+MBC:0000485	Intrinsic apoptosis pathway	3	"(""intrinsic apoptosis"") OR (""intrinsic apoptotic pathway"")"	MBC:0000042	Apoptosis	True
+MBC:0000486	JAK-STAT signaling pathway	3	"(""JAK STAT signaling pathway"") OR (""JAK STAT signaling cascade"")"	MBC:0000100	Intracellular common signaling cascades of multiple pathways	False
+MBC:0000487	Kallidin receptor signaling	3	"((""Kallidin"") OR (""low-molecular weight kininogen"")) AND (""signaling"")"	MBC:0000102	Kinin–kallikrein system	True
+MBC:0000488	Keton body metabolism	3	"((""ketone body metabolism"") OR ((""ketogenesis"") AND ((liver) OR (kidney))) OR (""ketone utilization"") OR (""ketone oxidation"")) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000088	Fatty acid metabolism	True
+MBC:0000489	Lamellipodium organization	3	((Lamellipodium) OR (Lamellipodia)) AND (human)	MBC:0000090	Filopodium and lamellipodium organization	True
+MBC:0000490	Large ribosomal subunit organization	3	"(""Ribosomal protein"") AND ((""60S subunit"") OR (""60S ribosomal"") OR (""large subunit"") OR (""large ribosomal""))"	MBC:0000182	Ribonucleoprotein biogenesis	True
+MBC:0000491	Late endosome dynamics	3	"(""Late endosome"") OR (""Late endosomes"")"	MBC:0000081	Endocytic pathway	True
+MBC:0000492	LDL clearance	3	LDL clearance	MBC:0000153	Plasma lipoprotein clearance	True
+MBC:0000493	LDL remodeling	3	LDL remodeling	MBC:0000154	Plasma lipoprotein remodeling	True
+MBC:0000494	Lectin complement pathway	3	"(""lectin pathway"") AND (complement)"	MBC:0000068	Complement pathway and regulation	True
+MBC:0000495	Leptin receptor signaling	3	"(""Leptin receptor signaling"")"	MBC:0000092	Gastrointestinal hormone signaling	True
+MBC:0000496	Leukemia inhibitory factor receptor signaling	3	"(""Leukemia inhibitory factor receptor"") AND (signaling)"	MBC:0000189	Signaling pathways involved in hematopoiesis	True
+MBC:0000497	Leukocyte transmigration through endothelial cells	3	"(""leukocyte transmigration"") AND (""endothelial cells"")"	MBC:0000184	Rolling cell adhesion	True
+MBC:0000498	Linkage of nucleoskeleton and cytoskeleton	3	"((Link) OR (bridge) OR (connect) OR (interact)) AND ((nucleoskeleton) OR (lamin)) AND ((cytoskeleton) OR (actin) OR (microtubule) OR (""intermediate filaments""))"	MBC:0000099	Interphase nucleus and nuclear chromatin organization	True
+MBC:0000499	Lipid droplet biogenesis	3	"(""Lipid droplets"") AND ((""biogenesis"") OR (""generation"") OR (""synthesis"") OR ((""budding"") AND (""endoplasmic reticulum"")))"	MBC:0000103	Lipid droplet dynamics	True
+MBC:0000500	Lipid droplet fusion	3	"(""droplet fusion"") AND (lipid)"	MBC:0000103	Lipid droplet dynamics	True
+MBC:0000501	Lipid droplet mitochondria interaction	3	"((""lipid droplet"") OR (""lipid droplets"")) AND (mitochondria)"	MBC:0000103	Lipid droplet dynamics	True
+MBC:0000502	Lipid transfer between membrane leaflets	3	"(""flippases"")"	MBC:0000117	Membrane lipid metabolism	True
+MBC:0000503	Lipid-raft microdomains	3	Lipid Raft microdomains	MBC:0000155	Plasma membrane microdomains	False
+MBC:0000504	Lipogenesis	3	"((""Fatty acid synthesis"") OR (""Fatty acids synthesis"") OR (""de novo lipogenesis"")) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000088	Fatty acid metabolism	True
+MBC:0000505	Luteinizing hormone hormone receptor signaling	3	"((""luteinizing hormone receptor"") OR (""LH receptor"")) AND (""signaling"")"	MBC:0000192	Signaling pathways regulating steroid and sex hormone synthesis	True
+MBC:0000506	Lysine metabolism	3	"((""lysine degradation"") OR (""Lysine catabolism"") OR (""Lysine metabolism"")) AND (enzyme) AND ((human) OR (animal) OR (mammal) OR (muscle) OR (liver) OR (kidney))"	MBC:0000119	Metabolism of essential amino acids	True
+MBC:0000507	Lysosomal acidification	3	Lysosomal acidification	MBC:0000074	Degradation by lysosomal enzymes	True
+MBC:0000508	Lysosomal glycoprotein degradation	3	((Lysosome) OR (Lysosomal)) AND (glycoprotein) AND ((degradation) OR (digestion) OR (hydrolysis))	MBC:0000074	Degradation by lysosomal enzymes	True
+MBC:0000509	Lysosomal glycosaminoglycan degradation	3	((Lysosome) OR (Lysosomal)) AND ((glycosaminoglycan) OR (Mucopolysaccharide)) AND ((degradation) OR (digestion) OR (hydrolysis))	MBC:0000074	Degradation by lysosomal enzymes	True
+MBC:0000510	Lysosomal lipid degradation	3	((Lysosome) OR (Lysosomal)) AND (lipid) AND ((degradation) OR (digestion) OR (hydrolysis))	MBC:0000074	Degradation by lysosomal enzymes	True
+MBC:0000511	Macroautophagy	3	(Macroautophagy) AND (human)	MBC:0000043	Autophagy	True
+MBC:0000512	Macrophage migration inhibitory factor signaling	3	"(""Macrophage migration inhibitory factor"") AND (signaling)"	MBC:0000084	Epidermal growth factor family signaling	True
+MBC:0000513	Mammalian target of rapamycin signaling pathway	3	"(""mTOR signaling pathway"")"	MBC:0000100	Intracellular common signaling cascades of multiple pathways	True
+MBC:0000514	MAPK signaling pathway	3	"((""MAPK signaling pathway"") OR (""MAPK signaling cascade""))"	MBC:0000100	Intracellular common signaling cascades of multiple pathways	True
+MBC:0000515	Mature astrocyte differentiation markers	3	"(""astrocytes"") AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000114	Mature neuronal cell differentiation markers	True
+MBC:0000516	"Mature cone photoreceptor differentiation markers (""Cone"") AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	3	"Mature cone photoreceptor differentiation markers (""Cone"") AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000115	Mature retinal cell differentiation markers	False
+MBC:0000517	Mature hepatocyte cell differentiation markers	3	"(""hepatocytes"") AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000113	Mature liver cell differentiation markers	True
+MBC:0000518	"Mature kupffer cell differentiation markers (""Kupffer cells"") AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	3	"Mature kupffer cell differentiation markers (""Kupffer cells"") AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000113	Mature liver cell differentiation markers	False
+MBC:0000519	Mature lymphocyte differentiation markers	3	"Lymphocytes AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000111	Mature Hematopoietic stem cell differentiation markers	True
+MBC:0000520	Mature myeloid cell differentiation markers	3	"Myeloid AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000111	Mature Hematopoietic stem cell differentiation markers	True
+MBC:0000521	Mature myocyte cell differentiation markers	3	"Myocytes AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000111	Mature Hematopoietic stem cell differentiation markers	True
+MBC:0000522	Mature neuron cell differentiation markers	3	"(""Neuron"") AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000114	Mature neuronal cell differentiation markers	True
+MBC:0000523	Mature oligodendrocyte differentiation markers	3	"(""oligodendrocytes"") AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000114	Mature neuronal cell differentiation markers	True
+MBC:0000524	Mature oocyte differentiation markers	3	"(""Oocyte"" OR ""female germ cell"") AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000110	Mature germ cell differentiation markers	True
+MBC:0000525	Mature osteoblast differentiation markers	3	"(""Osteoblasts"") AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000109	Mature Bone cell differentiation markers	True
+MBC:0000526	Mature osteoclast differentiation markers	3	"(""Osteoclasts"") AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000109	Mature Bone cell differentiation markers	True
+MBC:0000527	Mature osteocyte differentiation markers	3	"(""Osteocytes"") AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000109	Mature Bone cell differentiation markers	True
+MBC:0000528	Mature Pneumocyte type I cell differentiation markers	3	"(""alveolar cells"" OR ""pneumocytes"") AND ""type I"" AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000108	Mature alveolar cell differentiation markers	True
+MBC:0000529	Mature Pneumocyte type II cell differentiation markers	3	"(""alveolar cells"" OR ""pneumocytes"") AND ""type II"" AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000108	Mature alveolar cell differentiation markers	True
+MBC:0000530	Mature podocyte differentiation markers	3	"(""podocytes"") AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000112	Mature kidney cell differentiation markers	True
+MBC:0000531	Mature retinal ganglion cell differentiation markers	3	"(""retinal ganglion cells"") AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals) "	MBC:0000115	Mature retinal cell differentiation markers	True
+MBC:0000532	Mature rod photoreceptor differentiation markers	3	"(""Rod"") AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000115	Mature retinal cell differentiation markers	True
+MBC:0000533	Mature schwann cell differentiation markers	3	"(""schwann cells"") AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000114	Mature neuronal cell differentiation markers	True
+MBC:0000534	Mature sinusoidal cell differentiation markers	3	"(""Sinusoidal endothelial cells"") AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000113	Mature liver cell differentiation markers	True
+MBC:0000535	Mature sperm cell differentiaton markers	3	"(""sperm"" OR ""male germ cell"") AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000110	Mature germ cell differentiation markers	True
+MBC:0000536	Mature stellate cell differentiation markers	3	"(""Stellate cells"") AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000113	Mature liver cell differentiation markers	True
+MBC:0000537	MDA-5 receptor signaling	3	"(""MDA-5"") AND (signaling)"	MBC:0000147	Pattern recognition signaling	False
+MBC:0000538	Mechanotransduction via mechanosensitive ion channels	3	"ion channels AND ""mechanotransduction"""	MBC:0000116	Mechanotransduction	True
+MBC:0000539	Membrane attack complex formation	3	"(""Membrane attack complex"")"	MBC:0000068	Complement pathway and regulation	True
+MBC:0000540	Metabolism of branched-chain amino acids	3	"((""leucine degradation"") OR (""leucine catabolism"") OR (""leucine metabolism"") OR (""isoleucine degradation"") OR (""isoleucine catabolism"") OR (""isoleucine metabolism"") OR (""valine degradation"") OR (""valine catabolism"") OR (""valine metabolism"")) AND (enzyme) AND ((human) OR (animal) OR (mammal) OR (muscle) OR (liver) OR (kidney))"	MBC:0000119	Metabolism of essential amino acids	False
+MBC:0000541	Metaphase to anaphase checkpoint	3	"((""Metaphase to anaphase checkpoint"") OR (""Spindle checkpoint"") OR (""Spindle assembly checkpoint"")"	MBC:0000137	Mitotic cell cycle checkpoints	True
+MBC:0000542	Methionine cycle	3	"(""methionine cycle"") AND (enzyme) AND ((human) OR (animal) OR (mammal) OR (muscle) OR (liver) OR (kidney))"	MBC:0000146	One carbon metabolism	True
+MBC:0000543	Microfibril scaffold organization	3	(microfibril) AND (scaffold)	MBC:0000080	Elastogenesis	True
+MBC:0000544	Microtubule assistance of vesicle traffic between Golgi and ER	3	"((microtubules) OR (microtubule) OR (kinesin)) AND (""vesicle"") AND ((ER) OR (endoplasmic) OR (ERGIC)) AND ((Golgi) OR (ERGIC)) "	MBC:0000211	Vesicle traffic between ER and TGN	True
+MBC:0000545	Microtubule crosslinking and bundling	3	"(""microtubule crosslinking"") OR (""microtubule bundling"")"	MBC:0000128	Microtubule dynamics	True
+MBC:0000546	Microtubule depolymerization, severing and catastrophe	3	"(""microtubule depolymerization"") OR (""microtubule severing"") OR (""microtubule catastrophe"") "	MBC:0000128	Microtubule dynamics	True
+MBC:0000547	Microtubule destabilization	3	" (""microtubule destabilization"")"	MBC:0000128	Microtubule dynamics	True
+MBC:0000548	Microtubule nucleation and rescue	3	"(""microtubule nucleation"") OR (""microtubule rescue"") "	MBC:0000128	Microtubule dynamics	True
+MBC:0000549	Microtubule plus-end tracking	3	"(""microtubule plus end tracking"")"	MBC:0000128	Microtubule dynamics	False
+MBC:0000550	Microtubule polymerization	3	"(""microtubule polymerization""))"	MBC:0000128	Microtubule dynamics	True
+MBC:0000551	Microtubule stabilization	3	"(""microtubule stabilization"")"	MBC:0000128	Microtubule dynamics	True
+MBC:0000552	Microtubule-based secretory vesicle traffic	3	"((""secretory vesicle"") OR (""secretory vesicles"")) AND (microtubule) AND (transport)"	MBC:0000210	Vesicle exocytosis	False
+MBC:0000553	Mineralocorticoid receptor signaling	3	"(""mineralocorticoid receptor"") AND (""signaling"") "	MBC:0000193	Signaling pathways regulating water homeostasis	True
+MBC:0000554	Mismatch repair	3	"(""Mismatch repair"") AND (""DNA repair"") "	MBC:0000078	DNA single-strand break repair	True
+MBC:0000555	Mitochondrial ADP import and ATP export	3	"(Mitochondria) AND ((""ATP export"") OR (""ADP import"") OR (""ATP transport"") OR (""ADP transport""))"	MBC:0000133	Mitochondrial energy production	True
+MBC:0000556	Mitochondrial ATP-synthesis	3	"(""Mitochondrial ATP-synthesis"")"	MBC:0000133	Mitochondrial energy production	False
+MBC:0000557	Mitochondrial fission	3	"(""mitochondria fission"") OR (""mitochondrial fission"")"	MBC:0000132	Mitochondrial dynamics	True
+MBC:0000558	Mitochondrial fusion	3	"  ((""mitochondria fusion"") OR (""mitochondrial fusion""))"	MBC:0000132	Mitochondrial dynamics	True
+MBC:0000559	Mitochondrial transport	3	"(""mitochondrial transport"")"	MBC:0000132	Mitochondrial dynamics	True
+MBC:0000560	Mitochondrial uncoupling by mitochondrial anion carrier proteins	3	"(""mitochondrial uncoupling protein"")"	MBC:0000133	Mitochondrial energy production	True
+MBC:0000561	Mitophagy	3	"mitophagy OR ""mitochondrial autophagy"""	MBC:0000144	Non-Canonical autophagy	True
+MBC:0000562	Mitotic chromosome condensation	3	"(""mitotic chromosome condensation"")"	MBC:0000061	Chromosome segregation by mitotic spindle	True
+MBC:0000563	Mitotic H3 phosphorylation	3	"((""Non-vesicular lipid transport H3"") AND (phosphorylation)) AND (mitosis)"	MBC:0000061	Chromosome segregation by mitotic spindle	True
+MBC:0000564	Mitotic spindle assembly	3	"(""Mitotic spindle"") AND (assembly) NOT (disassembly)"	MBC:0000061	Chromosome segregation by mitotic spindle	True
+MBC:0000565	Mitotic spindle disassembly	3	"(""Mitotic spindle"") AND (disassembly)"	MBC:0000061	Chromosome segregation by mitotic spindle	True
+MBC:0000566	Motilin receptor signaling	3	"(""Motilin receptor"") AND (""signaling"")"	MBC:0000092	Gastrointestinal hormone signaling	True
+MBC:0000567	mRNA decapping and 5' degradation	3	"(""mRNA decapping"")"	MBC:0000183	RNA surveillance and degradation	True
+MBC:0000568	mRNA degradation, storing and translational repression by cytoplasmic processing bodies	3	"(""Cytoplasmic processing bodies"")"	MBC:0000183	RNA surveillance and degradation	True
+MBC:0000569	Multivesicular body dynamics	3	"(""Multivesicular body"") OR (""Multivesicular bodies"") "	MBC:0000081	Endocytic pathway	True
+MBC:0000570	Muscarinic acetylcholine receptor signaling	3	"(""Muscarinic receptor"") OR (""Muscarinic Acetylcholine receptor"") AND (Signaling)"	MBC:0000191	Signaling pathways regulating cardiovascular homeostasis	True
+MBC:0000571	Myelin biogenesis and maturation	3	"((Biogenesis) AND (myelin)) OR (""myelin maturation"") OR (""myelin synthesis"")"	MBC:0000142	Neuronal action potential generation and propagation	True
+MBC:0000572	Myofibril formation	3	"(""myofibril formation"") OR (""myofibril assembly"")"	MBC:0000140	Myofibril formation and organization	True
+MBC:0000573	Natriuretic peptide receptor signaling	3	"(""Atrial natriuretic peptide signaling"") OR (""Atrial natriuretic factor signaling"") OR (""Brain natriuretic peptide signaling"") OR (""Brain natriuretic factor signaling"") OR ((""C-type natriuretic peptide"") AND (signaling))"	MBC:0000193	Signaling pathways regulating water homeostasis	True
+MBC:0000574	Necroptosis induction	3	(Necroptosis) AND (induction)	MBC:0000141	Necroptosis	True
+MBC:0000575	Necroptotic release of damage-associated molecular patterns	3	"(Necroptosis) AND ((""damage-associated molecular patterns"") OR (DAMP))"	MBC:0000141	Necroptosis	False
+MBC:0000576	Necrosome formation	3	(necrosome) AND ((formation) OR (assembly))                                    	MBC:0000141	Necroptosis	True
+MBC:0000577	Nerve growth factor receptor signaling	3	"(""Nerve growth factor receptor"") AND (signaling) "	MBC:0000143	Neuronal signaling pathways	True
+MBC:0000578	Neuregulin receptor signaling	3	"(""Neuregulin"") AND (signaling)"	MBC:0000084	Epidermal growth factor family signaling	True
+MBC:0000579	Neuromedin B receptor signaling	3	"(""Neuromedin B receptor"")"	MBC:0000046	Bombesin receptor signaling	True
+MBC:0000580	Neuronal membrane depolarization during action potential	3	"(""Action potential"") AND (""depolarization"") AND (channel) AND (neuron)"	MBC:0000142	Neuronal action potential generation and propagation	True
+MBC:0000581	Neuronal membrane repolarization during action potential and hyperpolarization	3	"(""Action potential"") AND ((""hyperpolarization"") OR (""repolarization"")) AND (channel) AND (neuron)"	MBC:0000142	Neuronal action potential generation and propagation	True
+MBC:0000582	Neuronal pacemaker current generation	3	"((""Hyperpolarization-activated cation channels"") OR (""pacemaker"")) AND (channel) AND (neuron)"	MBC:0000142	Neuronal action potential generation and propagation	True
+MBC:0000583	NFkB signaling pathway	3	"(""NFKB signaling"") OR (""NFKB pathway"")"	MBC:0000100	Intracellular common signaling cascades of multiple pathways	True
+MBC:0000584	Niacin metabolism	3	"(""niacin biosynthesis"") OR (""nicotinic acid biosynthesis"") OR (""NAD biosynthesis"") OR (""NADP biosynthesis"")"	MBC:0000126	Metabolism of water-soluble vitamins	True
+MBC:0000585	Nitric oxide signaling pathway	3	"(""nitric oxide signaling pathway"") OR (""nitric oxide signaling cascade"")"	MBC:0000100	Intracellular common signaling cascades of multiple pathways	True
+MBC:0000586	Nodal growth differentiation factor receptor signaling	3	"(""NODAL"") AND (""signaling"")"	MBC:0000202	TGF-beta superfamily signaling	True
+MBC:0000587	NOD-like receptor signaling	3	"(""NOD-like receptor"") AND (signaling)"	MBC:0000147	Pattern recognition signaling	False
+MBC:0000588	Non-homologous end joining DSB repair	3	"(""Non-homologous end joining"") AND (""DNA repair"")"	MBC:0000075	DNA double-strand break repair	False
+MBC:0000589	Non-raft microdomains	3	non-raft microdomains	MBC:0000155	Plasma membrane microdomains	False
+MBC:0000590	Nonsense-mediated mRNA decay pathway	3	"((""NMD pathway"") OR (""Nonsense-mediated RNA decay pathway""))"	MBC:0000183	RNA surveillance and degradation	False
+MBC:0000591	Nonstop mRNA decay pathway	3	"(RNA) AND (""nonstop decay"")"	MBC:0000183	RNA surveillance and degradation	True
+MBC:0000592	Non-vesicular ceramide transport	3	"((""non-vesicular"") OR (intermembrane) OR (transfer protein)) AND (ceramide) AND (transport)"	MBC:0000145	Non-vesicular lipid transport	False
+MBC:0000593	Non-vesicular oxysterol transport	3	"((""non-vesicular"") OR (intermembrane) OR (transfer protein)) AND ((OSBP) OR (oxysterol)) AND (transport)"	MBC:0000145	Non-vesicular lipid transport	False
+MBC:0000594	Non-vesicular phospholipid transport	3	"((""non-vesicular"") OR (intermembrane) OR (transfer protein)) AND (phospholipid) AND (transport)"	MBC:0000145	Non-vesicular lipid transport	False
+MBC:0000595	Notch receptor signaling	3	"(""Notch receptor"") AND (signaling) "	MBC:0000194	Signaling pathways that control cell proliferation and differentiation	True
+MBC:0000596	Nuclear Drosha-mediated microRNA processing	3	"((""microRNA processing"") OR (""miRNA processing"")) AND (Drosha)"	MBC:0000130	miRNA and endogenous siRNA biogenesis	False
+MBC:0000597	Nuclear envelope maintenance	3	"(""Nuclear envelope structure"") OR (""Nuclear envelope architecture"") OR (""Nuclear envelope organization"")"	MBC:0000082	Endoplasmic reticulum and nuclear envelope organization	True
+MBC:0000598	Nuclear import of core snRNP	3	"(""nuclear import"") AND ((snRNP) OR (""small nuclear RNP""))"	MBC:0000197	snRNA expression and spliceosome generation	True
+MBC:0000599	Nuclear intermediate filaments	3	"(Lamin) OR ((""Intermediate filaments"") AND (nuclear))"	MBC:0000099	Interphase nucleus and nuclear chromatin organization	True
+MBC:0000600	Nuclear mRNA export	3	"(""nuclear mRNA export"") OR (""mRNA nuclear export"")"	MBC:0000138	mRNA capping, editing, polyadenylation and nuclear export	True
+MBC:0000601	Nuclear pore complex organization	3	"(""Nuclear pore complex"") NOT (bacterial) NOT (plant)"	MBC:0000161	Protein transport across the nuclear membrane	True
+MBC:0000602	Nuclear protein export	3	"(""Nuclear protein export"") OR ((""Protein export"") AND (nucleus)) "	MBC:0000161	Protein transport across the nuclear membrane	True
+MBC:0000603	Nuclear protein import	3	"(""Nuclear protein import"")"	MBC:0000161	Protein transport across the nuclear membrane	True
+MBC:0000604	Nuclear snRNA processing	3	"((""Small nuclear RNA"") OR (snRNA)) AND (integrator) "	MBC:0000197	snRNA expression and spliceosome generation	True
+MBC:0000605	Nucleosome assembly	3	"(""nucleosome assembly"")"	MBC:0000060	Chromatin remodeling	True
+MBC:0000606	Nucleosome disassembly	3	"(""nucleosome disassembly"")"	MBC:0000060	Chromatin remodeling	True
+MBC:0000607	Nucleosome remodeling	3	"(""nucleosome remodeling"")"	MBC:0000060	Chromatin remodeling	True
+MBC:0000608	Nucleotide excision repair	3	"(""Nucleotide excision repair"") AND (""DNA repair"")"	MBC:0000078	DNA single-strand break repair	True
+MBC:0000609	Oncogene induced senescence	3	Oncogene induced senescence AND (human OR mammals OR mice)	MBC:0000049	Cell Scenescence	True
+MBC:0000610	Oncostatin-M receptor signaling	3	"((""Oncostatin-M receptor"") OR (""OSM receptor"")) AND (signaling)"	MBC:0000189	Signaling pathways involved in hematopoiesis	False
+MBC:0000611	Osteonectin receptor signaling	3	((osteonectin) OR (Sparc)) AND (signaling)	MBC:0000107	Matricellular protein signaling	True
+MBC:0000612	Osteopontin receptor signaling	3	"((""Osteopontin"") OR (""Bone sialoprotein"") OR (""secreted phosphoprotein"") OR (""Early T-lymphocyte activation"")) AND (signaling)"	MBC:0000107	Matricellular protein signaling	True
+MBC:0000613	Oxidative senescence	3	Oxidative Senescence AND (human OR mammals OR mice)	MBC:0000049	Cell Scenescence	True
+MBC:0000614	Oxygen mediated regulation of hypoxia-inducible-factor	3	"Oxygen AND ""regulation of HIF"" AND (human OR mammals OR mice)"	MBC:0000180	Response to hypoxia	False
+MBC:0000615	Parathyroid hormone receptor signaling	3	"((""Parathyroid hormone receptor"") OR (""PTH receptor"")) AND (""signaling"")"	MBC:0000190	Signaling pathways regulating calcium homeostasis	True
+MBC:0000616	Pentose phosphate pathway	3	"((""Pentose phosphate pathway"") OR (""phosphogluconate pathway"") OR (""hexose monophosphate shunt"") OR (""hexose monophosphate pathway"")) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000047	Carbohydrate metabolism and transport	True
+MBC:0000617	Perlecan synthesis	3	"(""Perlecan synthesis"") OR (""Perlecan production"")"	MBC:0000044	Basement membrane dynamics	True
+MBC:0000618	Peroxisome proliferator-activated receptor alpha signaling	3	"(""Peroxisome proliferator-activated receptor alpha"") AND (signaling)"	MBC:0000188	Signaling pathways involved in glucose and lipid homeostasis	False
+MBC:0000619	Peroxisome proliferator-activated receptor gamma signaling	3	"(""Peroxisome proliferator-activated receptor gamma"") AND (signaling) "	MBC:0000188	Signaling pathways involved in glucose and lipid homeostasis	False
+MBC:0000620	Phase I biotransformation via alcohol dehydrogenases	3	"((""alcohol dehydrogenase"") OR (""aldehyde dehydrogenase"")) AND (""biotransformation"")"	MBC:0000150	Phase I biotransformation	True
+MBC:0000621	Phase I biotransformation via cytochrome P450	3	"((""cytochrome P450"") OR (CYP450)) AND ((""phase I biotransformation"") OR (""phase I metabolism"") OR (""phase 1 biotransformation"") OR (""phase 1 metabolism"")) AND ((liver) OR (human) OR (mammalian))"	MBC:0000150	Phase I biotransformation	True
+MBC:0000622	Phase I biotransformation via flavin-containing monooxygenases	3	"(""flavin containing monooxygenase"") AND (""biotransformation"")"	MBC:0000150	Phase I biotransformation	False
+MBC:0000623	Phenylalanine catabolism	3	"((""Phenylalanine degradation"") OR (""Phenylalanine catabolism"") OR (""Phenylalanine metabolism"")) AND (enzyme) AND ((human) OR (animal) OR (mammal) OR (muscle) OR (liver) OR (kidney))"	MBC:0000119	Metabolism of essential amino acids	True
+MBC:0000624	Phosphate transmembrane transport	3	"((phosphate) OR (""PO"") OR (""PO3-"") OR (""PO4-"")) AND ((transmembrane) AND ((transport) OR (Channel) OR (symport) OR (Antiport) OR (ATPase)))"	MBC:0000207	Transmembrane water and ion transport not involved in membrane potential generatation	True
+MBC:0000625	Phosphoglyceride biosynthesis	3	"((""phosphoglyceride biosynthesis"") OR (""phosphoglyceride synthesis"") OR (""phosphatidylcholine biosynthesis"") OR (""phosphatidylcholine synthesis"") OR (""phosphatidylethanolamine biosynthesis"") OR (""phosphatidylethanolamine synthesis"") OR (""phosphatidylserine biosynthesis"") OR (""phosphatidylserine synthesis"") OR (""phosphatidylinositol biosynthesis"") OR (""phosphatidylinositol synthesis"") OR (""Kennedy pathway"")) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000117	Membrane lipid metabolism	True
+MBC:0000626	Phosphoglyceride remodelling via Lands cycle	3	"((""Lands cycle"") OR (""phospholipid remodeling"")) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000117	Membrane lipid metabolism	True
+MBC:0000627	Phospholipase C signaling pathway	3	"(""Phospholipase C signaling pathway"") OR (""Phospholipase C signaling cascade"") OR (""PLC signaling pathway"") OR (""Phospholipase C signal transduction"") OR (""PLC signal transduction"")"	MBC:0000100	Intracellular common signaling cascades of multiple pathways	True
+MBC:0000628	PI3 kinase AKT signaling pathway	3	"(""PI3K/AKT signaling pathway"") OR (""PI3K/AKT signaling cascade"")"	MBC:0000100	Intracellular common signaling cascades of multiple pathways	True
+MBC:0000629	Platelet-derived growth factor receptor signaling	3	"((""PDGFR"") OR (""Platelet-derived growth factor receptor"")) AND (signaling)"	MBC:0000194	Signaling pathways that control cell proliferation and differentiation	False
+MBC:0000630	Polyol pathway	3	"(""Polyol pathway"") AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000047	Carbohydrate metabolism and transport	True
+MBC:0000631	Potassium transmembrane transport	3	"((Potassium) OR (""K"") OR (""K+"")) AND ((transmembrane) AND ((transport) OR (Channel) OR (symport) OR (Antiport) OR (ATPase)))"	MBC:0000206	Transmembrane ion transport involved in membrane potential generation	True
+MBC:0000632	Pre-catalytic spliceosome assembly	3	"(""spliceosome"") AND ((""U4 snRNP"") OR (""U5 snRNP"") OR (""U6 snRNP""))"	MBC:0000158	Pre-mRNA splicing	False
+MBC:0000633	Pre-mRNA 3-end-cleavage and polyadenylation	3	"(""mRNA polyadenylation"") OR ((""co-transcriptional"") AND (""pre-mRNA 3' end processing""))"	MBC:0000138	mRNA capping, editing, polyadenylation and nuclear export	False
+MBC:0000634	Pre-mRNA capping	3	"(""mRNA capping"")"	MBC:0000138	mRNA capping, editing, polyadenylation and nuclear export	False
+MBC:0000635	Pre-spliceosome assembly	3	"(""pre-spliceosome"") OR ((""spliceosome"") AND (""complex A""))"	MBC:0000158	Pre-mRNA splicing	False
+MBC:0000636	Procollagen cleavage into collagen	3	(procollagen) AND (cleavage)	MBC:0000067	Collagen biosynthesis	True
+MBC:0000637	Procollagen processing in the ER	3	"(""collagen hydroxylation"") OR (""procollagen hydroxylation"") OR (""collagen glycosylation"") OR (procollagen) AND ((trimerization) OR (""triple helix"") OR (""helix formation"") OR (""helix assembly"")) AND (endoplasmic)"	MBC:0000067	Collagen biosynthesis	True
+MBC:0000638	Progestagen synthesis	3	(Progestagen) AND (synthesis) AND (cholesterol)	MBC:0000200	Steroid hormone synthesis	True
+MBC:0000639	Progesterone receptor signaling	3	"(""progesterone receptor signaling"") OR (""progesterone receptor pathway"")"	MBC:0000199	Steroid and sex hormone signaling	True
+MBC:0000640	Prolactin receptor signaling	3	"(""prolactin receptor"") AND (signaling)"	MBC:0000194	Signaling pathways that control cell proliferation and differentiation	True
+MBC:0000641	Proline metabolism	3	"((""Proline metabolism"") OR (""Proline biosynthesis"") OR (""Proline synthesis"") OR (""Proline catabolism"")) AND (enzyme) AND ((human) OR (animal) OR (mammal) OR (muscle) OR (liver) OR (kidney))"	MBC:0000122	Metabolism of non-essential amino acids	True
+MBC:0000642	Prostacycline receptor signaling	3	"(""Prostacyclin receptor"") OR (""prostacyclin signaling"") OR (""PGI2 receptor"") OR (""PGI2 signaling"")"	MBC:0000159	Prostanoid receptor signaling	True
+MBC:0000643	Prostaglandin D2 receptor signaling	3	"(""Prostaglandin D2 receptor"") OR (""PGD2 receptor"") OR (""PGD2 signaling"") "	MBC:0000159	Prostanoid receptor signaling	True
+MBC:0000644	Prostaglandin E2 receptor signaling	3	"(""Prostaglandin E2 receptor"") OR (""PGE2 receptor"") OR (""PGE2 signaling"") OR (""prostaglandin E2 signaling"")"	MBC:0000159	Prostanoid receptor signaling	True
+MBC:0000645	Prostaglandin PGF2 alpha receptor signaling	3	"(""Prostaglandin F2 alpha receptor"") OR (""PGF 2alpha receptor"") OR (""PGF2alpha receptor"") OR (""PGF2 alpha receptor"") OR (""PGF 2 alpha receptor"") "	MBC:0000159	Prostanoid receptor signaling	True
+MBC:0000646	Proteasomal core organization	3	((Proteasome) OR (proteasomal)) AND ((20S) OR (core)) AND ((structure) OR (organization) OR (architecture))	MBC:0000209	Ubiquitin mediated proteasomal degradation	True
+MBC:0000647	Proteasomal regulatory particle organization	3	"((Proteasome) OR (proteasomal)) AND ((19S) OR (""regulatory particle"") OR (RP) OR (lid)) AND ((structure) OR (organization) OR (architecture))"	MBC:0000209	Ubiquitin mediated proteasomal degradation	True
+MBC:0000648	Protein acylation	3	"(""Protein acylation"") OR (""Protein acetylation"")"	MBC:0000160	Protein prenylation	True
+MBC:0000649	Protein and carbohydrate sulfation in Golgi Apparatus	3	"(""tyrosine sulfation"") OR (""carbohydrate sulfation"") AND ((Golgi) OR (TGN))"	MBC:0000156	Post-translational protein modification and quality control during biosynthetic-secretory pathway	True
+MBC:0000650	Protein farnesylation and geranylation	3	"(""Protein farnesylation"")"	MBC:0000160	Protein prenylation	True
+MBC:0000651	Protein folding in Mitochondria	3	"(""Protein folding"") AND ((Mitochondria) OR (Mitochondrium)) NOT (Transcription) NOT ((ER) OR (endoplasmic reticulum)) NOT (Cytosol) NOT (Cytoplasm)"	MBC:0000157	Post-translational protein modification in Mitochondria	True
+MBC:0000652	Protein import accross inner mitochondrial membrane machinery	3	(Protein import) AND (inner mitochondrial membrane) AND (machinery) NOT (outer)	MBC:0000134	Mitochondrial protein import machinery	True
+MBC:0000653	Protein import accross outer mitochondrial membrane machinery	3	(Protein import) AND (outer mitochondrial membrane) AND (machinery) NOT (inner)	MBC:0000134	Mitochondrial protein import machinery	True
+MBC:0000654	Protein import accross peroxisomal membrane	3	((Peroxisomal) OR (Peroxisome)) AND (protein import) AND (machinery)	MBC:0000148	Peroxisomal protein import machinery	True
+MBC:0000655	Protein kinase C signaling pathway	3	"(""Protein kinase C signaling"") OR (""PKC signaling"")"	MBC:0000100	Intracellular common signaling cascades of multiple pathways	True
+MBC:0000656	Protein myristoylation	3	"(""Protein myristoylation"")"	MBC:0000160	Protein prenylation	True
+MBC:0000657	Protein N-linked glycosylation in ER	3	"(Protein) AND (""N-linked glycosylation"") AND ((ER) OR (""endoplasmic reticulum"")) AND (mammalian)"	MBC:0000156	Post-translational protein modification and quality control during biosynthetic-secretory pathway	False
+MBC:0000658	Protein O-linked glycosylation in Golgi Apparatus	3	"(Protein) AND (""O-linked glycosylation"") AND ((Golgi) OR (TGN))"	MBC:0000156	Post-translational protein modification and quality control during biosynthetic-secretory pathway	False
+MBC:0000659	Protein palmitoylation	3	"(""Protein palmitoylation"")"	MBC:0000160	Protein prenylation	True
+MBC:0000660	Protein polyubiquitination	3	"(""ubiquitin enzyme"") OR (""ubiquitin enzymes"") OR (""ubiquitin pathway"")"	MBC:0000209	Ubiquitin mediated proteasomal degradation	True
+MBC:0000661	P-selectin-mediated platelet rolling	3	"(""p-selectin"") AND (""platelet rolling"")"	MBC:0000184	Rolling cell adhesion	False
+MBC:0000662	Purine catabolism	3	"((""Purine catabolism"") OR (""Purine degradation"")) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000124	Metabolism of purines and pyrimidines	True
+MBC:0000663	Purine synthesis and salvage	3	"((""De-novo purine synthesis"") OR (""De-novo purine biosynthesis"") OR (""purine salvage"")) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000124	Metabolism of purines and pyrimidines	True
+MBC:0000664	Purinergic P1 receptor signaling	3	"((""Purinergic"") OR (""Purinergic receptor"") OR (""Purinoceptor"")) AND (""P1 receptor"") AND (signaling)"	MBC:0000163	Purinergic signaling	True
+MBC:0000665	Purinergic P2X receptor signaling	3	"((""Purinergic"") OR (""Purinergic receptor"") OR (""Purinoceptor"")) AND (""P2X receptor"") AND (signaling)"	MBC:0000163	Purinergic signaling	True
+MBC:0000666	Purinergic P2Y receptor signaling	3	"((""Purinergic"") OR (""Purinergic receptor"") OR (""Purinoceptor"")) AND (""P2Y receptor"") AND (signaling)"	MBC:0000163	Purinergic signaling	True
+MBC:0000667	Pyrimidine catabolism	3	"((""Pyrimidine catabolism"") OR (""Pyrimidine degradation"")) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000124	Metabolism of purines and pyrimidines	True
+MBC:0000668	Pyrimidine synthesis and salvage	3	"((""De-novo pyrimidine synthesis"") OR (""De-novo pyrimidine biosynthesis"") OR (""Pyrimidine salvage"")) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000124	Metabolism of purines and pyrimidines	True
+MBC:0000669	Rank signaling	3	"(""RANK"") AND (signaling)"	MBC:0000204	TNF superfamily signaling	True
+MBC:0000670	Ras signaling pathway	3	"((""Ras signaling pathway"") OR (""Ras signaling cascade""))"	MBC:0000100	Intracellular common signaling cascades of multiple pathways	True
+MBC:0000671	Recognition of lysosomal enzymes by mannose 6-phosphate receptor	3	"(""Mannose 6 phosphate receptor"") AND (recognition)"	MBC:0000212	Vesicle traffic between TGN and endosome	False
+MBC:0000672	Recycling endosome dynamics	3	"(""Recycling endosome"") OR (""Recycling endosomes"")"	MBC:0000081	Endocytic pathway	True
+MBC:0000673	Regulation of astrocyte differentiation	3	"Regulation AND ""Astrocyte"" AND ""differentiation"""	MBC:0000164	Regulation of  neuronal or neuroglial cell differentiation	True
+MBC:0000674	Regulation of cardiomyocyte cell differentiation	3	"Regulation AND ""cardiomyocyte"" AND ""differentiation"""	MBC:0000176	Regulation of myocyte cell differentiation	True
+MBC:0000675	Regulation of coagulation cascade by protein C	3	"(coagulation) AND (regulation) AND (""protein C"")"	MBC:0000066	Coagulation cascade and its regulation	True
+MBC:0000676	Regulation of cone photoreceptor cell differentiation	3	"(Regulation) AND ""cone"" AND photoreceptor AND (differentiation)"	MBC:0000177	Regulation of retinal cell differentiation	True
+MBC:0000677	Regulation of hepatocyte differentiation	3	"Regulation AND (""Hepatocyte"" OR ""hepatic"") AND ""differentiation"""	MBC:0000174	Regulation of liver cell differentiation	True
+MBC:0000678	Regulation of iron homeostasis	3	(Regulation) AND (iron) AND (homeostasis)	MBC:0000101	Iron homeostasis	True
+MBC:0000679	Regulation of kupffer cell differentiation	3	"Regulation AND ""Kupffer cell"" AND ""differentiation"""	MBC:0000174	Regulation of liver cell differentiation	True
+MBC:0000680	Regulation of long-term potentiation	3	"(Regulation) AND (""long-term"") AND (potentiation)"	MBC:0000178	Regulation of synaptic plasticity	False
+MBC:0000681	Regulation of long-term synaptic plasticity	3	"(Regulation) AND (""long-term"") AND (""synaptic plasticity"")"	MBC:0000178	Regulation of synaptic plasticity	False
+MBC:0000682	Regulation of lymphoid cell differentiation	3	"Regulation AND (""lymphoid cell"" OR ""lymphocyte"") AND ""differentiation"""	MBC:0000172	Regulation of hematopoiesis	True
+MBC:0000683	Regulation of myeloid cell differentiation	3	"Regulation AND ""myeloid cell"" AND ""differentiation"""	MBC:0000172	Regulation of hematopoiesis	True
+MBC:0000684	Regulation of neuron cell differentiation	3	"Regulation AND ""Neuron differentiation"""	MBC:0000164	Regulation of  neuronal or neuroglial cell differentiation	True
+MBC:0000685	Regulation of oligodendrocyte differentiation	3	"Regulation AND ""oligodendrocyte"" AND ""differentiation"""	MBC:0000164	Regulation of  neuronal or neuroglial cell differentiation	True
+MBC:0000686	Regulation of oogenesis	3	"Regulation AND ""Oogenesis"" AND (human OR mammals OR mice)"	MBC:0000171	Regulation of gonadogenesis	True
+MBC:0000687	Regulation of osteoblast differentiation	3	"Regulation AND ""osteoblast"" AND ""differentiation"""	MBC:0000166	Regulation of bone cell differentiation	True
+MBC:0000688	Regulation of osteoclast differentiation	3	"Regulation AND ""osteoclast"" AND ""differentiation"""	MBC:0000166	Regulation of bone cell differentiation	True
+MBC:0000689	Regulation of osteocyte differentiation	3	"Regulation AND ""osteocyte"" AND ""differentiation"""	MBC:0000166	Regulation of bone cell differentiation	True
+MBC:0000690	Regulation of pneumocyte I cell differentiation	3	"Regulation AND ""alveolar"" AND ""type I"" AND ""differentiation"""	MBC:0000165	Regulation of alveolar cell differentiation	True
+MBC:0000691	Regulation of pneumocyte II cell differentiation	3	"Regulation AND ""alveolar"" AND ""type II"" AND ""differentiation"""	MBC:0000165	Regulation of alveolar cell differentiation	True
+MBC:0000692	Regulation of podocyte differentiation	3	"Regulation AND ""podocyte"" AND ""differentiation"""	MBC:0000173	Regulation of kidney cell differentiation	True
+MBC:0000693	Regulation of proteasomal proteolysis by signalosome	3	(regulation) AND ((proteasome) Or (ubiquitin)) AND (signalosome)	MBC:0000209	Ubiquitin mediated proteasomal degradation	True
+MBC:0000694	Regulation of retinal ganglion cell differentiation	3	"(Regulation) AND ""retinal ganglion"" AND (differentiation)"	MBC:0000177	Regulation of retinal cell differentiation	True
+MBC:0000695	Regulation of RNA polymerase II by elongation factors	3	"(regulation) AND (""RNA polymerase II"") AND (elongation)"	MBC:0000205	Transcription	True
+MBC:0000696	Regulation of rod photoreceptor cell differentiation	3	"(Regulation) AND ""rod"" AND photoreceptor AND (differentiation)"	MBC:0000177	Regulation of retinal cell differentiation	True
+MBC:0000697	Regulation of schwann cell differentiation	3	"Regulation AND ""Schwann"" AND ""differentiation"""	MBC:0000164	Regulation of  neuronal or neuroglial cell differentiation	True
+MBC:0000698	Regulation of short-term potentiation	3	"(Regulation) AND (""short-term"") AND (potentiation)"	MBC:0000178	Regulation of synaptic plasticity	False
+MBC:0000699	Regulation of short-term synaptic plasticity	3	"(Regulation) AND (""short-term"") AND (""synaptic plasticity"")"	MBC:0000178	Regulation of synaptic plasticity	False
+MBC:0000700	Regulation of sinusoidal endothelial cell differentiation	3	"Regulation AND ""sinusoidal endothelial"" AND ""differentiation"""	MBC:0000174	Regulation of liver cell differentiation	True
+MBC:0000701	Regulation of skeletal muscle cell differentiation	3	"Regulation AND ""skeletal muscle cell"" AND ""differentiation"""	MBC:0000176	Regulation of myocyte cell differentiation	True
+MBC:0000702	Regulation of smooth muscle cell differentiation	3	"Regulation AND ""smooth muscle cell"" AND ""differentiation"""	MBC:0000176	Regulation of myocyte cell differentiation	True
+MBC:0000703	Regulation of spermatogenesis	3	"Regulation AND ""Spermatogenesis"" AND (human OR mammals OR mice)"	MBC:0000171	Regulation of gonadogenesis	True
+MBC:0000704	Regulation of stellate cell differentiation	3	"Regulation AND ""hepatic stellate cell"" AND ""differentiation"""	MBC:0000174	Regulation of liver cell differentiation	True
+MBC:0000705	Restriction point	3	"(""Cell cycle"") AND (""restriction point"")"	MBC:0000137	Mitotic cell cycle checkpoints	True
+MBC:0000706	Retinoic acid receptor signaling	3	"(""Retinoic acid receptor"") AND (signaling) "	MBC:0000194	Signaling pathways that control cell proliferation and differentiation	True
+MBC:0000707	Retinol metabolism	3	"(""vitamin A biosynthesis"") OR (""retinol biosynthesis"") OR (""retinal biosynthesis"") OR (""retinic acid biosynthesis"")"	MBC:0000120	Metabolism of fat-soluble vitamins	True
+MBC:0000708	Retrograde vesicle traffic from endosome to TGN	3	((TGN) OR (Golgi)) AND ((retrieval) OR (retrograde)) AND ((Lysosome) OR (Endosome))	MBC:0000212	Vesicle traffic between TGN and endosome	True
+MBC:0000709	Retrograde vesicle traffic from Golgi to ER	3	((ER) OR (Endoplasmic reticulum)) AND ((TGN) OR (Golgi)) AND (vesicle) AND ((retrograde) OR (retrieval))	MBC:0000211	Vesicle traffic between ER and TGN	True
+MBC:0000710	Rhodopsin receptor signaling	3	"Rhodopsin AND ""signaling"""	MBC:0000213	Visual phototransduction	True
+MBC:0000711	Riboflavin metabolism	3	"(""riboflavin biosynthesis"") OR (""FMN biosynthesis"") OR (""FAD biosynthesis"")"	MBC:0000126	Metabolism of water-soluble vitamins	True
+MBC:0000712	Ribonucleoprotein assembly	3	"(""Ribonucleoprotein assembly"") OR (""Ribonucleoprotein maturation"") OR (""RNP assembly"") OR (""RNP maturation"")"	MBC:0000182	Ribonucleoprotein biogenesis	True
+MBC:0000713	Ribonucleoprotein nuclear export	3	"(""nuclear RNP export"") OR (""Nuclear ribonucleoprotein export"")"	MBC:0000182	Ribonucleoprotein biogenesis	True
+MBC:0000714	Ribonucleoprotein nuclear re-import	3	"(""nuclear import"") AND ((""RNP"") OR (""Ribonucleoprotein""))"	MBC:0000182	Ribonucleoprotein biogenesis	False
+MBC:0000715	Ribonucleotide reduction	3	"((""deoxyribonucleotide formation"") OR (""ribonucleotide reduction"") OR (""ribonucleotide reductase"")) AND (enzyme) AND ((human) OR (animal) OR (mammal)) AND ((purine) OR (pyrimidine))"	MBC:0000124	Metabolism of purines and pyrimidines	True
+MBC:0000716	RIG-I-like receptor signaling	3	"(""RIG-I-like receptor"") AND (signaling)"	MBC:0000147	Pattern recognition signaling	False
+MBC:0000717	RNA 3' degradation by exosome	3	"((""rRNA degradation"") OR (""mRNA degradation"") OR (""RNA degradation"") OR (""RNA hydrolysis"")) AND (exosome)"	MBC:0000183	RNA surveillance and degradation	True
+MBC:0000718	RNA editing	3	"(""mRNA editing"") OR ((mRNA) AND (""RNA deamination"")) OR (((""C to U deamination"") OR (""A-I editing"")) AND (mRNA))"	MBC:0000138	mRNA capping, editing, polyadenylation and nuclear export	True
+MBC:0000719	Roundabout signaling	3	((Roundabout) OR (Robo)) AND (signaling)	MBC:0000143	Neuronal signaling pathways	True
+MBC:0000720	rRNA processing	3	"(""rRNA processing"") OR (""ribosomal RNA processing"")"	MBC:0000182	Ribonucleoprotein biogenesis	True
+MBC:0000721	rRNA transcription	3	"(""rRNA transcription"") OR (""ribosomal RNA transcription"")"	MBC:0000182	Ribonucleoprotein biogenesis	True
+MBC:0000722	Sarcoplasmic reticulum organization	3	"(""Sarcoplasmic reticulum"") AND (myofibril)"	MBC:0000140	Myofibril formation and organization	True
+MBC:0000723	Secretin receptor signaling	3	"(""secretin receptor"") AND (""signaling"")"	MBC:0000193	Signaling pathways regulating water homeostasis	True
+MBC:0000724	Selectin-mediated Leukocyte rolling	3	"(Selectin) AND (""leukocyte rolling"")"	MBC:0000184	Rolling cell adhesion	False
+MBC:0000725	Semaphorin signaling	3	(Semaphorin) AND (signaling)	MBC:0000143	Neuronal signaling pathways	True
+MBC:0000726	Senescence-associated secretory phenotype	3	senescence-associated secretory phenotype AND (human OR mammals OR mice)	MBC:0000049	Cell Scenescence	False
+MBC:0000727	Serine and glycine metabolism	3	"((""Serine metabolism"") OR (""Serine biosynthesis"") OR (""Serine synthesis"") OR (""Serine catabolism"") OR (""Glycine metabolism"") OR (""Glycine biosynthesis"") OR (""Glycine synthesis"") OR (""Glycine catabolism"")) AND (enzyme) AND ((human) OR (animal) OR (mammal) OR (muscle) OR (liver) OR (kidney))"	MBC:0000122	Metabolism of non-essential amino acids	True
+MBC:0000728	Serotonin and melatonin synthesis	3	"((""serotonin synthesis"") OR (""melatonin synthesis"")) AND (mammal) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000125	Metabolism of tryptophan products	True
+MBC:0000729	Serotonin inactivation	3	"((""Serotonin inactivation"") OR (""Serotonin degradation"") OR (""Serotonin catabolism"")) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000125	Metabolism of tryptophan products	True
+MBC:0000730	Serotonin-mediated control of postsynaptic potential	3	"(""serotonin receptor"") AND (postsynaptic)"	MBC:0000069	Control of postsynaptic potential	False
+MBC:0000731	Single strand annealing DSB repair	3	"(""single strand annealing"") AND (""DNA repair"") NOT (""homologous"")"	MBC:0000075	DNA double-strand break repair	True
+MBC:0000732	Sister chromatid attachment to mitotic spindle	3	"(""Mitotic spindle"") AND (attachment) AND ((kinetochore) OR (""sister chromatid""))"	MBC:0000061	Chromosome segregation by mitotic spindle	True
+MBC:0000733	Sister chromatid cohesion	3	(chromatid) AND (cohesion)	MBC:0000061	Chromosome segregation by mitotic spindle	True
+MBC:0000734	Sister chromatid segregation	3	"(""Sister chromatid"") AND ((separation) OR (segregation)) AND ((Anaphase) OR (Mitosis) OR (Mitotic))"	MBC:0000061	Chromosome segregation by mitotic spindle	True
+MBC:0000735	Smac-mediated removal of caspase inhibition	3	"(""Inhibitor of apoptosis"") AND (""Smac"")"	MBC:0000042	Apoptosis	False
+MBC:0000736	Small ribosomal subunit organization	3	"(""Ribosomal protein"") AND ((""40S subunit"") OR (""40S ribosomal"") OR (""small subunit"") OR (""small ribosomal""))"	MBC:0000182	Ribonucleoprotein biogenesis	True
+MBC:0000737	snRNA transcription	3	"(""snRNA transcription"") OR (""small nuclear RNA transcription"") NOT (reverse)"	MBC:0000197	snRNA expression and spliceosome generation	True
+MBC:0000738	Sodium transmembrane transport	3	"((Sodium) OR (""NA"")) AND ((transmembrane) AND ((transport) OR (Channel) OR (symport) OR (Antiport) OR (ATPase)))"	MBC:0000206	Transmembrane ion transport involved in membrane potential generation	True
+MBC:0000739	Somatostatin receptor signaling	3	"(""Somatostatin receptor"") AND (signaling)"	MBC:0000143	Neuronal signaling pathways	True
+MBC:0000740	Sphingolipid metabolism	3	"((""sphingolipid biosynthesis"") OR (""sphingolipid synthesis"") OR (""sphingolipid metabolism"")) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000117	Membrane lipid metabolism	True
+MBC:0000741	Spliceosome disassembly and mRNA release	3	"((""mRNA release"") AND (spliceosome)) OR ((spliceosome) AND (disassembly))"	MBC:0000158	Pre-mRNA splicing	True
+MBC:0000742	Step 1 and step 2 catalysis during pre-mRNA splicing	3	"(""spliceosome"") AND (""catalysis"")"	MBC:0000158	Pre-mRNA splicing	False
+MBC:0000743	Sulfonation	3	"(""Sulfonation"") AND (biotransformation) AND ((""phase II"") OR (""phase 2"")) "	MBC:0000151	Phase II biotransformation	True
+MBC:0000744	Syndecan ectodomain shedding	3	"(""Syndecan"") AND (""shedding"")"	MBC:0000187	Signaling by extracellular matrix components	True
+MBC:0000745	Syndecan receptor signaling	3	"(""Syndecan"") AND (""signaling"")"	MBC:0000187	Signaling by extracellular matrix components	True
+MBC:0000746	T cell receptor signaling	3	"(""T cell receptor"") AND (Signaling)"	MBC:0000096	Immune receptor Signaling	True
+MBC:0000747	Target RNA degradation, inhibition or destabilization by RICS or RITS	3	"((""RNA-induced transcriptional silencing complex"") OR (""RITS"") OR (""RNA-induced silencing complex"") OR (""RISC"")) AND (RNA)"	MBC:0000183	RNA surveillance and degradation	True
+MBC:0000748	Telomere replication	3	Telomere replication	MBC:0000086	Eukaryotic DNA replication	True
+MBC:0000749	Tenascin receptor signaling	3	(Tenascin) AND (signaling)	MBC:0000107	Matricellular protein signaling	True
+MBC:0000750	Tetraspanin microdomains	3	Tetraspanin microdomains	MBC:0000155	Plasma membrane microdomains	True
+MBC:0000751	Thiamine metabolism	3	"(""vitamin B1 biosynthesis"") OR (""thiamine metabolism"") "	MBC:0000126	Metabolism of water-soluble vitamins	True
+MBC:0000752	Thick myofilament organization	3	"((""thick filament"") Or (""thick filaments"")) AND (myofibril)"	MBC:0000140	Myofibril formation and organization	True
+MBC:0000753	Thin myofilament organization	3	"(""thin myofibril"") OR ((""thin filaments"") AND (myofibril))"	MBC:0000140	Myofibril formation and organization	True
+MBC:0000754	Thrombopoietin receptor signaling	3	"(""Thrombopoietin receptor"") AND (signaling)"	MBC:0000189	Signaling pathways involved in hematopoiesis	True
+MBC:0000755	Thrombospondin receptor signaling	3	(Thrombospondin) AND (signaling)	MBC:0000107	Matricellular protein signaling	True
+MBC:0000756	Thromboxane receptor signaling	3	"(""Thromboxane A2 receptor"") OR (""Thromboxane A2 signaling"") OR (""TXA2 receptor"") OR (""TXA2 signaling"")"	MBC:0000159	Prostanoid receptor signaling	True
+MBC:0000757	Thyroid hormone receptor signaling	3	"((""Thyroxin receptor"") OR (""Thyroid hormone receptor"") OR (""triiodothyronine receptor"")) AND (""signaling"")"	MBC:0000203	Thyroid hormone related signaling	True
+MBC:0000758	Thyroid-hormone synthesis	3	"(""thyroid-hormone synthesis"") AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000123	Metabolism of phenylalanine products	False
+MBC:0000759	Thyroid-stimulating hormone receptor signaling	3	"((""Thyroid-stimulating hormone receptor"") OR (""TSH receptor"")) AND (""signaling"")"	MBC:0000203	Thyroid hormone related signaling	False
+MBC:0000760	Thyrotropin-releasing hormone receptor signaling	3	"((""Thyrotropin-releasing hormone receptor"") OR (""TRH receptor"")) AND (""signaling"")"	MBC:0000203	Thyroid hormone related signaling	False
+MBC:0000761	Tight junction organization	3	Tight junction organization	MBC:0000050	Cell-cell junction organization	True
+MBC:0000762	Toll-like receptor signaling	3	"(""Toll-like receptor"") AND (""signaling pathway"")"	MBC:0000147	Pattern recognition signaling	False
+MBC:0000763	Transamination pathways	3	(Transamination) AND (aminotransferase) AND (enzyme) AND ((human) OR (animal) OR (mammal) OR (muscle) OR (liver) OR (kidney))	MBC:0000039	Ammonium metabolism	True
+MBC:0000764	Transcription by rna polymerase II	3	"(Transcription) AND (""RNA polymerase II"") AND ((mRNA) OR (""messenger RNA"") OR (""coding"")) NOT (reverse)"	MBC:0000205	Transcription	True
+MBC:0000765	Transcription initiation by general transcription factors	3	"(Transcription initiation) AND (""General transcription factors"") NOT (reverse)"	MBC:0000205	Transcription	True
+MBC:0000766	Transcription regulation by chromatin remodeling	3	"(Transcription activation) AND (Chromatin remodeling) AND ((mRNA) OR (""messenger RNA"") OR (""coding"")) NOT (reverse)"	MBC:0000205	Transcription	True
+MBC:0000767	Transcription regulation by mediator	3	(Transcription regulation) AND (Mediator) NOT (reverse)	MBC:0000205	Transcription	True
+MBC:0000768	Transcription repression	3	"(Transcription repression) AND ((mRNA) OR (""messenger RNA"") OR (""coding"")) NOT (reverse)"	MBC:0000205	Transcription	True
+MBC:0000769	Transcription termination	3	"(""transcription termination"")"	MBC:0000205	Transcription	True
+MBC:0000770	Transforming growth factor alpha receptor signaling	3	"(""Transforming growth factor alpha receptor"") AND (signaling)"	MBC:0000202	TGF-beta superfamily signaling	True
+MBC:0000771	Transforming growth factor beta receptor signaling	3	"((""transforming growth factor beta receptor"") OR (""TGF-beta receptor"")) AND (""signaling pathway"")"	MBC:0000202	TGF-beta superfamily signaling	True
+MBC:0000772	Translation elongation	3	"(""Translation elongation"")"	MBC:0000139	mRNA translation	True
+MBC:0000773	Translation initiation	3	"(""Translation initiation"")"	MBC:0000139	mRNA translation	True
+MBC:0000774	Translation termination	3	"(""Translation termination"")"	MBC:0000139	mRNA translation	True
+MBC:0000775	Transmembrane fatty acid translocation	3	"(""Fatty acid transport"") OR (""Fatty acid transporter"") OR (""Fatty acid transporters"")"	MBC:0000088	Fatty acid metabolism	True
+MBC:0000776	Transmembrane glucose transport	3	"(""transmembrane glucose transport"") OR (""plasma membrane glucose transporter"") OR (""glucose export"") OR (""glucose import"")"	MBC:0000047	Carbohydrate metabolism and transport	True
+MBC:0000777	Transpositional recombination	3	(Transpositional recombination) OR (Transpositional DNA recombination) OR (Cut-and-paste transposition) OR (Replicative transposition)	MBC:0000077	DNA recombination	True
+MBC:0000778	Transsulfuration pathway	3	"(""Transsulfuration pathway"") AND (enzyme) AND ((human) OR (animal) OR (mammal) OR (muscle) OR (liver) OR (kidney))"	MBC:0000146	One carbon metabolism	True
+MBC:0000779	Triacylglycerol hydrolysis and mobilization	3	(Triacylglycerol) AND ((hydrolysis) OR (mobilization))	MBC:0000208	Triacylglycerol metabolism and transport	True
+MBC:0000780	Triacylglycerol metabolism	3	"((""Triacylglycerol metabolism"") OR (""Triacylglycerol biosynthesis"") OR (""Triacylglycerol synthesis"") OR (""Triacylglycerol catabolism"")) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000208	Triacylglycerol metabolism and transport	True
+MBC:0000781	Triacylglycerol transport by lipoproteins	3	(Triacylglycerol) AND (transport) AND (lipoprotein)	MBC:0000208	Triacylglycerol metabolism and transport	True
+MBC:0000782	tRNA amino acid activation	3	"(""tRNA synthetase"") AND (""amino acid"") AND ((activation) OR (coupling))"	MBC:0000139	mRNA translation	True
+MBC:0000783	Tropoelastin synthesis	3	"(""tropoelastin synthesis"") OR (""tropoelastin biosynthesis"") OR (""tropoelastin production"")"	MBC:0000080	Elastogenesis	True
+MBC:0000784	Tryptophan metabolism	3	"((""Tryptophan degradation"") OR (""Tryptophan catabolism"") OR (""Tryptophan metabolism"")) AND (enzyme) AND ((human) OR (animal) OR (mammal) OR (muscle) OR (liver) OR (kidney))"	MBC:0000119	Metabolism of essential amino acids	True
+MBC:0000785	Tumor necrosis factor alpha receptor signaling	3	"(""Tumor necrosis factor-alpha receptor"") AND ((""signaling pathway"")  OR (""signaling cascade"") OR (""ligand pathway""))"	MBC:0000204	TNF superfamily signaling	True
+MBC:0000786	Tumor necrosis factor beta receptor signaling	3	"((""Tumor necrosis factor-beta"") OR (""TNF-beta"")) AND (signaling)"	MBC:0000204	TNF superfamily signaling	True
+MBC:0000787	Tyrosine metabolism	3	"((""Tyrosine metabolism"") OR (""Tyrosine biosynthesis"") OR (""Tyrosine synthesis"") OR (""Tyrosine catabolism"")) AND (enzyme) AND ((human) OR (animal) OR (mammal) OR (muscle) OR (liver) OR (kidney))"	MBC:0000122	Metabolism of non-essential amino acids	True
+MBC:0000788	U1 snRNP assembly	3	"(""spliceosome"") AND (""U1 snRNP"")"	MBC:0000158	Pre-mRNA splicing	True
+MBC:0000789	U2 snRNP assembly	3	"(""spliceosome"") AND (""U2 snRNP"")"	MBC:0000158	Pre-mRNA splicing	True
+MBC:0000790	U4-U6-U5 tri-snRNP assembly	3	"(""spliceosome"") AND ((""U4/U6 U5 tri-snRNP"") OR (""tri-snRNP""))"	MBC:0000158	Pre-mRNA splicing	False
+MBC:0000791	Ubiquinone biosynthesis	3	"(""Coenzyme Q10 biosynthesis"") OR (""ubiquinone biosynthesis"")"	MBC:0000133	Mitochondrial energy production	True
+MBC:0000792	Urea cycle	3	"(""Urea cycle"") AND (enzyme) AND ((human) OR (animal) OR (mammal) OR (muscle) OR (liver) OR (kidney))"	MBC:0000039	Ammonium metabolism	True
+MBC:0000793	Vascular endothelial growth factor receptor signaling	3	"(""Vascular endothelial growth factor receptor"") AND (signaling)"	MBC:0000194	Signaling pathways that control cell proliferation and differentiation	True
+MBC:0000794	Vasoactive intestinal peptide receptor signaling	3	"((""Vasoactive intestinal peptide receptor"") OR (""VIP receptor"")) AND (signaling)"	MBC:0000092	Gastrointestinal hormone signaling	True
+MBC:0000795	VDJ recombination	3	"(""VDJ recombination"")"	MBC:0000077	DNA recombination	True
+MBC:0000796	Versican receptor signaling	3	"(""versican"") AND (""signaling"")"	MBC:0000187	Signaling by extracellular matrix components	True
+MBC:0000797	Versican synthesis	3	"(""versican synthesis"") OR (""versican biosynthesis"") OR (""versican production"")"	MBC:0000162	Proteoglycan synthesis	True
+MBC:0000798	Vesicle fusion with plasma membrane	3	"(""vesicle fusion"") AND ((""plasma membrane"") OR (""exocytosis""))"	MBC:0000210	Vesicle exocytosis	True
+MBC:0000799	Vesicle tethering at plasma membrane	3	"(vesicle) AND (tethering) AND ((""plasma membrane"") OR (""exocytosis"")) "	MBC:0000210	Vesicle exocytosis	True
+MBC:0000800	Vimentin-like intermediate filament dynamics	3	"((Vimentin-like) OR (""type III"") OR (""type 3"")) AND (""intermediate filaments"")"	MBC:0000072	Cytoplasmic intermediate filament and septin dynamics	False
+MBC:0000801	Vitamin C metabolism	3	"(""vitamin C biosynthesis"") OR (""ascorbic acid biosynthesis"")"	MBC:0000126	Metabolism of water-soluble vitamins	True
+MBC:0000802	Vitamin D metabolism	3	"((""vitamin D biosynthesis"") OR (""vitamin D synthesis"")) AND (enzyme)"	MBC:0000118	Metabolism and transport of cholesterol, steroids and bile acids	True
+MBC:0000803	Vitamin D receptor signaling	3	"(""vitamin D receptor"") AND (""signaling"")"	MBC:0000190	Signaling pathways regulating calcium homeostasis	True
+MBC:0000804	Vitamin K metabolism	3	"(""vitamin K biosynthesis"") OR (""phylloquinone biosynthesis"")"	MBC:0000120	Metabolism of fat-soluble vitamins	True
+MBC:0000805	VLDL assembly	3	VLDL assembly	MBC:0000152	Plasma lipoprotein assembly	True
+MBC:0000806	VLDL clearance	3	VLDL clearance	MBC:0000153	Plasma lipoprotein clearance	True
+MBC:0000807	Water transmembrane transport	3	"((Water) OR (""H2O"")) AND ((transmembrane) AND ((transport) OR (Channel) OR (symport) OR (Antiport) OR (ATPase)))"	MBC:0000207	Transmembrane water and ion transport not involved in membrane potential generatation	True
+MBC:0000808	WNT-Beta-catenin signaling pathway	3	"(""wnt beta-catenin signaling pathway"") "	MBC:0000194	Signaling pathways that control cell proliferation and differentiation	False
+MBC:0000809	Z-disc organization	3	"(""Z-disc"")"	MBC:0000140	Myofibril formation and organization	False
+MBC:0000810	Zinc transmembrane transport	3	"((Zinc) OR (""H2O"")) AND ((transmembrane) AND ((transport) OR (Channel) OR (symport) OR (Antiport) OR (ATPase)))"	MBC:0000207	Transmembrane water and ion transport not involved in membrane potential generatation	True
+MBC:0000811	Acidic keratin dynamics	4	"(keratin) AND ((acidic) OR (""type I"") OR (type 1))"	MBC:0000354	Epithelial intermediate filament dynamics	True
+MBC:0000812	Actin filament branching	4	"(""actin filament branching"") OR (""actin branching"")"	MBC:0000217	Actin filament nucleation and branching	True
+MBC:0000813	Actin filament depolymerization	4	"(""actin depolymerization"") OR (""actin filament depolymerization"")"	MBC:0000218	Actin filament severing and depolymerization	True
+MBC:0000814	Actin filament minus end capping	4	"((""actin filament capping"") OR (""actin capping"")) AND ((""pointed end"") OR (""minus-end""))"	MBC:0000216	Actin filament capping	True
+MBC:0000815	Actin filament nucleation	4	"(""actin filament nucleation"") OR (""actin nucleation"")"	MBC:0000217	Actin filament nucleation and branching	True
+MBC:0000816	Actin filament plus end capping	4	"((""actin filament capping"") OR (""actin capping""))  AND ((""barbed end"") OR (""plus-end""))"	MBC:0000216	Actin filament capping	True
+MBC:0000817	Actin filament severing	4	"(""actin filament severing"") OR (""actin severing"")"	MBC:0000218	Actin filament severing and depolymerization	True
+MBC:0000818	Activation of M-Cdk at the onset of mitosis	4	(Activation) AND (M-Cdk) AND (mitosis)	MBC:0000705	Restriction point	False
+MBC:0000819	Apoptosis effector caspase cascade	4	(apoptosis) AND (effector caspase cascade) NOT (initiator) AND (protease) NOT (caspase-independent) NOT (intrinsic) NOT (extrinsic) 	MBC:0000243	Apoptosis caspase pathway	True
+MBC:0000820	Apoptosis initator caspase cascade	4	(apoptosis) AND (initiator caspase cascade) NOT (effector) AND (protease) NOT (caspase-independent) NOT (intrinsic) NOT (extrinsic)	MBC:0000243	Apoptosis caspase pathway	True
+MBC:0000821	Atrial natriuretic peptide receptor signaling	4	"(""Atrial natriuretic peptide signaling"") OR (""Atrial natriuretic factor signaling"")"	MBC:0000573	Natriuretic peptide receptor signaling	True
+MBC:0000822	Autophagosome lysosome fusion	4	Autophagosome lysosome fusion	MBC:0000511	Macroautophagy	True
+MBC:0000823	Autophagosome nucleation	4	Autophagosome nucleation	MBC:0000511	Macroautophagy	True
+MBC:0000824	Bile acid synthesis from cholesterol via alternate pathway	4	"(""Bile acid synthesis"") AND (alternate)"	MBC:0000258	Bile acid synthesis from cholesterol	True
+MBC:0000825	Bile acid synthesis from cholesterol via classical pathway	4	"(""Bile acid synthesis"") AND (classic)"	MBC:0000258	Bile acid synthesis from cholesterol	True
+MBC:0000826	Brain natriuretic peptide receptor signaling	4	"(""Brain natriuretic peptide signaling"") OR (""Brain natriuretic factor signaling"")"	MBC:0000573	Natriuretic peptide receptor signaling	True
+MBC:0000827	Calcium sequestration	4	"(""Calcium Sequestration"") AND (Human OR mammals OR mice)"	MBC:0000267	Calcium transmembrane transport	True
+MBC:0000828	"Calcium transport across mitochondrial membrane ((Calcium) OR (""Ca"") OR (""Ca2+"")) AND ((""mitochondrial membrane"") AND ((transport) OR (Channel) OR (symport) OR (Antiport) OR (ATPase)))"	4	"Calcium transport across mitochondrial membrane ((Calcium) OR (""Ca"") OR (""Ca2+"")) AND ((""mitochondrial membrane"") AND ((transport) OR (Channel) OR (symport) OR (Antiport) OR (ATPase)))"	MBC:0000267	Calcium transmembrane transport	False
+MBC:0000829	"Calcium transport across plasma membrane ((Calcium) OR (""Ca"") OR (""Ca2+"")) AND ((""plasma membrane"") AND ((transport) OR (Channel) OR (symport) OR (Antiport) OR (ATPase)))"	4	"Calcium transport across plasma membrane ((Calcium) OR (""Ca"") OR (""Ca2+"")) AND ((""plasma membrane"") AND ((transport) OR (Channel) OR (symport) OR (Antiport) OR (ATPase)))"	MBC:0000267	Calcium transmembrane transport	False
+MBC:0000830	Catecholamine inactivation	4	"((""Catecholamine inactivation"") OR (""Catecholamine degradation"") OR (""Catecholamine catabolism"")) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000274	Catecholamine metabolism	True
+MBC:0000831	Catecholamine synthesis	4	"(""catecholamine synthesis"") AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000274	Catecholamine metabolism	True
+MBC:0000832	Centriole organization	4	(Centriole) AND (Microtubule) AND (interphase)	MBC:0000287	Centrosome organization	True
+MBC:0000833	Ceramide biosynthesis	4	"((""de-novo ceramide biosynthesis"") OR (""de-novo ceramide synthesis"")) AND (enzyme) AND ((human) OR (animal) OR (mammal)) "	MBC:0000740	Sphingolipid metabolism	True
+MBC:0000834	Cholesterol metabolism	4	(cholesterol) AND (metabolism) AND (intracellular) NOT (blood) NOT (plasma)	MBC:0000293	Cholesterol synthesis	True
+MBC:0000835	Cholesterol transport by HDL	4	"(Cholesterol) AND (transport) AND ((HDL) OR (""High density lipoprotein""))"	MBC:0000294	Cholesterol transport by lipoproteins	True
+MBC:0000836	Cholesterol transport by LDL	4	"(Cholesterol) AND (transport) AND ((LDL) OR (""Low density lipoprotein""))"	MBC:0000294	Cholesterol transport by lipoproteins	True
+MBC:0000837	Clathrin coated pit assembly	4	"(""clathrin coated pit"") AND ((recruitment) OR (initiation) OR (formation) OR (assembly)) NOT (independent)"	MBC:0000308	Clathrin-mediated endocytosis	True
+MBC:0000838	Clathrin coated pit invagination and vesicle scission	4	"((""clathrin coated pit"") OR (""clathrin coated vesicle"") OR (""clathrin coated vesicles"")) AND ((scission) OR (invagination)) NOT (independent)"	MBC:0000308	Clathrin-mediated endocytosis	True
+MBC:0000839	Clathrin-coated vesicle uncoating	4	((clathrin) OR (CCV)) AND (uncoating) AND (endocytosis)	MBC:0000308	Clathrin-mediated endocytosis	False
+MBC:0000840	Clathrin-mediated vesicle traffic from TGN to lysosome	4	((TGN) OR (Golgi)) AND ((Lysosome) OR (lysosomal)) AND (vesicle) AND (Clathrin) NOT (endocytosis)	MBC:0000309	Clathrin-mediated vesicle traffic from TGN to endosomal lysosomal system	False
+MBC:0000841	Common coagulation pathway	4	"(""common pathway"") AND (coagulation)"	MBC:0000312	Coagulation cascade	True
+MBC:0000842	C-type natriuretic peptide receptor signaling	4	"(""C-type natriuretic peptide"") AND (signaling)"	MBC:0000573	Natriuretic peptide receptor signaling	False
+MBC:0000843	Cut-and-paste transposition	4	(Cut-and-paste transposition)	MBC:0000777	Transpositional recombination	False
+MBC:0000844	Cytoplasmic heme synthesis reactions	4	((cytoplasm) OR (cytosol)) AND (heme) AND (synthesis)	MBC:0000428	Heme synthesis	True
+MBC:0000845	Cytoplasmic protein acetylation	4	"((""Protein acetylation"") OR (""Protein acetyltransferases"") OR (""Protein acetyltransferase"") OR (""Lysine acetylation"") OR (""Lysine acetyltransferases"") OR (""Lysine acetyltransferase"") OR (""N-terminal acetylation"") OR (""N-terminal acetyltransferases"") OR (""N-terminal acetyltransferase"")) AND ((""cytosol"") OR (""cytoplasm"") OR (""cytoplasmic"") OR (""cytosolic""))"	MBC:0000328	Cytoplasmic protein acetylation and deacetylation	True
+MBC:0000846	Cytoplasmic protein deacetylation	4	"((""Protein deacetylation"") OR (""Lysine deacetylation"") OR (""Lysine deacetylases"") OR (""Lysine deacetylase"")) AND ((""cytosol"") OR (""cytoplasm"") OR (""cytoplasmic"") OR (""cytosolic""))"	MBC:0000328	Cytoplasmic protein acetylation and deacetylation	True
+MBC:0000847	Cytoplasmic urea cycle reactions	4	"(""Urea cycle"") AND (cytosol) AND (enzyme) AND ((human) OR (animal) OR (mammal) OR (muscle) OR (liver) OR (kidney))"	MBC:0000792	Urea cycle	True
+MBC:0000848	De-novo synthesis of purines	4	"((""De-novo purine synthesis"") OR (""De-novo purine biosynthesis"")) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000663	Purine synthesis and salvage	False
+MBC:0000849	De-novo synthesis of pyrimidines	4	"((""De-novo pyrimidine synthesis"") OR (""De-novo pyrimidine biosynthesis"")) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000668	Pyrimidine synthesis and salvage	False
+MBC:0000850	Desmin dynamics	4	Desmin dynamics	MBC:0000800	Vimentin-like intermediate filament dynamics	True
+MBC:0000851	DNA damage response	4	"(DNA damage response) AND (""cell cycle arrest"") "	MBC:0000394	G2 M transition checkpoint	True
+MBC:0000852	DNA polymerase assembly	4	"(""DNA polymerase"") AND (""assembly"")"	MBC:0000339	DNA replication initiation	True
+MBC:0000853	DNA replication fork assembly	4	DNA replication fork assembly	MBC:0000339	DNA replication initiation	True
+MBC:0000854	Dolichol-mediated precursor oligosaccharide synthesis	4	"(((Dolichol) AND (""precursor oligosaccharide"")) OR (""dolichol-linked oligosaccharides"")) AND (synthesis) "	MBC:0000657	Protein N-linked glycosylation in ER	False
+MBC:0000855	Electron transport chain for electrons from FADH	4	"(""Electron transport chain"") AND ((""FADH"") OR (""FAD"") OR (""FADH2""))"	MBC:0000346	Electron transport chain	True
+MBC:0000856	Electron transport chain for electrons from NADH	4	"(""Electron transport chain"") AND ((""NADH"") OR (""NAD"") OR (""NADH2""))"	MBC:0000346	Electron transport chain	True
+MBC:0000857	Endocytic clathrin coated vesicle organization	4	"(""clathrin coated vesicle"")"	MBC:0000308	Clathrin-mediated endocytosis	True
+MBC:0000858	Endoplasmic reticulum three way junctions stabalization	4	"(""three way junctions"") AND ((""endoplasmic reticulum"") OR (ER))"	MBC:0000349	Endoplasmic reticulum tubulus maintenance	True
+MBC:0000859	Endoplasmic reticulum tubular membrane shaping	4	"((ER) OR (""endoplasmic reticulum"")) AND ((""membrane shaping"") OR (""membrane bending""))"	MBC:0000349	Endoplasmic reticulum tubulus maintenance	True
+MBC:0000860	Epoxide metabolism	4	"((""Epoxide metabolism"") OR (""Epoxide synthesis"") OR (""Epoxide degradation"") OR (""Epoxide production"")) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000344	Eicosanoid metabolism	True
+MBC:0000861	Erk signaling pathway	4	"(""Erk signaling pathway"") OR (""Erk signaling cascade"")"	MBC:0000514	MAPK signaling pathway	True
+MBC:0000862	Extracellular triacylglycerol hydrolysis	4	(extracellular) AND (triacylglycerol hydrolysis)	MBC:0000779	Triacylglycerol hydrolysis and mobilization	True
+MBC:0000863	Extrinsic coagulation pathway	4	"(""extrinsic pathway"") AND (coagulation)"	MBC:0000312	Coagulation cascade	True
+MBC:0000864	Fructose metabolism	4	"(""Fructose metabolism"") AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000393	Fructose and mannose metabolism	True
+MBC:0000865	Ganglioside biosynthesis	4	"((""Ganglioside biosynthesis"") OR (""Ganglioside synthesis"")) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000740	Sphingolipid metabolism	True
+MBC:0000866	Glial fibrillary acidic protein dynamics	4	Glial fibrillary acidic protein dynamics	MBC:0000800	Vimentin-like intermediate filament dynamics	True
+MBC:0000867	Gluconeogenesis	4	"(""Gluconeogenesis"") AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000413	Glycolysis and Gluconeogenesis	True
+MBC:0000868	Glycogen synthesis	4	"(""Glycogen synthesis"") AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000412	Glycogen synthesis and glycogenolysis	True
+MBC:0000869	Glycogenolysis	4	(glycogenolysis) AND (enzyme) AND ((human) OR (animal) OR (mammal))	MBC:0000412	Glycogen synthesis and glycogenolysis	True
+MBC:0000870	Glycolysis	4	"(""glycolysis"") AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000413	Glycolysis and Gluconeogenesis	True
+MBC:0000871	Hemoglobin synthesis	4	(Hemoglobin) AND (synthesis) AND (cellular)	MBC:0000430	Hemoglobin and myoglobin synthesis	True
+MBC:0000872	Histone acetylation	4	"(""histone acetylation"")"	MBC:0000437	Histone acetylation and deactylation	True
+MBC:0000873	Histone deacetylation	4	"(""histone deacetylation"")"	MBC:0000437	Histone acetylation and deactylation	True
+MBC:0000874	Histone demethylation	4	"(""histone demethylation"")"	MBC:0000438	Histone methylation and demethylation	True
+MBC:0000875	Histone dephosphorylation	4	"(""histone phosphorylation"")"	MBC:0000439	Histone phosphorylation and dephosphorylation	True
+MBC:0000876	Histone deubiquitination	4	"(""histone deubiquitination"")"	MBC:0000440	Histone ubiquitination and deubiquitination	True
+MBC:0000877	Histone methylation	4	"(""histone methylation"")"	MBC:0000438	Histone methylation and demethylation	True
+MBC:0000878	Histone phosphorylation	4	"(""histone dephosphorylation"")"	MBC:0000439	Histone phosphorylation and dephosphorylation	True
+MBC:0000879	Histone ubiquitination	4	"(""histone ubiquitination"")"	MBC:0000440	Histone ubiquitination and deubiquitination	True
+MBC:0000880	Hydroxyicosatetraenoic acid metabolism	4	(hydroxyeicosatetraenoic metabolism) AND (enzyme) AND ((human) OR (animal) OR (mammal))	MBC:0000344	Eicosanoid metabolism	True
+MBC:0000881	Intracellular triacylglycerol mobilization	4	(Intracellular) AND (triacylglycerol) AND (mobilization) 	MBC:0000779	Triacylglycerol hydrolysis and mobilization	True
+MBC:0000882	Intrinsic and coagulation pathway	4	"(""intrinsic pathway"") AND (coagulation) "	MBC:0000312	Coagulation cascade	True
+MBC:0000883	Isoleucine catabolism	4	"((""isoleucine degradation"") OR (""isoleucine catabolism"") OR (""isoleucine metabolism"")) AND (enzyme) AND ((human) OR (animal) OR (mammal) OR (muscle) OR (liver) OR (kidney))"	MBC:0000540	Metabolism of branched-chain amino acids	True
+MBC:0000884	Ketogenesis	4	"(""ketogenesis"") AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000488	Keton body metabolism	True
+MBC:0000885	Keton utilization	4	"((""ketone utilization"") OR (""ketone oxidation"")) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000488	Keton body metabolism	True
+MBC:0000886	Leucine catabolism	4	"((""leucine degradation"") OR (""leucine catabolism"") OR (""leucine metabolism"")) AND (enzyme) AND ((human) OR (animal) OR (mammal) OR (muscle) OR (liver) OR (kidney))"	MBC:0000540	Metabolism of branched-chain amino acids	True
+MBC:0000887	Leukotriene metabolism	4	"((""Leukotriene metabolism"") OR (""Leukotriene synthesis"") OR (""Leukotriene degradation"") OR (""Leukotriene production"")) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000344	Eicosanoid metabolism	True
+MBC:0000888	Mannose metabolism	4	"(""Mannose metabolism"") AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000393	Fructose and mannose metabolism	True
+MBC:0000889	Mature B cell differentiation markers	4	"B cell AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000519	Mature lymphocyte differentiation markers	True
+MBC:0000890	Mature cardiomyocyte cell differentiation markers	4	"(""cardiomyocytes"" OR ""myocardiocytes"" OR ""cardiac myocytes"") AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000521	Mature myocyte cell differentiation markers	True
+MBC:0000891	Mature erythrocyte cell differentiation markers	4	"Erythrocytes AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000520	Mature myeloid cell differentiation markers	True
+MBC:0000892	Mature granulocyte cell differentiation markers	4	"Granulocyte AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000520	Mature myeloid cell differentiation markers	True
+MBC:0000893	Mature mast cell differentiation markers	4	"mast cells AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000520	Mature myeloid cell differentiation markers	True
+MBC:0000894	Mature megakaryocyte cell differentiation markers	4	"Megakaryocytes AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000520	Mature myeloid cell differentiation markers	True
+MBC:0000895	Mature monocyte cell differentiation markers	4	"Monocytes AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000520	Mature myeloid cell differentiation markers	True
+MBC:0000896	Mature NK cell differentiation markers	4	"NK cells AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000519	Mature lymphocyte differentiation markers	True
+MBC:0000897	Mature skeletal cell differentiation markers	4	"skeletal muscle cells AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000521	Mature myocyte cell differentiation markers	True
+MBC:0000898	Mature smooth muscle cell differentiation markers	4	"smooth muscle cells AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000521	Mature myocyte cell differentiation markers	True
+MBC:0000899	Mature T cell differentiation markers	4	"T cell AND ""mature"" AND ""markers"" AND (humans OR mice OR mammals)"	MBC:0000519	Mature lymphocyte differentiation markers	True
+MBC:0000900	Membrane curvature generation during endocytosis	4	"(""Membrane curvature"") AND (""endocytosis"") NOT (independent)"	MBC:0000308	Clathrin-mediated endocytosis	True
+MBC:0000901	Microtubule catastrophe	4	"(""microtubule catastrophe"")"	MBC:0000546	Microtubule depolymerization, severing and catastrophe	True
+MBC:0000902	Microtubule depolymerization	4	"(""microtubule depolymerization"")"	MBC:0000546	Microtubule depolymerization, severing and catastrophe	True
+MBC:0000903	Microtubule nucleation	4	"(""microtubule nucleation"") "	MBC:0000548	Microtubule nucleation and rescue	True
+MBC:0000904	Microtubule rescue	4	"(""microtubule rescue"") "	MBC:0000548	Microtubule nucleation and rescue	True
+MBC:0000905	Microtubule severing	4	"(""microtubule severing"") "	MBC:0000546	Microtubule depolymerization, severing and catastrophe	True
+MBC:0000906	Mitochondrial beta-oxidation	4	"(""beta-oxidation"") AND (mitochondria) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000254	Beta-oxidation	False
+MBC:0000907	Mitochondrial heme synthesis reactions	4	(Mitochondria) AND (heme) AND (synthesis)	MBC:0000428	Heme synthesis	True
+MBC:0000908	Mitochondrial urea cycle reactions	4	"(""Urea cycle"") AND (mitochondria) AND (enzyme) AND ((human) OR (animal) OR (mammal) OR (muscle) OR (liver) OR (kidney))"	MBC:0000792	Urea cycle	True
+MBC:0000909	Myoglobin synthesis	4	(Myoglobin) AND (synthesis) AND (cellular)	MBC:0000430	Hemoglobin and myoglobin synthesis	True
+MBC:0000910	Neurofilament dynamics	4	Neurofilament dynamics	MBC:0000247	Axonal intermediate filament dynamics	True
+MBC:0000911	Neutral and basic keratin dynamics	4	"(keratin) AND ((neutral) OR (basic) OR (""type II"") OR (type 2))"	MBC:0000354	Epithelial intermediate filament dynamics	True
+MBC:0000912	NMD enhanced by exon junction complex	4	"NMD AND ""enhanced"" AND ""Exon Junction Complex"" (human OR mammals OR mice)"	MBC:0000590	Nonsense-mediated mRNA decay pathway	True
+MBC:0000913	NMD independent of exon junction complex	4	"NMD AND ""independent"" AND ""Exon Junction Complex"" (human OR mammals OR mice)"	MBC:0000590	Nonsense-mediated mRNA decay pathway	True
+MBC:0000914	Peripherin dynamics	4	Peripherin dynamics	MBC:0000800	Vimentin-like intermediate filament dynamics	True
+MBC:0000915	Peroxisomal beta-oxidation	4	"(""beta-oxidation"") AND ((peroxisome) OR (peroxisomal)) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000254	Beta-oxidation	False
+MBC:0000916	Phosphatidylcholine and phosphatidylethanolamine biosynthesis via Kennedy pathway	4	"(""Kennedy pathway"") AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000625	Phosphoglyceride biosynthesis	True
+MBC:0000917	Phosphatidylcholine, phoshpatidylethanolamine and phosphatidylserine interconversion	4	"(((""Phosphatidylcholine"") AND (""Phosphatidylethanolamine"") AND (conversion)) OR ((""Phosphatidylethanolamine"") AND (""phosphatidylserine"") AND (conversion))) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000625	Phosphoglyceride biosynthesis	True
+MBC:0000918	Phosphatidylinositol biosynthesis	4	"((""phosphatidylinositol biosynthesis"") OR (""phosphatidylinositol synthesis"")) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000625	Phosphoglyceride biosynthesis	True
+MBC:0000919	Pink or Parkin mediated mitophagy	4	"(""Pink"" OR ""Parkin"") AND ""mediated"" AND ""mitophagy"""	MBC:0000561	Mitophagy	True
+MBC:0000920	Potassium sequestration	4	"(""Potassium Sequestration"") AND (Human OR mammals OR mice)"	MBC:0000631	Potassium transmembrane transport	True
+MBC:0000921	"Potassium transport across mitochondrial membrane ((Potassium) OR (""K"") OR (""K+"")) AND ((""mitochondrial membrane"") AND ((transport) OR (Channel) OR (symport) OR (Antiport) OR (ATPase)))"	4	"Potassium transport across mitochondrial membrane ((Potassium) OR (""K"") OR (""K+"")) AND ((""mitochondrial membrane"") AND ((transport) OR (Channel) OR (symport) OR (Antiport) OR (ATPase)))"	MBC:0000631	Potassium transmembrane transport	False
+MBC:0000922	"Potassium transport across plasma membrane ((Potassium) OR (""K"") OR (""K+"")) AND ((""plasma membrane"") AND ((transport) OR (Channel) OR (symport) OR (Antiport) OR (ATPase)))"	4	"Potassium transport across plasma membrane ((Potassium) OR (""K"") OR (""K+"")) AND ((""plasma membrane"") AND ((transport) OR (Channel) OR (symport) OR (Antiport) OR (ATPase)))"	MBC:0000631	Potassium transmembrane transport	False
+MBC:0000923	Precursor oligosaccharide transfer from dolichol to protein	4	"(((Dolichol) AND (""precursor oligosaccharide"")) OR (""dolichol-linked oligosaccharides"")) AND (((transfer) AND (protein)) OR ((attachment) AND (protein)))"	MBC:0000657	Protein N-linked glycosylation in ER	True
+MBC:0000924	Pre-mRNA 3-end-cleavage	4	"((""co-transcriptional"") AND (""pre-mRNA 3' end processing""))"	MBC:0000633	Pre-mRNA 3-end-cleavage and polyadenylation	False
+MBC:0000925	Pre-mRNA polyadenylation	4	"(""mRNA polyadenylation"") "	MBC:0000633	Pre-mRNA 3-end-cleavage and polyadenylation	False
+MBC:0000926	Prereplicative complex formation	4	Prereplicative complex formation	MBC:0000339	DNA replication initiation	True
+MBC:0000927	Prostanoid metabolism	4	"((""Prostanoid metabolism"") OR (""Prostanoid synthesis"") OR (""Prostanoid degradation"") OR (""Prostanoid production"")) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000344	Eicosanoid metabolism	True
+MBC:0000928	Purine salvage	4	"(""purine salvage"") AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000663	Purine synthesis and salvage	True
+MBC:0000929	Pyrimidine salvage	4	"(""Pyrimidine salvage"") AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000668	Pyrimidine synthesis and salvage	True
+MBC:0000930	Receptor mediated mitophagy	4	"(""receptor"") AND ""mediated"" AND ""mitophagy"""	MBC:0000561	Mitophagy	True
+MBC:0000931	Regulation of B cell differentiation	4	"Regulation AND ""B cell"" AND ""differentiation"""	MBC:0000682	Regulation of lymphoid cell differentiation	True
+MBC:0000932	Regulation of erythrocyte cell differentiation	4	"Regulation AND ""erythrocyte"" AND ""differentiation"""	MBC:0000683	Regulation of myeloid cell differentiation	True
+MBC:0000933	Regulation of granulocyte differentiation	4	"Regulation AND ""Granulocyte"" AND ""differentiation"""	MBC:0000683	Regulation of myeloid cell differentiation	True
+MBC:0000934	Regulation of mast cell differentiation	4	"Regulation AND ""mast cell"" AND ""differentiation"""	MBC:0000683	Regulation of myeloid cell differentiation	True
+MBC:0000935	Regulation of megakaryocyte differentiation	4	"Regulation AND ""Megakaryocyte"" AND ""differentiation"""	MBC:0000683	Regulation of myeloid cell differentiation	True
+MBC:0000936	Regulation of monocyte differentiation	4	"Regulation AND ""Monocyte"" AND ""differentiation"""	MBC:0000683	Regulation of myeloid cell differentiation	True
+MBC:0000937	Regulation of natural killer cell differentiation	4	"Regulation AND ""Natural Killer Cell"" AND ""differentiation"""	MBC:0000682	Regulation of lymphoid cell differentiation	True
+MBC:0000938	Regulation of T cell differentiation	4	"Regulation AND ""T cell"" AND ""differentiation"""	MBC:0000682	Regulation of lymphoid cell differentiation	True
+MBC:0000939	Replicative transposition	4	(Replicative transposition)	MBC:0000777	Transpositional recombination	True
+MBC:0000940	RNA cleavage by exosome	4	"(Exosome) AND ((""RNA hydrolysis"") OR (""RNA cleavage"") OR (""RNA degradation"") OR (""catalytic center""))"	MBC:0000717	RNA 3' degradation by exosome	True
+MBC:0000941	SAPK-JNK signaling pathway	4	"(""SAPK/JNK signaling pathway"") OR (""SAPK/JNK signaling cascade"")"	MBC:0000514	MAPK signaling pathway	False
+MBC:0000942	Sphingomyelin metabolism	4	"(""Sphingomyelin metabolism"")  AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000740	Sphingolipid metabolism	True
+MBC:0000943	Structural organization of exosome core	4	"(""Exosome core"") OR ((""exosome"") AND ((""ring-like structure"") OR (""ring structure"") OR (""Central channel"")))"	MBC:0000717	RNA 3' degradation by exosome	True
+MBC:0000944	Toll-like receptor 1 signaling	4	"(""Toll-like receptor 1"") AND (signaling)"	MBC:0000762	Toll-like receptor signaling	False
+MBC:0000945	Toll-like receptor 10 signaling	4	"(""Toll-like receptor 10"") AND (signaling)"	MBC:0000762	Toll-like receptor signaling	False
+MBC:0000946	Toll-like receptor 11 signaling	4	"(""Toll-like receptor 11"") AND (signaling)"	MBC:0000762	Toll-like receptor signaling	False
+MBC:0000947	Toll-like receptor 12 signaling	4	"(""Toll-like receptor 12"") AND (signaling)"	MBC:0000762	Toll-like receptor signaling	False
+MBC:0000948	Toll-like receptor 13 signaling	4	"(""Toll-like receptor 13"") AND (signaling)"	MBC:0000762	Toll-like receptor signaling	False
+MBC:0000949	Toll-like receptor 2 signaling	4	"(""Toll-like receptor 2"") AND (signaling)"	MBC:0000762	Toll-like receptor signaling	False
+MBC:0000950	Toll-like receptor 3 signaling	4	"(""Toll-like receptor 3"") AND (signaling)"	MBC:0000762	Toll-like receptor signaling	False
+MBC:0000951	Toll-like receptor 4 signaling	4	"(""Toll-like receptor 4"") AND (signaling)"	MBC:0000762	Toll-like receptor signaling	False
+MBC:0000952	Toll-like receptor 5 signaling	4	"(""Toll-like receptor 5"") AND (signaling)"	MBC:0000762	Toll-like receptor signaling	False
+MBC:0000953	Toll-like receptor 6 signaling	4	"(""Toll-like receptor 6"") AND (signaling)"	MBC:0000762	Toll-like receptor signaling	False
+MBC:0000954	Toll-like receptor 7 signaling	4	"(""Toll-like receptor 7"") AND (signaling)"	MBC:0000762	Toll-like receptor signaling	False
+MBC:0000955	Toll-like receptor 8 signaling	4	"(""Toll-like receptor 8"") AND (signaling)"	MBC:0000762	Toll-like receptor signaling	False
+MBC:0000956	Toll-like receptor 9 signaling	4	"(""Toll-like receptor 9"") AND (signaling)"	MBC:0000762	Toll-like receptor signaling	False
+MBC:0000957	Transcription regulation by Non-vesicular lipid transport modification	4	"(Transcription activation) AND (Non-vesicular lipid transport modification) AND ((mRNA) OR (""messenger RNA"") OR (""coding"")) NOT (reverse)"	MBC:0000766	Transcription regulation by chromatin remodeling	False
+MBC:0000958	Transcription regulation by nucleosome remodeling	4	(Transcription activation) AND (nucleosome remodeling) NOT (reverse)	MBC:0000766	Transcription regulation by chromatin remodeling	True
+MBC:0000959	Transcription regulation by nucleosome removal	4	(Transcription activation) AND (nucleosome removal) NOT (reverse)	MBC:0000766	Transcription regulation by chromatin remodeling	True
+MBC:0000960	Triacylglycerol biosynthesis	4	"((""Triacylglycerol biosynthesis"") OR (""Triacylglycerol synthesis"")) AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000780	Triacylglycerol metabolism	True
+MBC:0000961	Triacylglycerol catabolism	4	"(""Triacylglycerol catabolism"") AND (enzyme) AND ((human) OR (animal) OR (mammal))"	MBC:0000780	Triacylglycerol metabolism	True
+MBC:0000962	Triacylglycerol transport by chylomicrons	4	(Triacylglycerol) AND (transport) AND (chylomicron)	MBC:0000781	Triacylglycerol transport by lipoproteins	True
+MBC:0000963	Triacylglycerol transport by VLDL	4	"(Triacylglycerol) AND (transport) AND ((VLDL) OR (""Very low density lipoprotein"")"	MBC:0000781	Triacylglycerol transport by lipoproteins	True
+MBC:0000964	Ubiquitin activation	4	(Ubiquitin activation) AND (Polyubiquitination)	MBC:0000660	Protein polyubiquitination	True
+MBC:0000965	Ubiquitin conjugation	4	(Ubiquitin conjugation) AND (Polyubiquitination)	MBC:0000660	Protein polyubiquitination	True
+MBC:0000966	Ubiquitin ligation	4	(Ubiquitin ligation) AND (Polyubiquitination)	MBC:0000660	Protein polyubiquitination	True
+MBC:0000967	Valine catabolism	4	"((""valine degradation"") OR (""valine catabolism"") OR (""valine metabolism"")) AND (enzyme) AND ((human) OR (animal) OR (mammal) OR (muscle) OR (liver) OR (kidney))"	MBC:0000540	Metabolism of branched-chain amino acids	True
+MBC:0000968	Vesicle biogenesis at cis-Golgi membrane	4	"((recruitment) OR (assembly) OR (biogenesis)) AND (""cis-Golgi"") AND (vesicle) "	MBC:0000709	Retrograde vesicle traffic from Golgi to ER	False
+MBC:0000969	Vesicle biogenesis at ER membrane	4	"((recruitment) OR (assembly) OR (biogenesis)) AND ((ER) OR (""endoplasmic reticulum"")) AND (vesicle)"	MBC:0000239	Anterograde vesicle traffic from ER to Golgi	True
+MBC:0000970	Vesicle traffic from TGN to lysosome-related organelles	4	"((TGN) OR (Golgi)) AND (vesicle) AND ((""Lysosome-related"") OR (""lysosomal-related"") OR (melanosome) OR (lytic granule) OR (MHC class II compartment) OR (platelet-dense granule) OR (basophil granule) OR (azurophil granule))"	MBC:0000309	Clathrin-mediated vesicle traffic from TGN to endosomal lysosomal system	False
+MBC:0000971	Vimentin dynamics	4	Vimentin dynamics	MBC:0000800	Vimentin-like intermediate filament dynamics	True

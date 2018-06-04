@@ -1,0 +1,372 @@
+MBCGO	JI
+PI3 kinase AKT signaling pathway::protein kinase B signaling	0.07142857142857142
+JAK-STAT signaling pathway::JAK-STAT cascade	0.22916666666666666
+TIRAP signaling pathway::TIRAP-dependent toll-like receptor signaling pathway	0.0
+NFkB signaling pathway::I-kappaB kinase/NF-kappaB signaling	0.020833333333333332
+Protein kinase C signaling pathway::protein kinase C signaling	0.0
+cAMP and protein kinase A signaling pathway::protein kinase A signaling	0.0
+Mammalian target of rapamycin signaling pathway::TOR signaling	0.2
+SMAD signaling cascade::SMAD protein signal transduction	0.0
+Peroxisome proliferator-activated receptor alpha signaling::peroxisome proliferator activated receptor signaling pathway	0.0
+Peroxisome proliferator-activated receptor gamma signaling::peroxisome proliferator activated receptor signaling pathway	0.0
+Thyroid hormone receptor signaling::thyroid hormone mediated signaling pathway	0.0
+Calcitonin receptor signaling::calcitonin family receptor signaling pathway	0.0
+Progesterone receptor signaling::progesterone receptor signaling pathway	0.0
+Purinergic signaling::purinergic receptor signaling pathway	0.48
+TNF superfamily signaling::tumor necrosis factor-mediated signaling pathway	0.1323529411764706
+Somatostatin receptor signaling::somatostatin receptor signaling pathway	0.0
+Nerve growth factor receptor signaling::nerve growth factor signaling pathway	0.08333333333333333
+Roundabout signaling::Roundabout signaling pathway	0.0
+Semaphorin signaling::semaphorin-plexin signaling pathway	0.3902439024390244
+Thromboxane receptor signaling::thromboxane A2 signaling pathway	0.0
+Bone morphogenetic protein receptor signaling::BMP signaling pathway	0.21794871794871795
+Transforming growth factor beta receptor signaling::transforming growth factor beta receptor signaling pathway	0.06569343065693431
+Activin receptor signaling::activin receptor signaling pathway	0.25
+Toll-like receptor signaling::toll-like receptor signaling pathway	0.1349206349206349
+Toll-like receptor 1 signaling::toll-like receptor 1 signaling pathway	0.0
+Toll-like receptor 2 signaling::toll-like receptor 2 signaling pathway	0.0
+Toll-like receptor 3 signaling::toll-like receptor 3 signaling pathway	0.0
+Toll-like receptor 4 signaling::toll-like receptor 4 signaling pathway	0.0
+Toll-like receptor 5 signaling::toll-like receptor 5 signaling pathway	0.0
+Toll-like receptor 6 signaling::toll-like receptor 6 signaling pathway	0.0
+Toll-like receptor 7 signaling::toll-like receptor 7 signaling pathway	0.0
+Toll-like receptor 8 signaling::toll-like receptor 8 signaling pathway	0.0
+Toll-like receptor 9 signaling::toll-like receptor 9 signaling pathway	0.0
+Toll-like receptor 10 signaling::toll-like receptor 10 signaling pathway	0.0
+Toll-like receptor 11 signaling::toll-like receptor 11 signaling pathway	0.0
+Toll-like receptor 12 signaling::toll-like receptor 12 signaling pathway	0.0
+Toll-like receptor 13 signaling::toll-like receptor 13 signaling pathway	0.0
+Toll-like receptor 21 signaling::toll-like receptor 21 signaling pathway	0.0
+Oncostatin-M receptor signaling::oncostatin-M-mediated signaling pathway	0.0
+Thrombopoietin receptor signaling::thrombopoietin-mediated signaling pathway	0.0
+Vascular endothelial growth factor receptor signaling::vascular endothelial growth factor receptor signaling pathway	0.28
+WNT-Beta-catenin signaling pathway::Wnt signaling pathway	0.24497991967871485
+Notch receptor signaling::Notch signaling pathway	0.17293233082706766
+Interferon signaling::type I interferon signaling pathway	0.2328767123287671
+Interleukin 1 receptor signaling::interleukin-1-mediated signaling pathway	0.23809523809523808
+Interleukin 2 receptor signaling::interleukin-2-mediated signaling pathway	0.0
+Interleukin 3 receptor signaling::interleukin-3-mediated signaling pathway	0.0
+Interleukin 4 receptor signaling::interleukin-4-mediated signaling pathway	0.0
+Interleukin 5 receptor signaling::interleukin-5-mediated signaling pathway	0.0
+Interleukin 6 receptor signaling::interleukin-6-mediated signaling pathway	0.0
+Interleukin 7 receptor signaling::interleukin-7-mediated signaling pathway	0.0
+Interleukin 8 receptor signaling::interleukin-8-mediated signaling pathway	0.0
+Interleukin 9 receptor signaling::interleukin-9-mediated signaling pathway	0.0
+Interleukin 11 receptor signaling::interleukin-11-mediated signaling pathway	0.0
+Interleukin 12 receptor signaling::interleukin-12-mediated signaling pathway	0.0
+Interleukin 13 receptor signaling::interleukin-13-mediated signaling pathway	0.0
+Interleukin 15 receptor signaling::interleukin-15-mediated signaling pathway	0.0
+Interleukin 17 receptor signaling::interleukin-17-mediated signaling pathway	0.0
+Interleukin 18 receptor signaling::interleukin-18-mediated signaling pathway	0.0
+Interleukin 21 receptor signaling::interleukin-21-mediated signaling pathway	0.0
+Interleukin 23 receptor signaling::interleukin-23-mediated signaling pathway	0.0
+Interleukin 27 receptor signaling::interleukin-27-mediated signaling pathway	0.0
+Interleukin 32 receptor signaling::interleukin-32-mediated signaling pathway	0.0
+Interleukin 33 receptor signaling::interleukin-33-mediated signaling pathway	0.0
+Interleukin 35 receptor signaling::interleukin-35-mediated signaling pathway	0.0
+T cell receptor signaling::T cell receptor signaling pathway	0.0
+Serotonin-mediated control of postsynaptic potential::serotonin receptor signaling pathway	0.6428571428571429
+Cardiomyocyte action potential generation and propagation::cardiac muscle cell action potential	0.08823529411764706
+Cardiomyocyte depolarization during action potential::membrane depolarization during cardiac muscle cell action potential	0.07142857142857142
+Cardiomyocyte repolarization during action potential and hyperpolarization::membrane repolarization during cardiac muscle cell action potential	0.18181818181818182
+Cardiomyocyte pacemaker current generation::SA node cell action potential	0.0
+Structural golgi apparatus organization::Golgi organization	0.09230769230769231
+Mitochondrial fusion::mitochondrial fusion	0.22727272727272727
+Mitochondrial fission::mitochondrial fission	0.32
+Mitochondrial transport::mitochondrion transport along microtubule	0.1875
+Mitochondrial transport::axon transport of mitochondrion	0.0
+Mitochondrial transport::mitochondrion migration along actin filament	0.0
+Mitochondrial cristae dynamics::cristae formation	0.0
+Peroxisomal transport::peroxisome transport along microtubule	0.0
+Cell cycle and cell division::cell cycle	0.0
+Mitotic cell cycle checkpoints::cell cycle checkpoint	0.0872093023255814
+Restriction point::mitotic G1/S transition checkpoint	0.08695652173913043
+G2 M transition checkpoint::mitotic G2/M transition checkpoint	0.07142857142857142
+Metaphase to anaphase checkpoint::mitotic spindle checkpoint	0.23728813559322035
+Cell cycle arrest in response to DNA damage::mitotic DNA damage checkpoint	0.06779661016949153
+Mitotic spindle assembly::mitotic spindle assembly	0.0
+Mitotic spindle assembly::mitotic spindle elongation	0.0
+Mitotic spindle assembly::mitotic spindle stabilization	0.0
+Mitotic spindle disassembly::mitotic spindle disassembly	0.0
+Mitotic spindle disassembly::mitotic spindle microtubule depolymerization	0.0
+Eukaryotic kinetochore dynamics::attachment of mitotic spindle microtubules to kinetochore	0.0
+Sister chromatid cohesion::mitotic sister chromatid cohesion	0.15789473684210525
+Sister chromatid segregation::mitotic sister chromatid segregation	0.04
+Centrosome cycle::centriole assembly	0.08928571428571429
+Centrosome cycle::centrosome duplication	0.06086956521739131
+Centrosome cycle::centrosome cycle	0.0
+Centrosome duplication::centriole replication	0.25
+Centrosome maturation::centriole elongation	0.0
+Centrosome separation::centrosome separation	0.0
+Cytokinesis::cytokinesis	0.1592920353982301
+Contractile ring formation::actomyosin contractile ring assembly	0.0
+Contractile ring constriction::actomyosin contractile ring contraction	0.0
+Intracellular bridge assembly::cleavage furrow formation	0.0
+Intracellular bridge abscission::cleavage furrow ingression	0.0
+Eukaryotic DNA replication::nuclear DNA replication	0.0
+DNA replication initiation::nuclear cell cycle DNA replication initiation	0.0
+Prereplicative complex formation::pre-replicative complex assembly	0.0
+DNA single-strand break repair::single strand break repair	0.1282051282051282
+Mismatch repair::mismatch repair	0.2857142857142857
+Base excision repair::base-excision repair	0.38596491228070173
+Nucleotide excision repair::nucleotide-excision repair	0.3076923076923077
+Nucleotide excision repair::preincision complex assembly	0.0
+DNA double-strand break repair::double-strand break repair	0.19047619047619047
+Non-homologous end joining DSB repair::double-strand break repair via classical nonhomologous end joining	0.0
+Homologous recombination DSB repair::double-strand break repair via homologous recombination	0.25263157894736843
+Alternative end joining DSB repair::double-strand break repair via alternative nonhomologous end joining	0.0
+Single strand annealing DSB repair::double-strand break repair via single-strand annealing	0.0
+DNA interstrand cross-links repair::interstrand cross-link repair	0.0
+Mitochondrial DNA replication::mitochondrial DNA replication	0.0
+Mitochondrial DNA repair::mitochondrial DNA repair	0.0
+Mitochondrial DNA repair::mitochondrial double-strand break repair	0.0
+Nuclear protein export::protein export from nucleus	0.07407407407407407
+Nuclear protein import::protein import into nucleus	0.039473684210526314
+Protein import accross outer mitochondrial membrane machinery::protein import into mitochondrial intermembrane space	0.0
+Protein import accross outer mitochondrial membrane machinery::protein import into mitochondrial outer membrane	0.0
+Protein import accross inner mitochondrial membrane machinery::protein import into mitochondrial matrix	0.0
+Protein import accross inner mitochondrial membrane machinery::inner mitochondrial membrane organization	0.14285714285714285
+Protein import accross inner mitochondrial membrane machinery::protein import into mitochondrial inner membrane	0.0
+Anterograde vesicle traffic from ER to Golgi::vesicle fusion with Golgi cis cisterna membrane	0.0
+Anterograde vesicle traffic from ER to Golgi::ER to Golgi vesicle-mediated transport	0.1746031746031746
+Vesicle biogenesis at ER membrane::COPII-coated vesicle budding	0.0
+Retrograde vesicle traffic from Golgi to ER::retrograde vesicle-mediated transport	0.0
+Retrograde vesicle traffic from Golgi to ER::Golgi to ER	0.0
+Vesicle biogenesis at cis-Golgi membrane::COPI coating of Golgi vesicle	0.0
+Vesicle biogenesis at cis-Golgi membrane::cis-Golgi to rough ER	0.0
+Vesicle biogenesis at cis-Golgi membrane:: Golgi vesicle budding	0.0
+Microtubule assistance of vesicle traffic between Golgi and ER::vesicle transport along microtubule	0.1
+Clathrin-mediated vesicle traffic from TGN to endosomal lysosomal system::Golgi to endosome transport	0.0
+Clathrin-mediated vesicle traffic from TGN to endosomal lysosomal system::Golgi to lysosome transport	0.0
+Clathrin-mediated vesicle traffic from TGN to endosomal lysosomal system::trans-Golgi network to recycling endosome transport	0.0
+Clathrin-mediated vesicle traffic from TGN to endosomal lysosomal system::clathrin coating of Golgi vesicle	0.0
+Clathrin-mediated vesicle traffic from TGN to endosomal lysosomal system::trans-Golgi to endosome targeting	0.0
+Clathrin-mediated vesicle traffic from TGN to lysosome::Golgi to lysosome transport	0.0
+Clathrin-mediated vesicle traffic from TGN to lysosome::clathrin coating of Golgi vesicle	0.0
+Retrograde vesicle traffic from endosome to TGN::retrograde transport	0.0
+Retrograde vesicle traffic from endosome to TGN::endosome to Golgi	0.0
+Vesicle transport within the Golgi::intra-Golgi vesicle-mediated transport	0.0
+Vesicle transport within the Golgi::COPI coating of Golgi vesicle	0.0
+Vesicle transport within the Golgi::inter-Golgi cisterna	0.0
+Vesicle exocytosis::exocytosis	0.15467625899280577
+Microtubule-based secretory vesicle traffic::Golgi to plasma membrane transport	0.0
+Microtubule-based secretory vesicle traffic::Golgi to secretory granule transport	0.0
+Microtubule-based secretory vesicle traffic::vesicle transport along microtubule	0.0
+Vesicle tethering at plasma membrane::vesicle tethering involved in exocytosis	0.0
+Vesicle tethering at plasma membrane::vesicle docking involved in exocytosis	0.10810810810810811
+Vesicle fusion with plasma membrane::synaptic vesicle fusion to presynaptic membrane	0.0
+Exosome secretion::exosomal secretion	0.0
+Lipid droplet dynamics::lipid storage	0.13725490196078433
+Endocytic pathway::plasma membrane to endosome transport	0.0
+Endocytic pathway::endocytic recycling	0.056338028169014086
+Endocytic pathway::retrograde transport	0.0
+Endocytic pathway::endosome to plasma membrane	0.0
+Endocytic pathway::vesicle targeting	0.0
+Endocytic pathway::plasma membrane to endosome	0.0
+Endocytic pathway::plasma membrane to endosome transport	0.0
+Endocytic pathway::endocytic recycling	0.056338028169014086
+Endocytic pathway::endocytic import into cell	0.0
+Endocytic pathway::ubiquitin-dependent endocytosis	0.0
+Endocytic pathway::synaptic vesicle recycling via endosome	0.0
+Endocytic pathway::early endosome to recycling endosome transport	0.0
+Caveolin-mediated endocytosis::caveolin-mediated endocytosis	0.0
+Clathrin-mediated endocytosis::clathrin-mediated endocytosis	0.0
+Early endosome dynamics::endosome organization	0.0625
+Late endosome dynamics::endosome organization	0.030303030303030304
+Recycling endosome dynamics::endosome organization	0.03389830508474576
+Multivesicular body dynamics::multivesicular body organization	0.0
+Multivesicular body dynamics::multivesicular body sorting pathway	0.0
+Multivesicular body dynamics::ubiquitin-independent protein catabolic process via the multivesicular body sorting pathway	0.0
+Retrograde vesicle traffic from plasma membrane to TGN::retrograde transport	0.0
+Retrograde vesicle traffic from plasma membrane to TGN::plasma membrane to Golgi	0.0
+Phagocytosis::phagosome maturation	0.01639344262295082
+Phagocytosis::phagosome-lysosome docking	0.0
+Antigen presentation via MHC class II molecules::antigen processing and presentation following receptor mediated endocytosis	0.0
+Nucleosome assembly::nucleosome assembly	0.1574074074074074
+Nucleosome disassembly::nucleosome disassembly	0.20689655172413793
+Histone methylation::histone methylation	0.0
+Histone demethylation::histone demethylation	0.0
+Histone acetylation::histone acetylation	0.0
+Histone deacetylation::histone acetylation	0.0
+Histone phosphorylation::histone phosphorylation	0.0
+Histone dephosphorylation::histone dephosphorylation	0.0
+Histone ubiquitination::histone ubiquitination	0.0
+Histone deubiquitination::histone deubiquitination	0.0
+Transcription::mRNA transcription	0.0
+Transcription by rna polymerase II::RNA Polymerase II core complex assembly	0.0
+Regulation of RNA polymerase II by elongation factors::transcription elongation from RNA polymerase II promoter	0.20930232558139536
+Nuclear mRNA export::mRNA export from nucleus	0.2054794520547945
+Pre-mRNA splicing::generation of catalytic spliceosome for first transesterification step	0.0
+Pre-mRNA splicing::generation of catalytic spliceosome for second transesterification step	0.0
+snRNA transcription::snRNA transcription	0.2
+Cytoplasmic core snRNP assembly::cytoplasmic U snRNP body assembly	0.0
+Target RNA degradation, inhibition or destabilization by RICS or RITS::small RNA loading onto RISC	0.0
+Ribonucleoprotein assembly::ribonucleoprotein complex assembly	0.006993006993006993
+Ribonucleoprotein nuclear export::ribonucleoprotein complex export from nucleus	0.0
+Ribonucleoprotein nuclear re-import::ribonucleoprotein complex import into nucleus	0.0
+mRNA translation::translation	0.006920415224913495
+Translation initiation::cytoplasmic translational initiation	0.0
+Translation elongation::cytoplasmic translational elongation	0.0
+Translation termination::cytoplasmic translational termination	0.0
+tRNA amino acid activation::tRNA aminoacylation for protein translation	0.0
+Mitochondrial translation::mitochondrial translation	0.0
+Mitochondrial translation initiation::mitochondrial translational initiation	0.0
+Mitochondrial translation elongation::mitochondrial translational elongation	0.0
+Mitochondrial translation termination::mitochondrial translational termination	0.0
+Mitochondrial tRNA amino acid activation::tRNA aminoacylation for mitochondrial protein translation	0.0
+Complement pathway and regulation::complement activation	0.13227513227513227
+Complement pathway and regulation::regulation of complement activation	0.2692307692307692
+Classical complement pathway::complement activation	0.045714285714285714
+Classical complement pathway::classical pathway	0.0
+Alternative complement pathway::complement activation	0.045454545454545456
+Alternative complement pathway::alternative pathway	0.0
+Lectin complement pathway::complement activation	0.03389830508474576
+Lectin complement pathway::lectin pathway	0.0
+Membrane attack complex formation::activation of membrane attack complex	0.0
+Endogenous control of complement activity::negative regulation of complement activation	0.14285714285714285
+Endoplasmic reticulum quality control system::ERAD pathway	0.0
+GPI-anchor synthesis and attachment to protein::GPI anchor biosynthetic process	0.3333333333333333
+GPI-anchor synthesis and attachment to protein::attachment of GPI anchor to protein	0.0
+Post-translational protein modification in Mitochondria::mitochondrial protein processing	0.0
+Mitochondrail unfolded protein response::mitochondrial unfolded protein response	0.0
+Cortical cytoskeleton dynamics::cortical actin cytoskeleton organization	0.043478260869565216
+Cortical actin cytoskeleton dynamics::cortical actin cytoskeleton organization	0.0
+Actin polymerization::actin filament polymerization	0.05263157894736842
+Actin filament severing and depolymerization::actin filament depolymerization	0.14285714285714285
+Actin filament severing and depolymerization::actin filament severing	0.0
+Actin filament depolymerization::actin filament depolymerization	0.0
+Actin filament severing::actin filament severing	0.0
+Actin filament nucleation and branching::actin filament branching	0.0
+Actin filament nucleation and branching::actin nucleation	0.16666666666666666
+Actin filament nucleation::actin nucleation	0.11764705882352941
+Actin filament branching::actin filament branching	0.0
+Actin filament capping::actin filament capping	0.21052631578947367
+Actin filament plus end capping::barbed-end actin filament capping	0.0
+Actin filament minus end capping::pointed-end actin filament capping	0.0
+Actin filament bundling and crosslinking::actin crosslink formation	0.0
+Actin filament bundling and crosslinking::actin filament bundle assembly	0.11940298507462686
+Microtubule dynamics::microtubule cytoskeleton organization	0.05514705882352941
+Microtubule nucleation::microtubule nucleation	0.0
+Microtubule polymerization::microtubule polymerization	0.0
+Microtubule crosslinking and bundling::microtubule bundle formation	0.11904761904761904
+Microtubule severing::microtubule severing	0.0
+Microtubule organization center dynamics::microtubule organizing center organization	0.0
+Centrosome organization::centrosome organization	0.1721311475409836
+Cytoplasmic intermediate filament and septin dynamics::intermediate filament cytoskeleton organization	0.0967741935483871
+Vimentin-like intermediate filament dynamics::intermediate filament cytoskeleton organization	0.07692307692307693
+Desmin dynamics::intermediate filament cytoskeleton organization	0.0
+Glial fibrillary acidic protein dynamics::intermediate filament cytoskeleton organization	0.0
+Peripherin dynamics::intermediate filament cytoskeleton organization	0.0
+Vimentin dynamics::intermediate filament cytoskeleton organization	0.0
+Epithelial intermediate filament dynamics::intermediate filament cytoskeleton organization	0.08333333333333333
+Acidic keratin dynamics::intermediate filament cytoskeleton organization	0.0
+Neutral and basic keratin dynamics::intermediate filament cytoskeleton organization	0.0
+Axonal intermediate filament dynamics::intermediate filament cytoskeleton organization	0.1282051282051282
+Neurofilament dynamics::intermediate filament cytoskeleton organization	0.0
+Rolling cell adhesion::leukocyte tethering or rolling	0.09090909090909091
+Cell-cell junction organization::cell-cell adhesion	0.10600706713780919
+Adherens junction organization::adherens junction organization	0.14018691588785046
+Desmosome organization::desmosome organization	0.20833333333333334
+Tight junction organization::bicellular tight junction assembly	0.0
+Gap junction organization::gap junction assembly	0.21739130434782608
+Gap junction organization::bicellular tight junction assembly	0.0
+Cell-matrix adhesion organization::cell-matrix adhesion	0.09848484848484848
+Hemidesmosome organization::hemidesmosome assembly	0.46153846153846156
+Eukaryotic intraflagellar transport::intraciliary transport	0.3170731707317073
+Filopodium organization::actin filament bundle assembly	0.02666666666666667
+Filopodium organization::actin filament bundle organization	0.02666666666666667
+Lamellipodium organization::actin filament network formation	0.0
+Apoptotic mitochondrial fragmentation::mitochondrial fragmentation involved in apoptotic process	0.0
+Connection of muscle sarcomere to extracellular matrix::smooth muscle cell-matrix adhesion	0.0
+Thin myofilament organization::muscle thin filament assembly	0.0
+Sarcoplasmic reticulum organization::sarcomere organization	0.02702702702702703
+Myofibril formation::myofibril assembly	0.0967741935483871
+Mitophagy::activation of mitophagy in response to mitochondrial depolarization	0.0
+Mitophagy::macromitophagy	0.0
+Mitophagy::micromitophagy	0.0
+Proteasomal core organization::proteasomal protein catabolic process	0.004694835680751174
+Proteasomal core organization::proteasome core complex assembly	0.0
+Proteasomal regulatory particle organization::proteasome regulatory particle assembly	0.0
+Glycolysis::canonical glycolysis	0.0
+Gluconeogenesis::gluconeogenesis	0.0
+Transmembrane glucose transport::glucose import across plasma membrane	0.0
+Glycogenolysis::glycolysis from storage polysaccharide through glucose-1-phosphate	0.0
+Pentose phosphate pathway::pentose-phosphate shunt	0.25
+Oxidative phase of pentose phosphate pathway::pentose-phosphate shunt	0.0
+Oxidative phase of pentose phosphate pathway::oxidative branch	0.0
+Non-oxidative phase of pentose phosphate pathway::pentose-phosphate shunt	0.0
+Non-oxidative phase of pentose phosphate pathway::non-oxidative branch	0.0
+UDP-Glucose metabolism::UDP-glucose metabolic process	0.0
+Electron transport chain::mitochondrial ATP synthesis coupled electron transport	0.0
+Electron transport chain::oxidative phosphorylation	0.0
+Malate-aspartate shuttle::malate-aspartate shuttle	0.0
+Glycerol-3-phosphate shuttle::glycerophosphate shuttle	0.0
+Mitochondrial FAD transmembrane transport::mitochondrial FAD transmembrane transport	0.0
+Mitochondrial NAD transmembrane transport::mitochondrial NAD transmembrane transport	0.0
+Urea cycle::urea cycle	0.7272727272727273
+Mitochondrial urea cycle reactions::urea cycle	0.0
+Cytoplasmic urea cycle reactions::urea cycle	0.0
+Free radical generation for respiratory burst::respiratory burst	0.13636363636363635
+Free fatty acid release from chylomicrons::chylomicron remodeling	0.0
+Chylomicron remnant clearance::chylomicron remnant clearance	0.0
+Free fatty acid release from VLDL particles::very-low-density lipoprotein particle remodeling	0.0
+IDL particle clearance::intermediate-density lipoprotein particle clearance	0.0
+IDL particle remodeling to LDL particle::intermediate-density lipoprotein particle remodeling	0.0
+Fatty acid metabolism::fatty acid metabolic process	0.17288135593220338
+Beta-oxidation::fatty acid beta-oxidation	0.2909090909090909
+Mitochondrial beta-oxidation::fatty acid beta-oxidation	0.0
+Peroxisomal beta-oxidation::fatty acid beta-oxidation	0.0
+Fatty acid omega-hydroxylation::fatty acid omega-oxidation	0.0
+Fatty acid transport by Carnitine shuttle::carnitine shuttle	0.3333333333333333
+Fatty acid elongation::fatty acid elongation	0.7
+Desaturation of fatty acids::fatty acid metabolic process	0.02127659574468085
+Eicosanoid metabolism::icosanoid metabolic process	0.16129032258064516
+Prostanoid metabolism::prostanoid metabolic process	0.0
+Leukotriene metabolism::leukotriene metabolic process	0.0
+Epoxide metabolism::epoxygenase P450 pathway	0.0
+Triacylglycerol metabolism and transport::triglyceride metabolic process	0.09574468085106383
+Triacylglycerol metabolism and transport::triglyceride transport	0.0
+Triacylglycerol metabolism::triglyceride metabolic process	0.10227272727272728
+Triacylglycerol biosynthesis::triglyceride biosynthetic process	0.0
+Triacylglycerol catabolism::triglyceride catabolic process	0.0
+Triacylglycerol transport by lipoproteins::triglyceride transport	0.0
+Triacylglycerol hydrolysis and mobilization::triglyceride mobilization	0.0
+Extracellular triacylglycerol hydrolysis::triglyceride mobilization	0.0
+Intracellular triacylglycerol mobilization::triglyceride mobilization	0.0
+Membrane lipid metabolism::membrane lipid metabolic process	0.024242424242424242
+Phosphoglyceride biosynthesis::glycerophospholipid biosynthetic process	0.07303370786516854
+Phosphatidylcholine and phosphatidylethanolamine biosynthesis via Kennedy pathway::CDP-choline pathway	0.0
+Phosphatidylcholine and phosphatidylethanolamine biosynthesis via Kennedy pathway::phosphatidylcholine biosynthesis from choline and CDP-diacylglycerol	0.0
+Phosphatidylcholine, phoshpatidylethanolamine and phosphatidylserine interconversion::phosphatidylcholine biosynthesis from phosphatidylethanolamine	0.0
+Phosphatidylcholine, phoshpatidylethanolamine and phosphatidylserine interconversion::phosphatidylserine biosynthetic process	0.0
+Phosphatidylinositol biosynthesis::phosphatidylinositol biosynthetic process	0.0
+CDP-diacylglycerol biosynthesis::CDP-diacylglycerol biosynthetic process	0.0
+Cardiolipin biosynthesis::cardiolipin biosynthetic process	0.0
+Sphingolipid metabolism::sphingolipid metabolic process	0.203125
+Ceramide biosynthesis::ceramide metabolic process	0.0
+Ganglioside biosynthesis::Ganglioside biosynthesis	0.0
+Sphingomyelin metabolism::Sphingomyelin metabolism	0.0
+Vitamin D metabolism::vitamin D metabolic process	0.3333333333333333
+Cholesterol synthesis::cholesterol biosynthetic process	0.4473684210526316
+Cholesterol esterification::cholesterol esterification	0.0
+Cholesterol-sensitive control of SREBP activation::SREBP signaling pathway	0.0
+Steroid hormone synthesis::steroid biosynthetic process	0.15315315315315314
+Progestagen synthesis::progesterone biosynthetic process	0.0
+Glucocorticoid and Mineralocorticoid synthesis::glucocorticoid biosynthetic process	0.3
+Glucocorticoid and Mineralocorticoid synthesis::mineralocorticoid biosynthetic process	0.0
+Androgen synthesis::androgen biosynthetic process	0.4444444444444444
+Estrogen synthesis::estrogen biosynthetic process	0.16666666666666666
+Heme synthesis::hemoglobin biosynthetic process	0.0
+Cellular iron uptake::mitochondrial iron ion transport	0.0
+Regulation of T cell differentiation::T cell differentiation	0.0
+Regulation of myocyte cell differentiation::myoblast differentiation	0.0
+Regulation of cardiomyocyte cell differentiation::cardiac muscle cell differentiation	0.0
+Regulation of neuron cell differentiation::neuron differentiation	0.0
+Mitochondrial transmembrane calcium transport::mitochondrial calcium ion transport	0.0
+Mitochondria ER tethering::mitochondrion-ER tethering	0.0
+ncRNA transcription::ncRNA transcription	0.0
+cell quiescence::cell quiescence	0.0
+mitotic nuclear envelope reassembly::mitotic nuclear envelope reassembly	0.0
+lamin depolymerization::lamin depolymerization	0.0
+mitotic nuclear envelope reassembly::mitotic nuclear envelope reassembly	0.0
+mitotic nuclear envelope disassembly::mitotic nuclear envelope disassembly	0.0

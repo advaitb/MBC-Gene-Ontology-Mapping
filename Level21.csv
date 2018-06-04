@@ -1,0 +1,177 @@
+Process	Parent_process
+Actin filament dynamics	Cytoskeleton dynamics
+Ammonium metabolism	Amino acid metabolism
+Amyloid generation and aggregation	Extracellular matrix homeostasis
+Antigen presentation	Intracellular vesicle traffic
+Apoptosis	Regulated cell death
+Autophagy	Intracellular degradation pathways
+Basement membrane dynamics	Extracellular matrix homeostasis
+Blood protein dynamics	Coagulation cascade, complement system and blood protein dynamics
+Bombesin receptor signaling	Cellular communication
+Carbohydrate metabolism and transport	Energy generation and metabolism of cellular monomers
+Cardiomyocyte action potential generation and propagation	Neurotransmission
+Cell Scenescence	Cell cycle and cell division
+Cell-cell junction organization	Cell junction dynamics
+Cell-matrix adhesion organization	Cell junction dynamics
+Cellular antioxidant systems	Cellular redox homeostasis
+Cellular circadian clock dynamics at day	Cellular circadian clock dynamics
+Cellular circadian clock dynamics at night	Cellular circadian clock dynamics
+Cellular response to energy deprivation	Cellular response to stress
+Cellular response to hypoxia	Cellular response to stress
+Cellular response to oxidative stress	Cellular response to stress
+Cellular response to radiation	Cellular response to stress
+Centrosome cycle	Cell cycle and cell division
+Chromatin remodeling	Chromatin and histone dynamics
+Chromosome segregation by mitotic spindle	Cell cycle and cell division
+Clock mediated apoptosis	Circadian clock mediated cellular regulation
+Clock mediated control of cell differentiation	Circadian clock mediated cellular regulation
+Clock mediated control of cell division	Circadian clock mediated cellular regulation
+Clock mediated immune response	Circadian clock mediated cellular regulation
+Coagulation cascade and its regulation	Coagulation cascade, complement system and blood protein dynamics
+Collagen biosynthesis	Extracellular matrix homeostasis
+Complement pathway and regulation	Coagulation cascade, complement system and blood protein dynamics
+Control of postsynaptic potential	Neurotransmission
+Cortical cytoskeleton dynamics	Cytoskeleton dynamics
+Cytokinesis	Cell cycle and cell division
+Cytoplasmic intermediate filament and septin dynamics	Cytoskeleton dynamics
+Cytoplasmic post-translational protein modification	Posttranslational protein modification
+Degradation by lysosomal enzymes	Intracellular degradation pathways
+DNA double-strand break repair	DNA replication, recombination and repair
+DNA interstrand cross-links repair	DNA replication, recombination and repair
+DNA recombination	DNA replication, recombination and repair
+DNA single-strand break repair	DNA replication, recombination and repair
+Drug and toxin export	Cellular detoxification
+Elastogenesis	Extracellular matrix homeostasis
+Endocytic pathway	Intracellular vesicle traffic
+Endoplasmic reticulum and nuclear envelope organization	Organelle organization
+Endoplasmic reticulum membrane protein insertion and import	Transmembrane protein import and translocation
+Epidermal growth factor family signaling	Cellular communication
+Eukaryotic cilium and flagellum organization	Cellular protrusion organization
+Eukaryotic DNA replication	DNA replication, recombination and repair
+Extracellular matrix breakdown	Extracellular matrix homeostasis
+Fatty acid metabolism	Lipid metabolism
+Fibronectin matrix dynamics	Extracellular matrix homeostasis
+Filopodium and lamellipodium organization	Cellular protrusion organization
+Free radical generation for respiratory burst	Cellular redox homeostasis
+Gastrointestinal hormone signaling	Cellular communication
+Glycosaminoglycan synthesis	Extracellular matrix homeostasis
+Heme and hemoglobin metabolism	Iron, heme and hemoglobin homeostasis
+Histone modification	Chromatin and histone dynamics
+Immune receptor Signaling	Cellular communication
+Interferon signaling	Cellular communication
+Interleukin receptor signaling	Cellular communication
+Interphase nucleus and nuclear chromatin organization	Organelle organization
+Intracellular common signaling cascades of multiple pathways	Cellular communication
+Iron homeostasis	Iron, heme and hemoglobin homeostasis
+Kinin–kallikrein system	Cellular communication
+Lipid droplet dynamics	Intracellular vesicle traffic
+lncRNA mediated apoptosis	RNA mediated cellular regulation
+lncRNA mediated cell differentiation	RNA mediated cellular regulation
+lncRNA regulated transcription	RNA mediated cellular regulation
+Matricellular protein signaling	Cellular communication
+Mature alveolar cell differentiation markers	Cell differentiation markers
+Mature Bone cell differentiation markers	Cell differentiation markers
+Mature germ cell differentiation markers	Cell differentiation markers
+Mature Hematopoietic stem cell differentiation markers	Cell differentiation markers
+Mature kidney cell differentiation markers	Cell differentiation markers
+Mature liver cell differentiation markers	Cell differentiation markers
+Mature neuronal cell differentiation markers	Cell differentiation markers
+Mature retinal cell differentiation markers	Cell differentiation markers
+Mechanotransduction	Cellular communication
+Membrane lipid metabolism	Lipid metabolism
+Metabolism and transport of cholesterol, steroids and bile acids	Lipid metabolism
+Metabolism of essential amino acids	Amino acid metabolism
+Metabolism of fat-soluble vitamins	Vitamin metabolism
+Metabolism of glutamate and histidine products	Amino acid metabolism
+Metabolism of non-essential amino acids	Amino acid metabolism
+Metabolism of phenylalanine products	Amino acid metabolism
+Metabolism of purines and pyrimidines	Nucleotide metabolism
+Metabolism of tryptophan products	Amino acid metabolism
+Metabolism of water-soluble vitamins	Vitamin metabolism
+Metal ion response	Cellular detoxification
+Microtubule dynamics	Cytoskeleton dynamics
+Microtubule organization center dynamics	Cytoskeleton dynamics
+miRNA and endogenous siRNA biogenesis	Gene expression
+miRNA mediated gene regulation	RNA mediated cellular regulation
+Mitochondrial dynamics	Organelle organization
+Mitochondrial energy production	Energy generation and metabolism of cellular monomers
+Mitochondrial protein import machinery	Transmembrane protein import and translocation
+Mitochondrial transcription	Mitochondrial gene expression
+Mitochondrial translation	Mitochondrial gene expression
+Mitotic cell cycle checkpoints	Cell cycle and cell division
+mRNA capping, editing, polyadenylation and nuclear export	Gene expression
+mRNA translation	Gene expression
+Myofibril formation and organization	Cellular contraction
+Necroptosis	Regulated cell death
+Neuronal action potential generation and propagation	Neurotransmission
+Neuronal signaling pathways	Cellular communication
+Non-Canonical autophagy	Intracellular degradation pathways
+Non-vesicular lipid transport	Lipid metabolism
+One carbon metabolism	Amino acid metabolism
+Pattern recognition signaling	Cellular communication
+Peroxisomal protein import machinery	Transmembrane protein import and translocation
+pH homeostasis	Iron, heme and hemoglobin homeostasis
+Phase I biotransformation	Cellular detoxification
+Phase II biotransformation	Cellular detoxification
+Plasma lipoprotein assembly	Plasma Lipoprotein dynamics
+Plasma lipoprotein clearance	Plasma Lipoprotein dynamics
+Plasma lipoprotein remodeling	Plasma Lipoprotein dynamics
+Plasma membrane microdomains	Organelle organization
+Post-translational protein modification and quality control during biosynthetic-secretory pathway	Posttranslational protein modification
+Post-translational protein modification in Mitochondria	Posttranslational protein modification
+Pre-mRNA splicing	Gene expression
+Prostanoid receptor signaling	Cellular communication
+Protein prenylation	Posttranslational protein modification
+Protein transport across the nuclear membrane	Transmembrane protein import and translocation
+Proteoglycan synthesis	Extracellular matrix homeostasis
+Purinergic signaling	Cellular communication
+Regulation of  neuronal or neuroglial cell differentiation	Regulation of cell differentiation
+Regulation of alveolar cell differentiation	Regulation of cell differentiation
+Regulation of bone cell differentiation	Regulation of cell differentiation
+Regulation of cell number	Regulation of cell morphogenesis
+Regulation of cell shape	Regulation of cell morphogenesis
+Regulation of cell size	Regulation of cell morphogenesis
+Regulation of cell volume	Regulation of cell morphogenesis
+Regulation of gonadogenesis	Regulation of cell differentiation
+Regulation of hematopoiesis	Regulation of cell differentiation
+Regulation of kidney cell differentiation	Regulation of cell differentiation
+Regulation of liver cell differentiation	Regulation of cell differentiation
+Regulation of mRNA fate by exon-junction complex	Gene expression
+Regulation of myocyte cell differentiation	Regulation of cell differentiation
+Regulation of retinal cell differentiation	Regulation of cell differentiation
+Regulation of synaptic plasticity	Neurotransmission
+Response to heat stress	Cellular response to stress
+Response to hypoxia	Cellular redox homeostasis
+Ribonuclease P mediated post-transcriptional modification	RNA mediated cellular regulation
+Ribonucleoprotein biogenesis	Gene expression
+RNA surveillance and degradation	Gene expression
+Rolling cell adhesion	Cell junction dynamics
+ROS detoxification	Cellular detoxification
+shRNA mediated gene regulation	RNA mediated cellular regulation
+Signaling by extracellular matrix components	Cellular communication
+Signaling pathways involved in glucose and lipid homeostasis	Cellular communication
+Signaling pathways involved in hematopoiesis	Cellular communication
+Signaling pathways regulating calcium homeostasis	Cellular communication
+Signaling pathways regulating cardiovascular homeostasis	Cellular communication
+Signaling pathways regulating steroid and sex hormone synthesis	Cellular communication
+Signaling pathways regulating water homeostasis	Cellular communication
+Signaling pathways that control cell proliferation and differentiation	Cellular communication
+siRNA mediated gene regulation	RNA mediated cellular regulation
+snoRNA mediated post-transcriptional modification	RNA mediated cellular regulation
+snRNA expression and spliceosome generation	Gene expression
+snRNA mediated post-transcriptional modification	RNA mediated cellular regulation
+Steroid and sex hormone signaling	Cellular communication
+Steroid hormone synthesis	Lipid metabolism
+Structural golgi apparatus organization	Organelle organization
+TGF-beta superfamily signaling	Cellular communication
+Thyroid hormone related signaling	Cellular communication
+TNF superfamily signaling	Cellular communication
+Transcription	Gene expression
+Transmembrane ion transport involved in membrane potential generation	Membrane transport of small molecules and electrical properties of membranes
+Transmembrane water and ion transport not involved in membrane potential generatation	Membrane transport of small molecules and electrical properties of membranes
+Triacylglycerol metabolism and transport	Lipid metabolism
+Ubiquitin mediated proteasomal degradation	Intracellular degradation pathways
+Vesicle exocytosis	Intracellular vesicle traffic
+Vesicle traffic between ER and TGN	Intracellular vesicle traffic
+Vesicle traffic between TGN and endosome	Intracellular vesicle traffic
+Visual phototransduction	Cellular communication

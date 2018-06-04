@@ -1,0 +1,255 @@
+Level1ProcessMBCO	JI
+Cellular communication	0.07142857142857142
+Cellular communication	0.22916666666666666
+Cellular communication	0.020833333333333332
+Cellular communication	0.0
+Cellular communication	0.2
+Cellular communication	0.0
+Cellular communication	0.0
+Cellular communication	0.0
+Cellular communication	0.0
+Cellular communication	0.0
+Cellular communication	0.48
+Cellular communication	0.1323529411764706
+Cellular communication	0.0
+Cellular communication	0.08333333333333333
+Cellular communication	0.0
+Cellular communication	0.3902439024390244
+Cellular communication	0.0
+Cellular communication	0.21794871794871795
+Cellular communication	0.06569343065693431
+Cellular communication	0.25
+Cellular communication	0.1349206349206349
+Cellular communication	0.0
+Cellular communication	0.0
+Cellular communication	0.28
+Cellular communication	0.24497991967871485
+Cellular communication	0.17293233082706766
+Cellular communication	0.2328767123287671
+Cellular communication	0.23809523809523808
+Cellular communication	0.0
+Cellular communication	0.0
+Cellular communication	0.0
+Cellular communication	0.0
+Cellular communication	0.0
+Cellular communication	0.0
+Cellular communication	0.0
+Cellular communication	0.0
+Cellular communication	0.0
+Cellular communication	0.0
+Cellular communication	0.0
+Cellular communication	0.0
+Cellular communication	0.0
+Cellular communication	0.0
+Cellular communication	0.0
+Cellular communication	0.0
+Cellular communication	0.0
+Cellular communication	0.0
+Neurotransmission	0.6428571428571429
+Neurotransmission	0.08823529411764706
+Neurotransmission	0.07142857142857142
+Neurotransmission	0.18181818181818182
+Neurotransmission	0.0
+Organelle organization	0.09230769230769231
+Organelle organization	0.22727272727272727
+Organelle organization	0.32
+Organelle organization	0.1875
+Organelle organization	0.0
+Organelle organization	0.0
+Cell cycle and cell division	0.0872093023255814
+Cell cycle and cell division	0.08695652173913043
+Cell cycle and cell division	0.07142857142857142
+Cell cycle and cell division	0.23728813559322035
+Cell cycle and cell division	0.06779661016949153
+Cell cycle and cell division	0.0
+Cell cycle and cell division	0.0
+Cell cycle and cell division	0.0
+Cell cycle and cell division	0.0
+Cell cycle and cell division	0.0
+Cell cycle and cell division	0.0
+Cell cycle and cell division	0.15789473684210525
+Cell cycle and cell division	0.04
+Cell cycle and cell division	0.08928571428571429
+Cell cycle and cell division	0.06086956521739131
+Cell cycle and cell division	0.0
+Cell cycle and cell division	0.25
+Cell cycle and cell division	0.0
+Cell cycle and cell division	0.0
+Cell cycle and cell division	0.1592920353982301
+Cell cycle and cell division	0.0
+Cell cycle and cell division	0.0
+Cell cycle and cell division	0.0
+Cell cycle and cell division	0.0
+DNA replication, recombination and repair	0.0
+DNA replication, recombination and repair	0.0
+DNA replication, recombination and repair	0.1282051282051282
+DNA replication, recombination and repair	0.2857142857142857
+DNA replication, recombination and repair	0.38596491228070173
+DNA replication, recombination and repair	0.3076923076923077
+DNA replication, recombination and repair	0.0
+DNA replication, recombination and repair	0.19047619047619047
+DNA replication, recombination and repair	0.0
+DNA replication, recombination and repair	0.25263157894736843
+DNA replication, recombination and repair	0.0
+DNA replication, recombination and repair	0.0
+DNA replication, recombination and repair	0.0
+Transmembrane protein import and translocation	0.07407407407407407
+Transmembrane protein import and translocation	0.039473684210526314
+Transmembrane protein import and translocation	0.0
+Transmembrane protein import and translocation	0.0
+Transmembrane protein import and translocation	0.0
+Transmembrane protein import and translocation	0.14285714285714285
+Transmembrane protein import and translocation	0.0
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.1746031746031746
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.1
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.15467625899280577
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.10810810810810811
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.13725490196078433
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.056338028169014086
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.056338028169014086
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.0625
+Intracellular vesicle traffic	0.030303030303030304
+Intracellular vesicle traffic	0.03389830508474576
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.0
+Intracellular vesicle traffic	0.0
+Chromatin and histone dynamics	0.1574074074074074
+Chromatin and histone dynamics	0.20689655172413793
+Gene expression	0.0
+Gene expression	0.0
+Gene expression	0.20930232558139536
+Gene expression	0.2054794520547945
+Gene expression	0.0
+Gene expression	0.0
+Gene expression	0.2
+Gene expression	0.0
+Gene expression	0.0
+Gene expression	0.006993006993006993
+Gene expression	0.0
+Gene expression	0.0
+Gene expression	0.006920415224913495
+Gene expression	0.0
+Gene expression	0.0
+Gene expression	0.0
+Gene expression	0.0
+Mitochondrial gene expression	0.0
+Coagulation cascade, complement system and blood protein dynamics	0.13227513227513227
+Coagulation cascade, complement system and blood protein dynamics	0.2692307692307692
+Coagulation cascade, complement system and blood protein dynamics	0.045714285714285714
+Coagulation cascade, complement system and blood protein dynamics	0.0
+Coagulation cascade, complement system and blood protein dynamics	0.045454545454545456
+Coagulation cascade, complement system and blood protein dynamics	0.0
+Coagulation cascade, complement system and blood protein dynamics	0.03389830508474576
+Coagulation cascade, complement system and blood protein dynamics	0.0
+Coagulation cascade, complement system and blood protein dynamics	0.0
+Coagulation cascade, complement system and blood protein dynamics	0.14285714285714285
+Posttranslational protein modification	0.0
+Posttranslational protein modification	0.3333333333333333
+Posttranslational protein modification	0.0
+Posttranslational protein modification	0.0
+Cytoskeleton dynamics	0.043478260869565216
+Cytoskeleton dynamics	0.05263157894736842
+Cytoskeleton dynamics	0.14285714285714285
+Cytoskeleton dynamics	0.0
+Cytoskeleton dynamics	0.0
+Cytoskeleton dynamics	0.16666666666666666
+Cytoskeleton dynamics	0.21052631578947367
+Cytoskeleton dynamics	0.0
+Cytoskeleton dynamics	0.11940298507462686
+Cytoskeleton dynamics	0.05514705882352941
+Cytoskeleton dynamics	0.0
+Cytoskeleton dynamics	0.11904761904761904
+Cytoskeleton dynamics	0.0
+Cytoskeleton dynamics	0.1721311475409836
+Cytoskeleton dynamics	0.0967741935483871
+Cytoskeleton dynamics	0.07692307692307693
+Cytoskeleton dynamics	0.08333333333333333
+Cytoskeleton dynamics	0.1282051282051282
+Cell junction dynamics	0.09090909090909091
+Cell junction dynamics	0.10600706713780919
+Cell junction dynamics	0.14018691588785046
+Cell junction dynamics	0.20833333333333334
+Cell junction dynamics	0.0
+Cell junction dynamics	0.21739130434782608
+Cell junction dynamics	0.0
+Cell junction dynamics	0.09848484848484848
+Cell junction dynamics	0.46153846153846156
+Cellular protrusion organization	0.3170731707317073
+Cellular protrusion organization	0.02666666666666667
+Cellular protrusion organization	0.02666666666666667
+Cellular protrusion organization	0.0
+Cellular contraction	0.0
+Cellular contraction	0.0
+Cellular contraction	0.02702702702702703
+Cellular contraction	0.0967741935483871
+Intracellular degradation pathways	0.0
+Intracellular degradation pathways	0.0
+Intracellular degradation pathways	0.0
+Intracellular degradation pathways	0.004694835680751174
+Intracellular degradation pathways	0.0
+Intracellular degradation pathways	0.0
+Energy generation and metabolism of cellular monomers	0.0
+Energy generation and metabolism of cellular monomers	0.25
+Energy generation and metabolism of cellular monomers	0.0
+Energy generation and metabolism of cellular monomers	0.0
+Amino acid metabolism	0.7272727272727273
+Cellular redox homeostasis	0.13636363636363635
+Lipid metabolism	0.17288135593220338
+Lipid metabolism	0.2909090909090909
+Lipid metabolism	0.0
+Lipid metabolism	0.3333333333333333
+Lipid metabolism	0.7
+Lipid metabolism	0.02127659574468085
+Lipid metabolism	0.16129032258064516
+Lipid metabolism	0.09574468085106383
+Lipid metabolism	0.0
+Lipid metabolism	0.10227272727272728
+Lipid metabolism	0.0
+Lipid metabolism	0.0
+Lipid metabolism	0.024242424242424242
+Lipid metabolism	0.07303370786516854
+Lipid metabolism	0.203125
+Lipid metabolism	0.3333333333333333
+Lipid metabolism	0.4473684210526316
+Lipid metabolism	0.0
+Lipid metabolism	0.0
+Lipid metabolism	0.15315315315315314
+Lipid metabolism	0.0
+Lipid metabolism	0.3
+Lipid metabolism	0.0
+Lipid metabolism	0.4444444444444444
+Lipid metabolism	0.16666666666666666
+Iron, heme and hemoglobin homeostasis	0.0
+Iron, heme and hemoglobin homeostasis	0.0
+Regulation of cell differentiation	0.0
+Regulation of cell differentiation	0.0
+Regulation of cell differentiation	0.0
